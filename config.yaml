@@ -1,0 +1,68 @@
+# This is the main configuration file for your Hugo website in YAML format.
+# You can find detailed documentation here: https://gohugo.io/getting-started/configuration/
+
+baseURL: "https://olympic-ridge-hoa.pages.dev/" # Replace with your final domain later
+languageCode: "en-us"
+title: "Olympic Ridge HOA"
+theme: ["PaperMod"]
+paginate: 10 # Number of posts to show on the homepage before pagination
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  # General site parameters
+  env: "production" # Set to "development" for development-specific features
+  description: "Official Website for the Olympic Ridge Homeowners Association in Belfair, WA"
+  author: "Olympic Ridge HOA Board"
+  defaultTheme: "light" # can be "light", "dark", or "auto"
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: true
+
+  homeInfoParams:
+    Title: "Welcome to Olympic Ridge"
+    Content: "This is the central hub for news, announcements, and resources for our community. We are dedicated to maintaining and improving our wonderful neighborhood."
+
+  profileMode:
+    enabled: false # Set to 'true' if you want a profile-style homepage instead of a list of posts
+
+  assets:
+    # You can disable parts of the theme you don't use to improve performance
+    disableFingerprinting: true
+
+# Main menu navigation
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: acc
+      name: ACC Request
+      url: /acc-request/
+      weight: 20
+    - identifier: documents
+      name: Document Library
+      url: /documents/
+      weight: 30
+    - identifier: calendar
+      name: Community Calendar
+      url: /calendar/
+      weight: 40
+    - identifier: contact
+      name: The Board & Contact
+      url: /contact/
+      weight: 50
+
+# Hugo will automatically generate a sitemap and robots.txt file
+enableRobotsTXT: true
+
