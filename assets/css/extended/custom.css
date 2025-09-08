@@ -1,0 +1,127 @@
+:root {
+    --gap: 24px !important;
+    --entry-rgb: 255, 255, 255;
+}
+
+.dark {
+    --entry-rgb: 46, 46, 51;
+}
+
+/*
+ * Apply the Inter font to the entire site.
+ * We are targeting the 'body' element, which will be inherited by most other elements.
+ */
+body {
+    font-family: 'Inter', sans-serif, arial;
+}
+
+/*
+ * The PaperMod theme uses a different font for code blocks and pre-formatted text.
+ * We'll apply Inter to these as well for consistency.
+ */
+code, pre {
+    font-family: 'Inter', sans-serif, arial;
+}
+
+/*
+ * Mobile Menu Styles
+ * ------------------
+ */
+
+/* Hide the hamburger menu by default */
+#menu-toggle {
+    display: none;
+}
+
+@media (max-width: 650px) {
+    /* Position the hamburger menu icon to the top right */
+    .logo-switches {
+        position: absolute;
+        top: 10px;
+        right: var(--gap);
+    }
+
+    /* Show the hamburger menu on small screens */
+    #menu-toggle {
+        display: block;
+    }
+
+    /* Hide the regular menu on small screens */
+    #menu {
+        display: none;
+    }
+
+    /* Show the menu when the hamburger is clicked */
+    #menu.show-menu {
+        display: block;
+        position: absolute;
+        top: 50px; /* Adjust as needed */
+        right: 0;
+        left: auto;
+        width: 200px; /* Adjust as needed */
+        background-color: var(--entry);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 0.2rem 0.5rem;
+        z-index: 1001;
+    }
+
+    #menu.show-menu li {
+        margin: 0;
+        padding: 0;
+    }
+
+    #menu.show-menu li a {
+        padding: 0.6rem 0.5rem;
+        line-height: 1.2;
+    }
+
+    #menu.show-menu li a:hover {
+        background-color: var(--tertiary);
+    }
+}
+
+/*
+ * Home Page Header Image
+ * ----------------------
+ */
+
+.home-info-wrapper {
+    position: relative;
+    padding: 15px 30px;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-info-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/header-background.jpg');
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+}
+
+.home-info {
+    position: relative;
+    z-index: 2;
+    background-color: rgba(var(--entry-rgb), 0.7);
+    padding: 2rem;
+    border-radius: var(--radius);
+    text-align: center;
+    font-weight: 600;
+}
+
+/* .home-info h1,
+.home-info .entry-content {
+    text-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
+} */
+

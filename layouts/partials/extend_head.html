@@ -1,0 +1,13 @@
+<!--
+  This file adds custom code to the <head> of every page.
+  We are using it to load the "Inter" font from Google Fonts.
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+
+{{ $css := resources.Get "css/extended/custom.css" | resources.Minify }}
+<link rel="stylesheet" href="{{ $css.Permalink }}">
+
+{{ $js := resources.Get "js/mobile-menu.js" | resources.Minify }}
+<script src="{{ $js.Permalink }}"></script>
