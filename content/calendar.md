@@ -2,6 +2,8 @@
 title: "Community Calendar"
 date: 2025-09-07T18:29:00-07:00
 draft: false
+cover:
+    image: "goats.jpg"
 ---
 
 ## Upcoming Events & Meetings

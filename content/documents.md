@@ -2,6 +2,8 @@
 title: "Document Library"
 date: 2025-09-07T18:29:00-07:00
 draft: false
+cover:
+    image: "dark-street.jpg"
 ---
 
 ## HOA Document Library

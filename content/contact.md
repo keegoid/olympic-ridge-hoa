@@ -2,6 +2,8 @@
 title: "Contact the Board"
 date: 2025-08-03T18:29:00-07:00
 draft: false
+cover:
+    image: "snowy-mountains-sunset.jpg"
 ---
 
 ## Meet the Board

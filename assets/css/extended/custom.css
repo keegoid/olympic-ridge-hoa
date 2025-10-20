@@ -104,9 +104,9 @@ code, pre {
     left: 0;
     right: 0;
     bottom: 24px;
-    background-image: url('/header-background.jpg');
+    background-image: url('/hoods-canal-sunny.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     z-index: 1;
 }
 

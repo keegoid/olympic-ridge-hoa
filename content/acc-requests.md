@@ -2,6 +2,8 @@
 title: "ACC Requests"
 date: 2025-09-07T17:31:13-07:00
 draft: false
+cover:
+    image: "summer-mountain-sunset.jpg"
 ---
 
 ## Architectural Control Committee (ACC) Requests
