@@ -18,7 +18,7 @@ This page provides access to all important governing documents, forms, and maps 
 
 ### Meeting Minutes
 
-* [2025 Board Meeting Minutes](/posts/)
+* [Board Meeting Minutes](/minutes/)
 
 ### Maps
 
