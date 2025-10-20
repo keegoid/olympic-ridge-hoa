@@ -4,6 +4,7 @@ baseURL: "https://olympicridgehoa.com/"
 languageCode: "en-us"
 title: "Olympic Ridge HOA"
 theme: ["PaperMod"]
+relativeURLs: true
 
 pagination:
   pagerSize: 10
@@ -72,10 +73,6 @@ params:
 
   profileMode:
     enabled: false # Set to 'true' if you want a profile-style homepage instead of a list of posts
-
-  assets:
-    # You can disable parts of the theme you don't use to improve performance
-    disableFingerprinting: true
 
 # Hugo will automatically generate a sitemap and robots.txt file
 enableRobotsTXT: true
