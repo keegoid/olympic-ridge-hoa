@@ -103,7 +103,7 @@ code, pre {
     top: 0;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: 24px;
     background-image: url('/header-background.jpg');
     background-size: cover;
     background-position: center;
@@ -118,10 +118,10 @@ code, pre {
     border-radius: var(--radius);
     text-align: center;
     font-weight: 600;
+    min-height: auto;
 }
 
 /* .home-info h1,
 .home-info .entry-content {
     text-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
 } */
-

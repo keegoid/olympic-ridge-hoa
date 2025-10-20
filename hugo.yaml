@@ -68,7 +68,7 @@ params:
 
   homeInfoParams:
     Title: "Welcome to Olympic Ridge HOA"
-    Content: "This is the central hub for news, announcements, and resources for our community. We are volunteers dedicated to maintaining and improving our wonderful neighborhood."
+    Content: "This is the central hub for news, announcements, and resources for our community. We are [elected volunteers](./contact#meet-the-board) dedicated to maintaining and improving our wonderful neighborhood."
 
   profileMode:
     enabled: false # Set to 'true' if you want a profile-style homepage instead of a list of posts
