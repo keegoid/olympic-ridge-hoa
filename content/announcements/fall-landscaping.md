@@ -1,7 +1,7 @@
 ---
 title: "Fall Entrance Landscaping Project Begins Next Week"
 date: 2025-09-07T18:51:00-07:00
-draft: false
+draft: true
 tags: ["Community", "Projects"]
 ---
 
