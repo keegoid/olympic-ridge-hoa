@@ -1,9 +1,7 @@
 ---
-title: "Meeting Minutes Archive"
+title: "Meeting Minutes"
 date: 2025-09-07T18:31:13-07:00
 draft: false
-cover:
-    image: "snowy-mountains-wide.jpg"
 ---
 
 A complete archive of all official HOA Board meeting minutes.

@@ -52,7 +52,7 @@ params:
   description: "Official Website for the Olympic Ridge Homeowners Association in Belfair, WA"
   author: "Olympic Ridge HOA Board"
   defaultTheme: "light" # can be "light", "dark", or "auto"
-  customCSS: ["css/extended/custom.css"]
+  customCSS: ["css/extended/custom.css", "css/extended/background.css"]
   disableThemeToggle: false
   ShowShareButtons: false
   ShowReadingTime: false
