@@ -104,10 +104,17 @@ code, pre {
     left: 0;
     right: 0;
     bottom: 24px;
-    background-image: url('/hood-canal-sunset.jpg');
+    /* Default to light mode (sunny) image */
+    background-image: url('/hood-canal-sunny.jpg');
     background-size: cover;
     background-position: bottom;
     z-index: 1;
+    transition: background-image 0.3s ease-in-out;
+}
+
+/* Dark mode override for the background image */
+.dark .home-info-background {
+    background-image: url('/hood-canal-sunset.jpg');
 }
 
 .home-info {
@@ -119,6 +126,7 @@ code, pre {
     text-align: center;
     font-weight: 600;
     min-height: auto;
+    transition: background-color 0.3s ease-in-out;
 }
 
 /* .home-info h1,
