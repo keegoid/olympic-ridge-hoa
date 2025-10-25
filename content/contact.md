@@ -10,11 +10,13 @@ cover:
 
 Your current HOA Board members are volunteers from our community, dedicated to serving the interests of Olympic Ridge.
 
-* **President:** Kyle Hansen
-* **Vice President:** Hunter Austin
-* **Secretary:** Keegan Mullaney
-* **Treasurer:** Alexander Torres Lee
-* **Member at Large:** Tramal Williams
+Title          | Name                 | Term
+---------------|----------------------|--------
+President      | Kyle Hansen          | 3 years
+Vice President | Hunter Austin        | 3 years
+Secretary      | Keegan Mullaney      | 3 years
+Treasurer      | Alexander Torres Lee | 2 years
+Director       | Tramal Williams      | 1 year
 
 ---
 
