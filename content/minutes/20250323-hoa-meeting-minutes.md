@@ -1,6 +1,7 @@
 ---
 title: "HOA Meeting Minutes - March 23, 2025"
 date: 2025-03-23
+location: "Virtual Meeting"
 summary: "The board discussed financials, approved ACC requests for tree planting and a fence, addressed ongoing parking and fire lane violations, and planned for better communication with homeowners and the developer, Lennar."
 author: "HOA Board Secretary"
 tags: ["HOA Meeting"]

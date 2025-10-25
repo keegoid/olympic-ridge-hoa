@@ -1,6 +1,7 @@
 ---
 title: "HOA Meeting Minutes - April 27, 2025"
 date: 2025-04-27
+location: "Virtual Meeting"
 summary: "The board discussed the community's tight financial situation, issues with the HOA payment website, drainage problems, and the lack of a specific noise ordinance. They agreed to review the budget and request a breakdown of expenses from the management company."
 author: "HOA Board Secretary"
 tags: ["HOA Meeting"]
@@ -13,13 +14,13 @@ The board discussed the financial situation of the community, issues with the si
 
 ## Next Steps
 
-* A board member to review the budget in more detail and email the group with findings.
-* A board member to email the property manager requesting a breakdown of expenses for the last 3 months.
-* A board member to request from the property manager a detailed list of what is included in the monthly management fees.
-* The board secretary to send out a summary of the meeting.
-* A board member to follow up with a neighbor about their drainage system.
-* The board secretary to find out who owns the land with the trees that some residents want to cut down.
-* The board to investigate easier payment systems for HOA dues.
+* **A board member:** Review the budget in more detail and email the group with findings.
+* **A board member:** Email the property manager requesting a breakdown of expenses for the last 3 months.
+* **A board member:** Request from the property manager a detailed list of what is included in the monthly management fees.
+* **The board secretary:** Send out a summary of the meeting.
+* **A board member:** Follow up with a neighbor about their drainage system.
+* **The board secretary:** Find out who owns the land with the trees that some residents want to cut down.
+* **The HOA board:** Investigate easier payment systems for HOA dues.
 
 ## Summary
 

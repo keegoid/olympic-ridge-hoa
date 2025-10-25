@@ -1,6 +1,7 @@
 ---
 title: "HOA Meeting Minutes - May 4, 2025"
 date: 2025-05-04
+location: "Community Park"
 summary: "The board discussed installing 'No Trespassing' signage, partnering with a towing company for parking violations, and installing bollards to secure access points. They also addressed lawn maintenance, management company performance, and financial management."
 author: "HOA Board Secretary"
 tags: ["HOA Meeting"]
@@ -13,15 +14,15 @@ The team discussed various community issues, including the need for clear signag
 
 ## Next Steps
 
-* A board member to order 10 signs [5 "No Trespassing" and 5 "Private Property"](cite: 196).
-* A board member to contact the fire department about the lock needed for the bollards.
-* A board member to get 2-3 additional bids for the bollard installation.
-* A board member to prepare a package for Mason County approval for the bollard installation.
-* A board member to confirm the neighborhood watch meeting details for May 24th.
-* A board member to contact the management company to clarify their services and contract details.
-* The HOA board to consider recording the neighborhood watch meeting and posting it on the Facebook group.
-* The HOA board to explore options for potentially replacing the management company.
-* A board member to look into getting bids from landscaping companies to compare with current costs.
+* **A board member:** Order 10 signs [5 "No Trespassing" and 5 "Private Property"](cite: 196).
+* **A board member:** Contact the fire department about the lock needed for the bollards.
+* **A board member:** Get 2-3 additional bids for the bollard installation.
+* **A board member:** Prepare a package for Mason County approval for the bollard installation.
+* **A board member:** Confirm the neighborhood watch meeting details for May 24th.
+* **A board member:** Contact the management company to clarify their services and contract details.
+* **The HOA Board:** Consider recording the neighborhood watch meeting and posting it on the Facebook group.
+* **The HOA Board:** Explore options for potentially replacing the management company.
+* **A board member:** Look into getting bids from landscaping companies to compare with current costs.
 
 ## Summary
 

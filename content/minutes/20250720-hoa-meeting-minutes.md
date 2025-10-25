@@ -1,6 +1,7 @@
 ---
 title: "HOA Meeting Minutes - July 20, 2025"
 date: 2025-07-20
+location: "Community Park"
 summary: "The board discussed homeowner compliance with parking and landscaping rules, communication delays with the management company, and a complaint about a loose dog. Plans for the upcoming August 2nd block party were also touched upon."
 author: "HOA Board Secretary"
 tags: ["HOA Meeting"]
@@ -13,12 +14,12 @@ The board discussed homeowner compliance with parking signage and landscaping ru
 
 ## Next Steps
 
-* A board member will follow up with the supplier to ensure the bollards have been purchased and to get an ETA.
-* A board member will get a quote for a pre-built community bulletin board.
-* A board member will send the addresses of three homes with unapproved landscaping modifications to the management company to request that ACC forms be submitted retroactively.
-* The board will have the management company send out violation letters based on the latest inspection report.
-* The management company will send a warning letter to the owner of the loose dog at a specific property on Olympic Ridge Blvd.
-* A board member will follow up with the local sheriff's deputy regarding their attendance at the neighborhood watch.
+* **A board member:** Follow up with the supplier to ensure the bollards have been purchased and to get an ETA.
+* **A board member:** Get a quote for a pre-built community bulletin board.
+* **A board member:** Send the addresses of three homes with unapproved landscaping modifications to the management company to request that ACC forms be submitted retroactively.
+* **The HOA Board:** Have the management company send out violation letters based on the latest inspection report.
+* **Management Company:** Send a warning letter to the owner of the loose dog at a specific property on Olympic Ridge Blvd.
+* **A board member:** Follow up with the local sheriff's deputy regarding their attendance at the neighborhood watch.
 
 ## Summary
 

@@ -1,6 +1,7 @@
 ---
 title: "HOA Meeting Minutes - August 31, 2025"
 date: 2025-08-31
+location: "Community Park"
 summary: "The board discussed a long-term investment strategy for future road replacements, including a potential dues increase. They addressed traffic concerns related to a new development, took action on an ongoing loose dog issue, and reviewed homeowner architectural requests."
 author: "HOA Board Secretary"
 tags: ["HOA Meeting"]
@@ -17,8 +18,8 @@ The board discussed a long-term financial investment strategy to fund future roa
 * **A board member**: Confirm with the property manager that letters have been sent to homeowners who completed landscaping modifications without an ACC request.
 * **A board member**: Follow up with the property manager to ensure formal violation letters have been sent regarding the loose dogs.
 * **Two board members**: Obtain at least two quotes to replace the grass at the cul-de-sac mailbox area with river rock.
-* **Board**: Follow up on the status of the Neighborhood Watch program.
-* **Board**: Coordinate the installation of new bollards and signs once materials arrive.
+* **The HOA Board**: Follow up on the status of the Neighborhood Watch program.
+* **The HOA Board**: Coordinate the installation of new bollards and signs once materials arrive.
 
 ## Summary
 

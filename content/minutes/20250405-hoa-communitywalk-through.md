@@ -1,6 +1,7 @@
 ---
 title: "HOA Community Walk-through Summary - April 5, 2025"
 date: 2025-04-05
+location: "Community"
 summary: "A summary of issues identified during the HOA Board community walkthrough, focusing on dangerous trees, damaged sidewalks, street signs, lighting, and other maintenance items for the HOA or Lennar to address."
 tags: ["Community Walk-through", "Maintenance"]
 draft: false

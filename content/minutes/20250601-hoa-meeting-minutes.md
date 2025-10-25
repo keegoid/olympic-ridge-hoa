@@ -1,6 +1,7 @@
 ---
 title: "HOA Meeting Minutes - June 1, 2025"
 date: 2025-06-01
+location: "Community Park"
 summary: "The board discussed landscaping company issues, communication challenges, and fire lane parking solutions. A proposal for a new HOA website was made, and long-term financial planning for road maintenance was reviewed. Plans for an August 2nd block party were initiated."
 author: "HOA Board Secretary"
 tags: ["HOA Meeting"]
