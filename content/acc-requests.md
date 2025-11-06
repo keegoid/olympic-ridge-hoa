@@ -25,5 +25,6 @@ Please click the button below to open the form in a new tab.
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0dM9PN95WN6t_8WLkovve2VFCOX5bWN6uHWEiNQ9tUXyhOA/viewform?usp=header" target="_blank" rel="noopener noreferrer" class="button">
   Submit ACC Request and Upload Files
 </a>
-
+<br />
+<br />
 Once you have submitted the form, the HOA Board will review your request and get back to you as soon as we can. If you have any questions, please [contact us](/contact/).
