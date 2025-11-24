@@ -78,7 +78,7 @@ If you want to make **any** exterior change to your property (painting, fences, 
 
 ### The Approval Process
 
-1. **Submit an Application:** Submit the [ACC Request Form](https://drive.google.com/file/d/1lo68tqCil8Wdi1q-_tvvSMikJm0yPvs6/view?usp=sharing) to the Committee. Submissions can be made via [this website](https://olympicridgehoa.com/acc-requests/).
+1. **Submit an Application:** Submit the [ACC Request Form](https://drive.google.com/file/d/1lo68tqCil8Wdi1q-_tvvSMikJm0yPvs6/view?usp=sharing) to the Committee. Submissions can be made via [this website](/acc-requests/).
 2. **Review Timeline:** The ACC has 30 days to review a complete application (with a possible 30-day extension).
 3. **Requirements:** You must include a plan view, material list, and color swatches.
 
