@@ -34,9 +34,13 @@ menu:
       url: /calendar/
       weight: 30
     - identifier: documents
-      name: Documents
+      name: Docs
       url: /documents/
       weight: 40
+    - identifier: rules
+      name: Rules
+      url: /rules/
+      weight: 45
     - identifier: acc-requests
       name: ACC
       url: /acc-requests/
