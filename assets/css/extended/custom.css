@@ -90,7 +90,6 @@ code, pre {
 .home-info-wrapper {
     position: relative;
     box-sizing: border-box;
-    width: 100vw;
     padding: 15px 30px;
     margin-left: calc(-50vw + 50%);
     margin-right: calc(-50vw + 50%);
