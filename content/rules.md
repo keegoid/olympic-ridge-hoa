@@ -41,6 +41,10 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 
 ## 🚗 Vehicles & Parking
 
+### Neighborhood Speed Limit
+
+* **Community Speed Limit:** The speed limit throughout Olympic Ridge is **25 mph**. Please check your speed and slow down for children, walkers, and neighbors using our streets.
+
 ### Storage Restrictions
 
 * **Prohibited in View:** You cannot store boats, trailers, campers, RVs, or broken-down vehicles where they are visible from the street.
