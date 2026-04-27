@@ -89,13 +89,17 @@ code, pre {
 
 .home-info-wrapper {
     position: relative;
+    box-sizing: border-box;
+    width: 100vw;
     padding: 15px 30px;
     margin-left: calc(-50vw + 50%);
     margin-right: calc(-50vw + 50%);
     min-height: 60vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+    gap: 16px;
 }
 
 .home-info-background {
@@ -103,7 +107,7 @@ code, pre {
     top: 0;
     left: 0;
     right: 0;
-    bottom: 24px;
+    bottom: 0;
     /* Default to light mode (sunny) image */
     background-image: url('/hood-canal-sunny.jpg');
     background-size: cover;
@@ -119,7 +123,9 @@ code, pre {
 
 .home-info {
     position: relative;
+    box-sizing: border-box;
     z-index: 2;
+    width: min(100%, 1120px);
     background-color: rgba(var(--entry-rgb), 0.7);
     padding: 2rem;
     border-radius: var(--radius);
@@ -129,7 +135,129 @@ code, pre {
     transition: background-color 0.3s ease-in-out;
 }
 
+.community-safety-notice {
+    position: relative;
+    box-sizing: border-box;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    width: min(760px, 100%);
+    padding: 18px 22px;
+    color: #35230d;
+    background: rgba(255, 248, 235, 0.92);
+    border: 1px solid rgba(180, 83, 9, 0.34);
+    border-left: 6px solid #b45309;
+    border-radius: var(--radius);
+    box-shadow: 0 12px 30px rgba(17, 24, 39, 0.16);
+}
+
+.dark .community-safety-notice {
+    color: #fff7ed;
+    background: rgba(67, 56, 44, 0.9);
+    border-color: rgba(251, 146, 60, 0.48);
+}
+
+.community-safety-speed {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 78px;
+    height: 78px;
+    color: #111827;
+    background: #ffffff;
+    border: 5px solid #b91c1c;
+    border-radius: 50%;
+    line-height: 1;
+    box-shadow: inset 0 0 0 2px #ffffff;
+}
+
+.community-safety-speed span {
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.community-safety-speed small {
+    margin-top: 3px;
+    font-size: 0.72rem;
+    font-weight: 800;
+}
+
+.community-safety-copy {
+    min-width: 0;
+}
+
+.community-safety-eyebrow {
+    margin: 0 0 4px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.community-safety-copy h2 {
+    margin: 0;
+    font-size: 1.35rem;
+    line-height: 1.2;
+}
+
+.community-safety-text {
+    margin-top: 6px;
+    line-height: 1.45;
+}
+
+.community-safety-text p {
+    margin: 0;
+}
+
+.community-safety-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: 800;
+    color: #7c2d12;
+}
+
+.dark .community-safety-link {
+    color: #fed7aa;
+}
+
 /* .home-info h1,
 .home-info .entry-content {
     text-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
 } */
+
+@media (max-width: 650px) {
+    .home-info-wrapper {
+        min-height: 68vh;
+        padding: 24px var(--gap);
+    }
+
+    .home-info {
+        padding: 1.5rem;
+    }
+
+    .community-safety-notice {
+        align-items: flex-start;
+        gap: 14px;
+        padding: 16px;
+    }
+
+    .community-safety-speed {
+        width: 64px;
+        height: 64px;
+        border-width: 4px;
+    }
+
+    .community-safety-speed span {
+        font-size: 1.55rem;
+    }
+
+    .community-safety-speed small {
+        font-size: 0.62rem;
+    }
+
+    .community-safety-copy h2 {
+        font-size: 1.1rem;
+    }
+}
