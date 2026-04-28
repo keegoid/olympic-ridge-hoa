@@ -95,7 +95,7 @@
         <div>
           <p class="update-card__meta">{{ if eq .Section "minutes" }}Meeting minutes{{ else }}Announcement{{ end }} - {{ .Date.Format "Jan 2, 2006" }}</p>
           <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-          <p>{{ .Summary | plainify | htmlUnescape | truncate 180 }}</p>
+          <p>{{ .Summary | plainify | truncate 180 }}</p>
         </div>
       </article>
       {{- end }}
