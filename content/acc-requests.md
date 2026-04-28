@@ -2,30 +2,53 @@
 title: "ACC Requests"
 date: 2025-09-07T17:31:13-07:00
 draft: false
+description: "Submit exterior modification requests and supporting project documents for HOA review."
+hideMeta: true
 cover:
     image: "homes-sunset.jpg"
 ---
 
 ## Architectural Control Committee (ACC) Requests
 
-Submit an ACC request for all exterior modifications, additions, or changes to your property. They must be reviewed and approved by the HOA Board before any work begins. This process ensures that property improvements are in harmony with the overall community and adhere to the guidelines established in our CC&Rs.
+Submit an ACC request for exterior modifications, additions, or visible changes to your property. Requests must be reviewed and approved by the HOA Board before work begins.
 
-### Why submit an ACC request?
+<div class="content-callout">
+  <strong>Before you start work:</strong>
+  gather your plan view, material list, color details, and any supporting images or specifications. Complete submissions help the board review requests efficiently.
+</div>
 
-It's in your best interest to submit an ACC request prior to making exterior modifications, additions, or changes to your property. Failure to do so risks fines or possibly having to undo the changes, which nobody wants to have happen.
+## Request Process
 
-## Submitting Your Request
+<div class="approval-path">
+  <div class="step-card">
+    <span class="step-number">1</span>
+    <strong>Confirm approval is needed</strong>
+    <span>Exterior changes such as paint, fences, sheds, decks, roofing, and major landscaping should be submitted before work begins.</span>
+  </div>
+  <div class="step-card">
+    <span class="step-number">2</span>
+    <strong>Prepare the details</strong>
+    <span>Include plans, materials, color swatches, dimensions, and any other project specifications.</span>
+  </div>
+  <div class="step-card">
+    <span class="step-number">3</span>
+    <strong>Submit online</strong>
+    <span>Use the Google Form to send your request and upload supporting files.</span>
+  </div>
+  <div class="step-card">
+    <span class="step-number">4</span>
+    <strong>Wait for review</strong>
+    <span>The ACC has 30 days to review a complete application, with a possible 30-day extension.</span>
+  </div>
+</div>
 
-Thank you for preparing your ACC request. To complete the process, you will need to fill out the official form and upload all required documents. Be sure to include all relevant details, plans, and specifications.
+## Submit Your Request
 
-Please click the button below to open the form in a new tab.
+You will need to be logged into a Google account to upload files.
 
-**Important:** You will need to be logged into a Google account to upload files.
+<div class="action-row">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSe0dM9PN95WN6t_8WLkovve2VFCOX5bWN6uHWEiNQ9tUXyhOA/viewform?usp=header" target="_blank" rel="noopener noreferrer" class="button button-primary">Submit ACC Request</a>
+  <a href="https://drive.google.com/file/d/1lo68tqCil8Wdi1q-_tvvSMikJm0yPvs6/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="button button-secondary">Download ACC Form</a>
+</div>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0dM9PN95WN6t_8WLkovve2VFCOX5bWN6uHWEiNQ9tUXyhOA/viewform?usp=header" target="_blank" rel="noopener noreferrer" class="button">
-  Submit ACC Request and Upload Files
-</a>
-<br />
-<br />
-
-Once you have submitted the form, the HOA Board will review your request and get back to you as soon as we can. If you have any questions, please [contact us](/contact/).
+After submission, the HOA Board will review your request and respond as soon as possible. For questions before submitting, [contact the board](/contact/).

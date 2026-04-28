@@ -10,12 +10,12 @@
 {{ if hugo.IsProduction }}
     {{ $css = $css | fingerprint }}
 {{ end }}
-<link rel="stylesheet" href="{{ $css.Permalink }}">
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 
 {{ $js := resources.Get "js/mobile-menu.js" | resources.Minify }}
 {{ if hugo.IsProduction }}
     {{ $js = $js | fingerprint }}
 {{ end }}
-<script src="{{ $js.Permalink }}"></script>
+<script src="{{ $js.RelPermalink }}"></script>
 
-<link rel="manifest" href="/site.webmanifest">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">

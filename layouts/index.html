@@ -1,0 +1,122 @@
+{{- define "main" -}}
+{{- $updates := where site.RegularPages "Type" "in" site.Params.mainSections -}}
+{{- $minutes := where site.RegularPages "Section" "minutes" -}}
+{{- $safetyNotice := site.Params.homeSafetyNotice -}}
+
+<section class="home-hero" aria-labelledby="home-hero-title">
+  <div class="home-hero__image" aria-hidden="true"></div>
+  <div class="home-hero__overlay" aria-hidden="true"></div>
+  <div class="home-hero__content">
+    <p class="eyebrow">Olympic Ridge Homeowners Association</p>
+    <h1 id="home-hero-title">Olympic Ridge HOA Resident Hub</h1>
+    <p>
+      Find the latest board updates, submit exterior change requests, review community rules,
+      and reach the HOA Board from one official resident hub.
+    </p>
+    <div class="hero-actions" aria-label="Primary resident actions">
+      <a class="button button-primary" href="{{ "/acc-requests/" | relURL }}">Submit ACC Request</a>
+      <a class="button button-secondary" href="{{ "/documents/" | relURL }}">Find Documents</a>
+    </div>
+  </div>
+</section>
+
+{{- with $safetyNotice }}
+<section class="home-section home-alert" aria-labelledby="community-safety-title">
+  <div class="community-safety-notice">
+    <div class="community-safety-speed" aria-hidden="true">
+      <span>25</span>
+      <small>MPH</small>
+    </div>
+    <div class="community-safety-copy">
+      {{- with .Eyebrow }}
+      <p class="community-safety-eyebrow">{{ . }}</p>
+      {{- end }}
+      <h2 id="community-safety-title">{{ .Title | markdownify }}</h2>
+      <div class="community-safety-text">
+        {{ .Content | markdownify }}
+      </div>
+      {{- if and .LinkText .LinkURL }}
+      <a class="community-safety-link" href="{{ .LinkURL | relURL }}">{{ .LinkText }}</a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{- end }}
+
+<section class="home-section resident-hub" aria-labelledby="resident-hub-title">
+  <div class="section-heading">
+    <p class="eyebrow">Resident Shortcuts</p>
+    <h2 id="resident-hub-title">Start with the task you need.</h2>
+  </div>
+
+  <div class="action-grid">
+    <a class="action-card" href="{{ "/acc-requests/" | relURL }}">
+      <span class="action-card__kicker">Exterior changes</span>
+      <strong>Request approval</strong>
+      <span>Submit plans, materials, color swatches, and project details before work begins.</span>
+    </a>
+    <a class="action-card" href="{{ "/rules/" | relURL }}">
+      <span class="action-card__kicker">Plain English guide</span>
+      <strong>Review rules</strong>
+      <span>Check parking, pets, rentals, landscaping, home appearance, and fine policies.</span>
+    </a>
+    <a class="action-card" href="{{ "/documents/" | relURL }}">
+      <span class="action-card__kicker">Official records</span>
+      <strong>Find documents</strong>
+      <span>Open CC&amp;Rs, enforcement policy, management agreements, and required forms.</span>
+    </a>
+    <a class="action-card" href="{{ "/calendar/" | relURL }}">
+      <span class="action-card__kicker">Meetings and events</span>
+      <strong>View calendar</strong>
+      <span>See upcoming board meetings, community dates, and important deadlines.</span>
+    </a>
+    <a class="action-card" href="{{ "/minutes/" | relURL }}">
+      <span class="action-card__kicker">{{ len $minutes }} published records</span>
+      <strong>Read meeting minutes</strong>
+      <span>Browse decisions, budgets, vendor updates, road work, and community projects.</span>
+    </a>
+    <a class="action-card" href="{{ "/contact/" | relURL }}">
+      <span class="action-card__kicker">Board support</span>
+      <strong>Contact the board</strong>
+      <span>Send questions, concerns, and feedback to the elected volunteer board.</span>
+    </a>
+  </div>
+</section>
+
+<section class="home-section home-split" aria-labelledby="latest-updates-title">
+  <div class="updates-panel">
+    <div class="section-heading">
+      <p class="eyebrow">Latest Updates</p>
+      <h2 id="latest-updates-title">Recent board activity</h2>
+    </div>
+    <div class="update-list">
+      {{- range first 4 $updates }}
+      <article class="update-card">
+        <div>
+          <p class="update-card__meta">{{ if eq .Section "minutes" }}Meeting minutes{{ else }}Announcement{{ end }} - {{ .Date.Format "Jan 2, 2006" }}</p>
+          <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Summary | plainify | truncate 180 }}</p>
+        </div>
+      </article>
+      {{- end }}
+    </div>
+    <a class="text-link" href="{{ "/minutes/" | relURL }}">Browse all meeting minutes</a>
+  </div>
+
+  <aside class="priority-panel" aria-labelledby="priority-panel-title">
+    <p class="eyebrow">Most Used</p>
+    <h2 id="priority-panel-title">Planning a project?</h2>
+    <p>
+      Exterior changes need approval before work starts. A complete ACC request should include
+      plans, materials, and color details so the board can review it efficiently.
+    </p>
+    <ul class="check-list">
+      <li>Submit before beginning work.</li>
+      <li>Include plans, materials, and color swatches.</li>
+      <li>Allow up to 30 days for review.</li>
+    </ul>
+    <a class="button button-primary" href="{{ "/acc-requests/" | relURL }}">Start ACC Request</a>
+  </aside>
+</section>
+
+{{- end -}}

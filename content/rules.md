@@ -3,15 +3,32 @@ title: "Community Rules & Guidelines"
 date: 2025-11-24
 draft: false
 description: "A plain English guide to Olympic Ridge CC&Rs, Architectural Standards, and Enforcement Policies."
+hideMeta: true
+ShowToc: true
+TocOpen: true
+cover:
+    image: "summer-sunset.jpg"
 ---
 
 Living in Olympic Ridge means we all agree to certain standards to keep our neighborhood safe, beautiful, and valuable. Below is a simplified summary of the official Covenants, Conditions, and Restrictions (CC&Rs) and the Architectural Control Committee (ACC) guidelines.
 
-*Please note: This is a summary for easy reading. In the event of a discrepancy, the official recorded [CC&Rs](https://drive.google.com/file/d/1A2rd3_xDfyRPqS29mthuBsMbeb9-BGgH/view?usp=sharing) and [Enforcement Policy](https://drive.google.com/file/d/1ljmdS121N-OlZxuTdOm0h6PHfQnNfEqq/view?usp=sharing) take precedence.*
+<div class="content-callout">
+  <strong>Official documents take precedence.</strong>
+  This page is a plain English summary. If there is any discrepancy, the recorded
+  <a href="https://drive.google.com/file/d/1A2rd3_xDfyRPqS29mthuBsMbeb9-BGgH/view?usp=sharing" target="_blank" rel="noopener noreferrer">CC&amp;Rs</a>
+  and
+  <a href="https://drive.google.com/file/d/1ljmdS121N-OlZxuTdOm0h6PHfQnNfEqq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Enforcement Policy</a>
+  are authoritative.
+</div>
+
+<div class="action-row">
+  <a class="button button-primary" href="/acc-requests/">Submit ACC Request</a>
+  <a class="button button-secondary" href="/documents/">View Official Documents</a>
+</div>
 
 ---
 
-## 🏠 General Living & Lifestyle
+## General Living & Lifestyle
 
 ### Rentals & Leasing
 
@@ -39,7 +56,7 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 
 ---
 
-## 🚗 Vehicles & Parking
+## Vehicles & Parking
 
 ### Neighborhood Speed Limit
 
@@ -60,7 +77,7 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 
 ---
 
-## 🛠️ Home Maintenance & Appearance
+## Home Maintenance & Appearance
 
 ### General Upkeep
 
@@ -76,7 +93,7 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 
 ---
 
-## 🔨 Making Changes to Your Home (ACC)
+## Making Changes to Your Home (ACC)
 
 If you want to make **any** exterior change to your property (painting, fences, sheds, major landscaping), you must get approval from the Architectural Control Committee (ACC) *before* you start.
 
@@ -98,7 +115,7 @@ If you want to make **any** exterior change to your property (painting, fences, 
 
 ---
 
-## 👮 Enforcement & Fines
+## Enforcement & Fines
 
 To ensure fairness, the HOA follows a specific policy for violations.
 
