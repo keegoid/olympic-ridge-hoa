@@ -1,6 +1,7 @@
 {{- define "main" -}}
 {{- $updates := where site.RegularPages "Type" "in" site.Params.mainSections -}}
 {{- $minutes := where site.RegularPages "Section" "minutes" -}}
+{{- $safetyNotice := site.Params.homeSafetyNotice -}}
 
 <section class="home-hero" aria-labelledby="home-hero-title">
   <div class="home-hero__image" aria-hidden="true"></div>
@@ -18,6 +19,29 @@
     </div>
   </div>
 </section>
+
+{{- with $safetyNotice }}
+<section class="home-section home-alert" aria-labelledby="community-safety-title">
+  <div class="community-safety-notice">
+    <div class="community-safety-speed" aria-hidden="true">
+      <span>25</span>
+      <small>MPH</small>
+    </div>
+    <div class="community-safety-copy">
+      {{- with .Eyebrow }}
+      <p class="community-safety-eyebrow">{{ . }}</p>
+      {{- end }}
+      <h2 id="community-safety-title">{{ .Title | markdownify }}</h2>
+      <div class="community-safety-text">
+        {{ .Content | markdownify }}
+      </div>
+      {{- if and .LinkText .LinkURL }}
+      <a class="community-safety-link" href="{{ .LinkURL | relURL }}">{{ .LinkText }}</a>
+      {{- end }}
+    </div>
+  </div>
+</section>
+{{- end }}
 
 <section class="home-section resident-hub" aria-labelledby="resident-hub-title">
   <div class="section-heading">

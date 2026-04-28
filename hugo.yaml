@@ -90,6 +90,13 @@ params:
     ignoreLocation: true
     keys: ["title", "summary", "content"]
 
+  homeSafetyNotice:
+    Eyebrow: "Community Safety Reminder"
+    Title: "25 mph in Olympic Ridge"
+    Content: "Most neighbors are observing the speed limit, but some vehicles are far exceeding it. With kids playing throughout the neighborhood, the HOA Board asks everyone to check your speed and slow down."
+    LinkText: "Read the reminder"
+    LinkURL: "/announcements/25-mph-speed-limit-reminder/"
+
   profileMode:
     enabled: false # Set to 'true' if you want a profile-style homepage instead of a list of posts
 
