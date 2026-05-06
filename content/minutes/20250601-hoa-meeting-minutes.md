@@ -1,12 +1,14 @@
 ---
-title: "HOA Meeting Minutes - June 1, 2025"
+title: "Board Session Summary - June 1, 2025"
 date: 2025-06-01
 location: "Community Park"
 summary: "The board discussed landscaping company issues, communication challenges, and fire lane parking solutions. A proposal for a new HOA website was made, and long-term financial planning for road maintenance was reviewed. Plans for an August 2nd block party were initiated."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting"]
+tags: ["HOA Meeting", "Board Session"]
 draft: false
 ---
+
+> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

@@ -10,8 +10,8 @@
     <p class="eyebrow">Olympic Ridge Homeowners Association</p>
     <h1 id="home-hero-title">Olympic Ridge HOA Resident Hub</h1>
     <p>
-      Find the latest board updates, submit exterior change requests, review community rules,
-      and reach the HOA Board from one official resident hub.
+      Find the latest board session summaries, submit exterior change requests,
+      review community rules, and reach the HOA Board from one official resident hub.
     </p>
     <div class="hero-actions" aria-label="Primary resident actions">
       <a class="button button-primary" href="{{ "/acc-requests/" | relURL }}">Submit ACC Request</a>
@@ -66,14 +66,19 @@
       <span>Open CC&amp;Rs, enforcement policy, management agreements, and required forms.</span>
     </a>
     <a class="action-card" href="{{ "/calendar/" | relURL }}">
-      <span class="action-card__kicker">Meetings and events</span>
+      <span class="action-card__kicker">Sessions and events</span>
       <strong>View calendar</strong>
-      <span>See upcoming board meetings, community dates, and important deadlines.</span>
+      <span>See owner meetings, board sessions, community dates, and important deadlines.</span>
     </a>
     <a class="action-card" href="{{ "/minutes/" | relURL }}">
       <span class="action-card__kicker">{{ len $minutes }} published records</span>
-      <strong>Read meeting minutes</strong>
-      <span>Browse decisions, budgets, vendor updates, road work, and community projects.</span>
+      <strong>Read board session records</strong>
+      <span>Browse board summaries, owner meeting notes, budgets, vendor updates, road work, and community projects.</span>
+    </a>
+    <a class="action-card" href="{{ "/wa-compliance/" | relURL }}">
+      <span class="action-card__kicker">Washington notices</span>
+      <strong>Check HOA requirements</strong>
+      <span>Review meeting, records, budget, reserve, and ACC process notes based on current Washington law.</span>
     </a>
     <a class="action-card" href="{{ "/contact/" | relURL }}">
       <span class="action-card__kicker">Board support</span>
@@ -93,14 +98,14 @@
       {{- range first 4 $updates }}
       <article class="update-card">
         <div>
-          <p class="update-card__meta">{{ if eq .Section "minutes" }}Meeting minutes{{ else }}Announcement{{ end }} - {{ .Date.Format "Jan 2, 2006" }}</p>
+          <p class="update-card__meta">{{ if eq .Section "minutes" }}Board session summary{{ else }}Announcement{{ end }} - {{ .Date.Format "Jan 2, 2006" }}</p>
           <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
           <p>{{ .Summary | plainify | truncate 180 }}</p>
         </div>
       </article>
       {{- end }}
     </div>
-    <a class="text-link" href="{{ "/minutes/" | relURL }}">Browse all meeting minutes</a>
+    <a class="text-link" href="{{ "/minutes/" | relURL }}">Browse all board session records</a>
   </div>
 
   <aside class="priority-panel" aria-labelledby="priority-panel-title">

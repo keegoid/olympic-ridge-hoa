@@ -1,12 +1,14 @@
 ---
-title: "HOA Meeting Minutes - March 23, 2025"
+title: "Board Session Summary - March 23, 2025"
 date: 2025-03-23
 location: "Virtual Meeting"
 summary: "The board discussed financials, approved ACC requests for tree planting and a fence, addressed ongoing parking and fire lane violations, and planned for better communication with homeowners and the developer, Lennar."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting"]
+tags: ["HOA Meeting", "Board Session"]
 draft: false
 ---
+
+> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Discussion Points
 
