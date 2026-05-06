@@ -1,14 +1,12 @@
 ---
-title: "Board Session Summary - January 31, 2026"
+title: "Board Meeting Summary - January 31, 2026"
 date: 2026-01-31
 location: "Zoom"
 summary: "The Board discussed financial investments, a potential transition to a new management-recommended bank, proposals for a new landscaping and snow removal contract, and community safety measures including pond signage and littering enforcement."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting", "Board Session"]
+tags: ["HOA Meeting", "Board Meeting"]
 draft: false
 ---
-
-> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

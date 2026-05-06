@@ -2,7 +2,7 @@
 title: "Community Calendar"
 date: 2025-09-07T18:29:00-07:00
 draft: false
-description: "Upcoming Olympic Ridge HOA owner meetings, executive sessions, community events, and important dates."
+description: "Upcoming Olympic Ridge HOA owner meetings, board meetings, community events, and important dates."
 hideMeta: true
 cover:
     image: "goats.jpg"
@@ -10,7 +10,7 @@ cover:
 
 ## Upcoming Events & Meetings
 
-Stay up-to-date with owner meetings, board sessions, executive sessions, community events, and important deadlines.
+Stay up-to-date with owner meetings, board meetings, community events, and important deadlines.
 
 <div class="content-callout">
   <strong>Meeting notices:</strong>

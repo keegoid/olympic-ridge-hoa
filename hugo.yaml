@@ -26,7 +26,7 @@ menu:
       url: /announcements/
       weight: 10
     - identifier: minutes
-      name: Sessions
+      name: Meetings
       url: /minutes/
       weight: 20
     - identifier: calendar

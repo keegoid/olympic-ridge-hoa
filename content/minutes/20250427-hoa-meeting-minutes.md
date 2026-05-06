@@ -1,14 +1,12 @@
 ---
-title: "Board Session Summary - April 27, 2025"
+title: "Board Meeting Summary - April 27, 2025"
 date: 2025-04-27
 location: "Virtual Meeting"
 summary: "The board discussed the community's tight financial situation, issues with the HOA payment website, drainage problems, and the lack of a specific noise ordinance. They agreed to review the budget and request a breakdown of expenses from the management company."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting", "Board Session"]
+tags: ["HOA Meeting", "Board Meeting"]
 draft: false
 ---
-
-> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

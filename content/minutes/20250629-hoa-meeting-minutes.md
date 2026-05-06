@@ -1,14 +1,12 @@
 ---
-title: "Board Session Summary - June 29, 2025"
+title: "Board Meeting Summary - June 29, 2025"
 date: 2025-06-29
 location: "Community Park"
 summary: "The HOA board covered financial updates, with a current balance of $162,000. They discussed bollard installation, a towing contract, and communication challenges with the property management company. Plans were finalized for the August 2nd block party."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting", "Board Session"]
+tags: ["HOA Meeting", "Board Meeting"]
 draft: false
 ---
-
-> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

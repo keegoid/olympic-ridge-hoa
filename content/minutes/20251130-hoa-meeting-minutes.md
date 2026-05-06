@@ -1,18 +1,16 @@
 ---
-title: "Board Session Summary - November 30, 2025"
+title: "Board Working Session Summary - November 30, 2025"
 date: 2025-11-30
 location: "Virtual Meeting"
-summary: "Informal discussion regarding landscaping proposals, irrigation costs, reserve fund investment strategies, and upcoming board elections."
+summary: "No-quorum working notes regarding landscaping proposals, irrigation costs, reserve fund investment strategies, and upcoming board elections. No final votes or board action were taken."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting", "Board Session"]
+tags: ["Board Working Session"]
 draft: false
 ---
 
-> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
-
 ## Quick Recap
 
-Due to scheduling conflicts and time zone discrepancies affecting a quorum, the formal meeting was postponed. However, the members present engaged in a working session to review urgent financial and maintenance items. Key topics included the high cost of water and landscaping (currently consuming ~50% of the budget), the review of a new landscaping/snow removal proposal, and the urgent need to move reserve funds into an interest-bearing account.
+Due to scheduling conflicts and time zone discrepancies affecting a quorum, the formal meeting was postponed. However, the members present engaged in a working session to review urgent financial and maintenance items. No final votes or board action were taken. Key topics included the high cost of water and landscaping (currently consuming ~50% of the budget), the review of a new landscaping/snow removal proposal, and the urgent need to move reserve funds into an interest-bearing account.
 
 ## Next Steps
 

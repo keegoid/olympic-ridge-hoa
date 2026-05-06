@@ -1,14 +1,12 @@
 ---
-title: "Board Session Summary - October 25, 2025"
+title: "Board Meeting Summary - October 25, 2025"
 date: 2025-10-25
 location: "Virtual Meeting"
 summary: "The Board approved a new online financial portal, a $5 dues increase effective Jan 1, 2026, the renewal of the J&M Management contract, and a plan to invest the HOA's reserve fund."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting", "Board Session"]
+tags: ["HOA Meeting", "Board Meeting"]
 draft: false
 ---
-
-> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 
@@ -48,7 +46,7 @@ A proposal from J&M to provide a new resident portal was introduced. The new HOA
 
 ### HOA Website (OlympicRidgeHOA.com)
 
-The new HOA website, OlympicRidgeHOA.com, was presented. The only cost is the annual domain name registration, for which a reimbursement has been submitted. The site is secure as it has no logins. It includes dark/light themes, sanitized session summaries, an announcements page, a Google Calendar for events, a document library via Google Drive, and a board contact form. The ACC request page was highlighted, noting a trend of residents making changes without approval. The form allows residents to submit requests directly to the board.
+The new HOA website, OlympicRidgeHOA.com, was presented. The only cost is the annual domain name registration, for which a reimbursement has been submitted. The site is secure as it has no logins. It includes dark/light themes, sanitized board meeting summaries, an announcements page, a Google Calendar for events, a document library via Google Drive, and a board contact form. The ACC request page was highlighted, noting a trend of residents making changes without approval. The form allows residents to submit requests directly to the board.
 
 ### HOA Dues Increase
 

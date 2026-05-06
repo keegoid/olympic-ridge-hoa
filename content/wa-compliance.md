@@ -14,17 +14,32 @@ This page summarizes how Olympic Ridge uses the website to support current Washi
 
 <div class="content-callout">
   <strong>Current law note:</strong>
-  Washington requirements depend partly on the association's recorded creation date and governing documents. Communities created on or after July 1, 2018 are generally governed by the Washington Uniform Common Interest Ownership Act, and Washington's homeowners association chapter now incorporates several of those same sections for many pre-2018 communities. This site follows the more transparent notice, records, budget, reserve, payment, and ACC process posture where practical.
+  Washington requirements depend partly on the association's recorded creation date and governing documents. Communities created on or after July 1, 2018 are generally governed by the Washington Uniform Common Interest Ownership Act. For many pre-2018 communities, RCW 64.38.095 and RCW 64.90.365 incorporate several WUCIOA sections effective January 1, 2026, including RCW 64.90.445 meeting rules. Unless counsel confirms a narrower exemption, this site follows the more transparent notice, records, budget, reserve, payment, and ACC process posture.
 </div>
 
 ## Meetings & Executive Sessions
 
 * The association should hold at least one owner meeting each year.
 * Owner meeting notices should be sent not less than 14 and not more than 50 days before the meeting and should include the meeting time, date, place or remote access details, and agenda items.
-* Board meetings should be open to owners except during executive sessions, and owners should have a reasonable opportunity to comment before board votes.
+* Board meetings where the Board conducts association business or makes decisions should be noticed and open to owners except during executive sessions.
+* Unless a board meeting is already included in a schedule provided to owners, the meeting notice should be sent at least 14 days before the meeting and state the time, date, place, remote access details if applicable, and agenda.
+* Owners should have a reasonable opportunity to comment before board votes.
 * Executive sessions are limited to confidential topics such as legal matters, litigation, personnel, active contract negotiations, and privacy-sensitive matters.
 * Final votes and final board action are not taken during executive sessions.
-* The website labels general board records as board session summaries and reserves executive-session wording for closed confidential portions. Owner meetings remain labeled as community or annual meeting minutes.
+* If an executive session is needed, it should occur during a regular or special board meeting. The Board can discuss the allowed confidential topic in closed session, then return to open meeting for any final vote or final action.
+* The website labels general board records as board meeting summaries and reserves executive-session wording for closed confidential portions. Owner meetings remain labeled as community or annual meeting minutes.
+
+## Monthly Board Practice
+
+The Board's monthly planning work can still happen on a regular cadence, but if the Board is discussing association business or deciding how to proceed on projects, contractors, owner complaints, parking enforcement, budgets, or other community matters, the safer Washington practice is to treat that gathering as a board meeting:
+
+* publish the annual or monthly board meeting schedule, or send the required notice and agenda before each meeting;
+* let owners observe the open portion and provide comment before votes;
+* move into executive session only for the allowed confidential topics;
+* return to open meeting for final votes or final action; and
+* keep minutes recording decisions on matters voted on, excluding confidential executive-session details.
+
+Purely social gatherings, informal updates, and administrative coordination that do not conduct association business are different, but they should not be used to evade open board meeting requirements.
 
 ## Records Requests
 
@@ -57,7 +72,10 @@ Residents should still submit visible exterior changes through the [ACC request 
 
 ## Official Washington Sources
 
-* [RCW 64.38.095 - Application to common interest communities](https://app.leg.wa.gov/rcw/default.aspx?cite=64.38.095)
+These links were checked against the official Washington Legislature RCW pages on May 6, 2026. Some pages show multiple effective-date versions; the site follows the versions effective on May 6, 2026 unless noted otherwise.
+
+* [RCW 64.38.095 - Application to common interest communities](https://app.leg.wa.gov/rcw/default.aspx?cite=64.38.095) (January 1, 2026 version incorporates RCW 64.90.445, 64.90.480(10), 64.90.502, 64.90.513, 64.90.525, 64.90.545, and 64.90.580 for many pre-2018 communities)
+* [RCW 64.90.365 - Common interest communities; exceptions](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.365) (January 1, 2026 version lists the WUCIOA sections applied to many pre-2018 communities)
 * [RCW 64.90.445 - Meetings](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.445)
 * [RCW 64.90.495 - Association records](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.495)
 * [RCW 64.90.525 - Budgets, assessments, and special assessments](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.525)
