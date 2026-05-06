@@ -1,14 +1,14 @@
 ---
-title: "Board Executive Session Summary - August 31, 2025"
+title: "Board Session Summary - August 31, 2025"
 date: 2025-08-31
 location: "Community Park"
 summary: "The board discussed a long-term investment strategy for future road replacements, including a potential dues increase. They addressed traffic concerns related to a new development, took action on an ongoing loose dog issue, and reviewed homeowner architectural requests."
 author: "HOA Board Secretary"
-tags: ["Executive Session"]
+tags: ["HOA Meeting", "Board Session"]
 draft: false
 ---
 
-> This public executive session summary is provided for resident transparency. Confidential records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
+> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

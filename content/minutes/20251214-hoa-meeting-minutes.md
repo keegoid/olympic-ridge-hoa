@@ -1,14 +1,14 @@
 ---
-title: "Board Executive Session Summary - December 14, 2025"
+title: "Board Session Summary - December 14, 2025"
 date: 2025-12-14
 location: "Belfair, Washington"
 summary: "The Board met to finalize the 2026 budget, discuss landscaping and snow removal contracts, address parking enforcement, and review ACC compliance strategies."
 author: "HOA Board Secretary"
-tags: ["Executive Session", "Budget", "Landscaping", "ACC", "Parking"]
+tags: ["HOA Meeting", "Board Session", "Budget", "Landscaping", "ACC", "Parking"]
 draft: false
 ---
 
-> This public executive session summary is provided for resident transparency. Confidential records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
+> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

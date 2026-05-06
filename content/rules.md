@@ -48,7 +48,7 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 * **Trash Cans:** Trash containers must be screened from view. They cannot be visible from the street or neighboring homes. **Addendum:** Trash containers must not be placed on sidewalks in order to maintain a clear path for pedestrians.
 * **Signage:** General advertising signs are not allowed. Exceptions include:
   * **For Sale/Rent Signs:** One temporary sign (max 6 sq. ft.).
-  * **Political Signs:** Washington law protects political yard signs before primary and general elections. The HOA may apply reasonable placement, display, and size rules.
+  * **Political Signs:** Washington law protects political yard signs before primary and general elections. The current community standard is a 4 sq. ft. maximum, and the HOA may apply reasonable placement and display rules to the extent those rules remain consistent with Washington law.
 * **U.S. Flags:** Washington law protects outdoor display of the United States flag, subject to reasonable placement and manner rules.
 
 ### Business Use

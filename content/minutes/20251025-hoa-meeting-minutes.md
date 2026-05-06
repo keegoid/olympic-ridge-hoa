@@ -1,14 +1,14 @@
 ---
-title: "Board Executive Session Summary - October 25, 2025"
+title: "Board Session Summary - October 25, 2025"
 date: 2025-10-25
 location: "Virtual Meeting"
 summary: "The Board approved a new online financial portal, a $5 dues increase effective Jan 1, 2026, the renewal of the J&M Management contract, and a plan to invest the HOA's reserve fund."
 author: "HOA Board Secretary"
-tags: ["Executive Session"]
+tags: ["HOA Meeting", "Board Session"]
 draft: false
 ---
 
-> This public executive session summary is provided for resident transparency. Confidential records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
+> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

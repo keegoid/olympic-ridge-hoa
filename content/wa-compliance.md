@@ -24,7 +24,7 @@ This page summarizes how Olympic Ridge uses the website to support current Washi
 * Board meetings should be open to owners except during executive sessions, and owners should have a reasonable opportunity to comment before board votes.
 * Executive sessions are limited to confidential topics such as legal matters, litigation, personnel, active contract negotiations, and privacy-sensitive matters.
 * Final votes and final board action are not taken during executive sessions.
-* The website labels private board records as executive session summaries and keeps owner meetings labeled as community or annual meeting minutes.
+* The website labels general board records as board session summaries and reserves executive-session wording for closed confidential portions. Owner meetings remain labeled as community or annual meeting minutes.
 
 ## Records Requests
 

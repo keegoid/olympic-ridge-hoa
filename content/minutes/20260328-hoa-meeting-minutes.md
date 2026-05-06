@@ -1,14 +1,14 @@
 ---
-title: "Board Executive Session Summary - March 28, 2026"
+title: "Board Session Summary - March 28, 2026"
 date: 2026-03-28
 location: "Virtual (Google Meet)"
 summary: "The Board discussed member transitions, financial account management, road maintenance projects, and performance reviews for the property management and snow removal vendors."
 author: "HOA Board Secretary"
-tags: ["Executive Session"]
+tags: ["HOA Meeting", "Board Session"]
 draft: false
 ---
 
-> This public executive session summary is provided for resident transparency. Confidential records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
+> This public board session summary is provided for resident transparency. Closed executive-session records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 
