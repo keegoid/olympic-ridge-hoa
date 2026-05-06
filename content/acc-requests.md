@@ -56,4 +56,4 @@ You will need to be logged into a Google account to upload files.
   <a href="https://drive.google.com/file/d/1lo68tqCil8Wdi1q-_tvvSMikJm0yPvs6/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="button button-secondary">Download ACC Form</a>
 </div>
 
-After submission, the HOA Board will review your request and respond as soon as possible. Requests involving Washington-protected improvements may have specific written denial and deemed-approval rules. For questions before submitting, [contact the board](/contact/).
+After submission, the HOA Board will review your request and respond as soon as possible. Requests involving [Washington-protected improvements](/wa-compliance/#acc--protected-improvements) may have specific written denial and deemed-approval rules. For questions before submitting, [contact the board](/contact/).

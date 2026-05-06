@@ -4,7 +4,7 @@ date: 2025-11-30
 location: "Virtual Meeting"
 summary: "No-quorum working notes regarding landscaping proposals, irrigation costs, reserve fund investment strategies, and upcoming board elections. No final votes or board action were taken."
 author: "HOA Board Secretary"
-tags: ["Board Working Session"]
+tags: ["HOA Meeting", "Board Working Session"]
 draft: false
 ---
 

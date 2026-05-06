@@ -14,7 +14,7 @@ This page summarizes how Olympic Ridge uses the website to support current Washi
 
 <div class="content-callout">
   <strong>Current law note:</strong>
-  Washington requirements depend partly on the association's recorded creation date and governing documents. Communities created on or after July 1, 2018 are generally governed by the Washington Uniform Common Interest Ownership Act. For many pre-2018 communities, RCW 64.38.095 and RCW 64.90.365 incorporate several WUCIOA sections effective January 1, 2026, including RCW 64.90.445 meeting rules. Unless counsel confirms a narrower exemption, this site follows the more transparent notice, records, budget, reserve, payment, and ACC process posture.
+  Washington requirements depend partly on the association's recorded creation date and governing documents. Communities created on or after July 1, 2018 are generally governed by the Washington Uniform Common Interest Ownership Act. The official RCW pages include January 1, 2026 versions of RCW 64.38.095 and RCW 64.90.365 that apply several WUCIOA sections, including RCW 64.90.445 meeting rules, to some pre-2018 common interest communities. The Board should confirm Olympic Ridge's recorded creation date and governing-document status with counsel; until then, this site follows the more transparent notice, records, budget, reserve, payment, and ACC process posture.
 </div>
 
 ## Meetings & Executive Sessions
@@ -74,8 +74,8 @@ Residents should still submit visible exterior changes through the [ACC request 
 
 These links were checked against the official Washington Legislature RCW pages on May 6, 2026. Some pages show multiple effective-date versions; the site follows the versions effective on May 6, 2026 unless noted otherwise.
 
-* [RCW 64.38.095 - Application to common interest communities](https://app.leg.wa.gov/rcw/default.aspx?cite=64.38.095) (January 1, 2026 version incorporates RCW 64.90.445, 64.90.480(10), 64.90.502, 64.90.513, 64.90.525, 64.90.545, and 64.90.580 for many pre-2018 communities)
-* [RCW 64.90.365 - Common interest communities; exceptions](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.365) (January 1, 2026 version lists the WUCIOA sections applied to many pre-2018 communities)
+* [RCW 64.38.095 - Application to common interest communities](https://app.leg.wa.gov/rcw/default.aspx?cite=64.38.095) (January 1, 2026 version lists RCW 64.90.445, 64.90.480(10), 64.90.502, 64.90.513, 64.90.525, 64.90.545, and 64.90.580 for some pre-2018 communities)
+* [RCW 64.90.365 - Common interest communities; exceptions](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.365) (January 1, 2026 version lists WUCIOA sections applied to some pre-2018 communities)
 * [RCW 64.90.445 - Meetings](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.445)
 * [RCW 64.90.495 - Association records](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.495)
 * [RCW 64.90.525 - Budgets, assessments, and special assessments](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.525)
