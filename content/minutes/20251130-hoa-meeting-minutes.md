@@ -1,12 +1,14 @@
 ---
-title: "HOA Meeting Minutes - November 30, 2025"
+title: "Board Executive Session Summary - November 30, 2025"
 date: 2025-11-30
 location: "Virtual Meeting"
 summary: "Informal discussion regarding landscaping proposals, irrigation costs, reserve fund investment strategies, and upcoming board elections."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting"]
+tags: ["Executive Session"]
 draft: false
 ---
+
+> This public executive session summary is provided for resident transparency. Confidential records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

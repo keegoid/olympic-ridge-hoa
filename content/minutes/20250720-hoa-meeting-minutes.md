@@ -1,12 +1,14 @@
 ---
-title: "HOA Meeting Minutes - July 20, 2025"
+title: "Board Executive Session Summary - July 20, 2025"
 date: 2025-07-20
 location: "Community Park"
 summary: "The board discussed homeowner compliance with parking and landscaping rules, communication delays with the management company, and a complaint about a loose dog. Plans for the upcoming August 2nd block party were also touched upon."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting"]
+tags: ["Executive Session"]
 draft: false
 ---
+
+> This public executive session summary is provided for resident transparency. Confidential records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 

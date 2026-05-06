@@ -61,4 +61,19 @@ This library collects the governing documents, request forms, and management rec
   </a>
 </div>
 
+## Records & Washington Notices
+
+<div class="document-grid">
+  <a class="document-card" href="/wa-compliance/">
+    <em>Guide</em>
+    <strong>Washington HOA Compliance Notes</strong>
+    <span>Meeting notice, executive session, records, budget, reserve, assessment, and ACC process reminders.</span>
+  </a>
+  <a class="document-card" href="/contact/">
+    <em>Request</em>
+    <strong>Association Records Request</strong>
+    <span>Ask for budgets, annual financial statements, reserve materials, contracts, meeting records, or other association records.</span>
+  </a>
+</div>
+
 <p><a class="text-link" href="https://drive.google.com/drive/folders/11_GGrOV9byZjOjkvAnTuD3ZhJx3z41Mo?usp=sharing" target="_blank" rel="noopener noreferrer">Open the full Google Drive folder</a></p>

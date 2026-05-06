@@ -17,6 +17,11 @@ Submit an ACC request for exterior modifications, additions, or visible changes 
   gather your plan view, material list, color details, and any supporting images or specifications. Complete submissions help the board review requests efficiently.
 </div>
 
+<div class="content-callout">
+  <strong>Washington protected improvements:</strong>
+  solar panels, electric vehicle charging stations, heat pumps, drought-resistant landscaping, pollinator habitat, and wildfire ignition-resistant landscaping may still need a complete ACC submission when visible or when approval is otherwise required. The HOA reviews these requests under reasonable architectural standards and does not use the ACC process to prohibit or unreasonably restrict qualifying installations.
+</div>
+
 ## Request Process
 
 <div class="approval-path">
@@ -38,7 +43,7 @@ Submit an ACC request for exterior modifications, additions, or visible changes 
   <div class="step-card">
     <span class="step-number">4</span>
     <strong>Wait for review</strong>
-    <span>The ACC has 30 days to review a complete application, with a possible 30-day extension.</span>
+    <span>The ACC has 30 days to review a complete application, with a possible 30-day extension. Some Washington-protected improvements have specific written denial and deemed-approval rules.</span>
   </div>
 </div>
 
@@ -51,4 +56,4 @@ You will need to be logged into a Google account to upload files.
   <a href="https://drive.google.com/file/d/1lo68tqCil8Wdi1q-_tvvSMikJm0yPvs6/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="button button-secondary">Download ACC Form</a>
 </div>
 
-After submission, the HOA Board will review your request and respond as soon as possible. For questions before submitting, [contact the board](/contact/).
+After submission, the HOA Board will review your request and respond as soon as possible. Denials should be provided in writing. For questions before submitting, [contact the board](/contact/).

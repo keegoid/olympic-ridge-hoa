@@ -18,7 +18,7 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
   <a href="https://drive.google.com/file/d/1A2rd3_xDfyRPqS29mthuBsMbeb9-BGgH/view?usp=sharing" target="_blank" rel="noopener noreferrer">CC&amp;Rs</a>
   and
   <a href="https://drive.google.com/file/d/1ljmdS121N-OlZxuTdOm0h6PHfQnNfEqq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Enforcement Policy</a>
-  are authoritative.
+  are authoritative, subject to applicable Washington law.
 </div>
 
 <div class="action-row">
@@ -48,7 +48,8 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 * **Trash Cans:** Trash containers must be screened from view. They cannot be visible from the street or neighboring homes. **Addendum:** Trash containers must not be placed on sidewalks in order to maintain a clear path for pedestrians.
 * **Signage:** General advertising signs are not allowed. Exceptions include:
   * **For Sale/Rent Signs:** One temporary sign (max 6 sq. ft.).
-  * **Political Signs:** Allowed during election periods (max 4 sq. ft., up to 60 days).
+  * **Political Signs:** Washington law protects political yard signs before primary and general elections. The HOA may apply reasonable placement, display, and size rules.
+* **U.S. Flags:** Washington law protects outdoor display of the United States flag, subject to reasonable placement and manner rules.
 
 ### Business Use
 
@@ -90,6 +91,8 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 
 * Owners are responsible for maintaining their own landscaping in a healthy state.
 * Do not dump yard debris onto adjoining lots or streets.
+* Washington law does not allow HOA documents to prohibit drought-resistant landscaping, pollinator habitat, or wildfire ignition-resistant landscaping, though the HOA may apply reasonable placement and appearance rules.
+* During a qualifying state drought condition order, the HOA cannot fine owners or residents for reducing or eliminating watering for the duration of the order.
 
 ---
 
@@ -112,6 +115,7 @@ If you want to make **any** exterior change to your property (painting, fences, 
 * **Roofs:** Must be composition roofing with a 30-year life.
 * **Decks:** Must be cedar, pressure-treated wood, or visually similar composite material.
 * **Walkways:** Front entry walks generally must be concrete.
+* **Solar, EV Charging, and Heat Pumps:** Washington law limits HOA restrictions on solar panels, electric vehicle charging stations, and heat pumps. Submit visible exterior work through the ACC process so the HOA can apply reasonable architectural standards without prohibiting or unreasonably restricting qualifying installations.
 
 ---
 
@@ -130,3 +134,5 @@ To ensure fairness, the HOA follows a specific policy for violations.
 ### Appeals
 
 If you receive a violation notice you disagree with, you must submit a written appeal to J&M Management within **48 hours** of the notice.
+
+Certain owner-specific assessments for damage or losses require notice and an opportunity for a hearing under Washington law. Enforcement records may be redacted before disclosure to protect individual owner files and confidential matters.

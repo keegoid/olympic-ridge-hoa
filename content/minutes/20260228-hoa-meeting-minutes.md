@@ -1,12 +1,14 @@
 ---
-title: "HOA Meeting Minutes - February 28, 2026"
+title: "Board Executive Session Summary - February 28, 2026"
 date: 2026-02-28
 location: "Video Conference"
 summary: "The board reviewed vendor performance regarding snow removal and property management, approved pending invoices, and initiated plans for a bank transition. Updates were provided on the community website, parking enforcement strategies, and upcoming board election cycles."
 author: "HOA Board Secretary"
-tags: ["HOA Meeting"]
+tags: ["Executive Session"]
 draft: false
 ---
+
+> This public executive session summary is provided for resident transparency. Confidential records may be limited or redacted, and final HOA action should be taken or ratified in an open board or owner meeting when required by Washington law.
 
 ## Quick Recap
 
@@ -41,7 +43,7 @@ The Management Company recommended switching the HOA's primary bank to an instit
 
 ### Community Website and Communication
 
-The board reported that the HOA website is functioning well and residents have begun using the digital contact forms for ACC submissions. To improve transparency, the board plans to post direct links to the meeting minutes on community social media pages so neighbors are aware of the work being performed.
+The board reported that the HOA website is functioning well and residents have begun using the digital contact forms for ACC submissions. To improve transparency, the board plans to post direct links to the public session summaries on community social media pages so neighbors are aware of the work being performed.
 
 ### Parking Enforcement and Strategy
 
