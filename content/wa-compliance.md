@@ -31,7 +31,7 @@ Meeting records on this website are labeled as open board meeting records, owner
 
 ## Monthly Open Board Meetings
 
-Olympic Ridge is starting fresh with regular open monthly board meetings. Prior monthly board meeting summaries have been removed from the website while the association transitions to the open-meeting process.
+Olympic Ridge's regular open monthly board meetings are scheduled for the last Saturday of each month at 9:00 AM Pacific Time. These meetings are where homeowners can follow association business, hear discussion, and comment before board votes.
 
 The [community calendar](/calendar/) is the public schedule reference once recurring meetings and agendas are added. To rely on the calendar as the official schedule source, homeowners should also receive the meeting schedule or a separate notice pointing them to the calendar and explaining how to access posted agendas and meeting details.
 
