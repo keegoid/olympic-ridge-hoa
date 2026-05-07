@@ -1,14 +1,14 @@
 ---
 title: "Monthly Open Board Meeting Schedule"
 date: 2026-05-07
-summary: "The HOA Board is moving to regular open board meetings on the last Saturday of each month at 9:00 AM Pacific Time."
+summary: "The HOA Board's regular open board meetings are scheduled for the last Saturday of each month at 9:00 AM Pacific Time."
 author: "HOA Board Secretary"
 draft: false
 cover:
     image: "hood-canal-sunny.jpg"
 ---
 
-The HOA Board is moving to regular open board meetings on the last Saturday of each month at 9:00 AM Pacific Time.
+The HOA Board's regular open board meetings are scheduled for the last Saturday of each month at 9:00 AM Pacific Time.
 
 The first meeting on this schedule is Saturday, May 30, 2026, at 9:00 AM PDT. Future meetings will follow the last-Saturday schedule at 9:00 AM Pacific Time.
 

@@ -10,67 +10,60 @@ cover:
     image: "hood-canal-sunny.jpg"
 ---
 
-This page summarizes how Olympic Ridge uses the website to support current Washington HOA transparency requirements. It is a practical resident guide, not legal advice, and the association's recorded governing documents and current Washington statutes control if anything conflicts.
+This page explains what Olympic Ridge homeowners can expect from HOA meeting notices, meeting records, budgets, reserve planning, assessment payments, and ACC reviews under current Washington law. It is a practical resident guide, not legal advice, and the association's recorded governing documents and current Washington statutes control if anything conflicts.
 
 <div class="content-callout">
   <strong>Current law note:</strong>
-  Olympic Ridge's linked CC&amp;R declaration identifies Olympic Ridge as a plat community, was recorded in Mason County on February 10, 2023, and defines the governing "Act" as Washington's Uniform Common Interest Ownership Act, Chapter 64.90 RCW. This site follows WUCIOA meeting, records, budget, reserve, payment, and ACC process requirements unless counsel confirms a different controlling obligation.
+  Olympic Ridge's linked CC&amp;R declaration identifies Olympic Ridge as a plat community, was recorded in Mason County on February 10, 2023, and defines the governing "Act" as Washington's Uniform Common Interest Ownership Act, Chapter 64.90 RCW. That is why this page references WUCIOA meeting, records, budget, reserve, payment, and ACC process requirements unless counsel confirms a different controlling obligation.
 </div>
 
 ## Meetings & Executive Sessions
 
-* The association should hold at least one owner meeting each year.
-* Owner meeting notices should be sent not less than 14 and not more than 50 days before the meeting and should include the meeting time, date, place or remote access details, and agenda items.
-* Board meetings where the Board conducts association business or makes decisions should be noticed and open to owners except during executive sessions.
-* Unless a board meeting is already included in a schedule provided to owners, the meeting notice should be sent at least 14 days before the meeting and state the time, date, place, remote access details if applicable, and agenda.
-* The regular monthly open board meeting is scheduled for the last Saturday of each month at 9:00 AM Pacific Time. Calendar entries or notices should include the agenda and location or remote access details.
-* Posting a meeting on the website calendar helps with transparency, but the Board should also provide the schedule or a separate notice to owners so the calendar can be used as the official schedule source.
-* Owners should have a reasonable opportunity to comment before board votes.
-* Executive sessions are limited to confidential topics such as legal matters, litigation, personnel, active contract negotiations, and privacy-sensitive matters.
-* Final votes and final board action are not taken during executive sessions.
-* If an executive session is needed, it should occur during a regular or special board meeting. The Board can discuss the allowed confidential topic in closed session, then return to open meeting for any final vote or final action.
-* The website labels general board records as open board meeting records and reserves executive-session wording for closed confidential portions. Owner meetings remain labeled separately as community or annual meeting minutes.
+Homeowners can expect at least one owner meeting each year. Owner meeting notices generally arrive not less than 14 and not more than 50 days before the meeting and include the meeting time, date, place or remote access details, and agenda items.
 
-## Monthly Board Practice
+Regular board meetings are where association business is discussed and decisions are made. These meetings are open to owners except for limited executive-session topics. If a board meeting is not already included in a schedule provided to owners, homeowners should receive notice at least 14 days before the meeting with the time, date, place, remote access details if applicable, and agenda.
 
-The Board's monthly planning work can still happen on a regular cadence, but if the Board is discussing association business or deciding how to proceed on projects, contractors, owner complaints, parking enforcement, budgets, or other community matters, the safer Washington practice is to treat that gathering as a board meeting:
+The regular monthly open board meeting is scheduled for the last Saturday of each month at 9:00 AM Pacific Time. Look for the agenda and location or remote access details in the calendar entry or meeting notice.
 
-* publish the annual or monthly board meeting schedule, and provide that schedule to owners or send the required notice and agenda before each meeting;
-* let owners observe the open portion and provide comment before votes;
-* move into executive session only for the allowed confidential topics;
-* return to open meeting for final votes or final action; and
-* keep minutes recording decisions on matters voted on, excluding confidential executive-session details.
+Owners have a reasonable opportunity to comment before board votes. Executive sessions are closed only for confidential topics such as legal matters, litigation, personnel, active contract negotiations, and privacy-sensitive matters. Final votes and final board action happen in open meeting, not in executive session.
 
-Purely social gatherings, informal updates, and administrative coordination that do not conduct association business are different, but they should not be used to evade open board meeting requirements.
+Meeting records on this website are labeled as open board meeting records, owner meeting minutes, or community records. Executive-session details may be omitted or redacted where Washington law protects confidential material.
+
+## Monthly Open Board Meetings
+
+Olympic Ridge's regular open monthly board meetings are scheduled for the last Saturday of each month at 9:00 AM Pacific Time. These meetings are where homeowners can follow association business, hear discussion, and comment before board votes.
+
+The [community calendar](/calendar/) is the public schedule reference once recurring meetings and agendas are added. To rely on the calendar as the official schedule source, homeowners should also receive the meeting schedule or a separate notice pointing them to the calendar and explaining how to access posted agendas and meeting details.
+
+Typical open board meeting topics may include projects, contractors, owner complaints, parking enforcement, budgets, vendor performance, ACC process updates, reserve planning, and other community business. If a confidential issue comes up, the Board may move into executive session for that topic and then return to open meeting for any final vote or final action.
 
 ## Records Requests
 
-The association maintains records such as current budgets, accounting records, meeting minutes other than executive sessions, governing documents, rules, board/officer lists, annual reports, financial statements, tax returns, contracts, insurance policies, notices, election records, ACC decision materials, and enforcement decision materials.
+Homeowners can [contact the board](/contact/) to request association records. Common records include current budgets, accounting records, meeting minutes other than executive sessions, governing documents, rules, board/officer lists, annual reports, financial statements, tax returns, contracts, insurance policies, notices, election records, ACC decision materials, and enforcement decision materials.
 
-Owners can [contact the board](/contact/) to request association records. Some records may be redacted or withheld where Washington law protects privacy, attorney-client communications, negotiation materials, litigation, enforcement files, executive session records, individual owner files, ballots, security information, or confidential contact information.
+Some records may be redacted or withheld where Washington law protects privacy, attorney-client communications, negotiation materials, litigation, enforcement files, executive session records, individual owner files, ballots, security information, or confidential contact information.
 
 ## Budgets, Assessments & Payments
 
-* The board should provide a proposed budget to owners within 30 days after adoption and set a budget ratification meeting not less than 14 and not more than 50 days after providing the budget.
-* Budgets should include projected income, projected expenses, assessment amounts and due dates, reserve contributions, reserve study status, and any reserve surplus or deficiency shown per unit.
-* Special assessments generally follow the same ratification process as budgets unless an emergency rule applies.
-* The association should provide at least one way to pay assessments at no charge or as a common expense.
+Homeowners should receive a proposed budget within 30 days after the Board adopts it, followed by a budget ratification meeting not less than 14 and not more than 50 days after the budget is provided.
+
+Budget materials generally include projected income, projected expenses, assessment amounts and due dates, reserve contributions, reserve study status, and any reserve surplus or deficiency shown per unit. Special assessments generally follow the same ratification process as budgets unless an emergency rule applies. Homeowners should also have at least one way to pay assessments at no charge or as a common expense.
 
 ## Reserve Planning
 
-Washington law includes reserve study requirements unless an exemption applies. The board should keep reserve materials with association financial records and include reserve study status in budget materials.
+Washington law includes reserve study requirements unless an exemption applies. Homeowners can expect reserve materials to be kept with association financial records and reserve study status to be included in budget materials.
 
 ## ACC & Protected Improvements
 
-The ACC process still applies to exterior work, but Washington law limits HOA restrictions on several categories:
+The ACC process still applies to exterior work. Homeowners should submit visible exterior changes through the [ACC request page](/acc-requests/) so placement, safety, materials, and appearance can be reviewed consistently.
+
+Washington law limits HOA restrictions on several categories:
 
 * U.S. flag display and political yard signs.
 * Solar energy panels that meet applicable health, safety, permitting, and performance standards.
 * Drought-resistant landscaping, pollinator habitat, and wildfire ignition-resistant landscaping, subject to reasonable appearance and placement rules.
 * Electric vehicle charging stations, where approval is required, with written denial and deemed-approval timing rules.
 * Heat pumps, where approval is required, with written denial and deemed-approval timing rules.
-
-Residents should still submit visible exterior changes through the [ACC request page](/acc-requests/) so the board can review placement, safety, materials, and appearance consistently.
 
 ## Official Washington Sources
 
