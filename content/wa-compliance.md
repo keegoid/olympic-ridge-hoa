@@ -1,6 +1,6 @@
 ---
 title: "Washington HOA Compliance Notes"
-date: 2026-05-06
+date: 2026-05-07
 draft: false
 description: "Resident-facing Washington HOA meeting, records, budget, reserve, assessment, and ACC process notes."
 hideMeta: true
@@ -14,7 +14,7 @@ This page summarizes how Olympic Ridge uses the website to support current Washi
 
 <div class="content-callout">
   <strong>Current law note:</strong>
-  Washington requirements depend partly on the association's recorded creation date and governing documents. Communities created on or after July 1, 2018 are generally governed by the Washington Uniform Common Interest Ownership Act. The official RCW pages include January 1, 2026 versions of RCW 64.38.095 and RCW 64.90.365 that apply several WUCIOA sections, including RCW 64.90.445 meeting rules, to some pre-2018 common interest communities. The Board should confirm Olympic Ridge's recorded creation date and governing-document status with counsel; until then, this site follows the more transparent notice, records, budget, reserve, payment, and ACC process posture.
+  Olympic Ridge's linked CC&amp;R declaration identifies Olympic Ridge as a plat community, was recorded in Mason County on February 10, 2023, and defines the governing "Act" as Washington's Uniform Common Interest Ownership Act, Chapter 64.90 RCW. This site follows WUCIOA meeting, records, budget, reserve, payment, and ACC process requirements unless counsel confirms a different controlling obligation.
 </div>
 
 ## Meetings & Executive Sessions
@@ -23,17 +23,19 @@ This page summarizes how Olympic Ridge uses the website to support current Washi
 * Owner meeting notices should be sent not less than 14 and not more than 50 days before the meeting and should include the meeting time, date, place or remote access details, and agenda items.
 * Board meetings where the Board conducts association business or makes decisions should be noticed and open to owners except during executive sessions.
 * Unless a board meeting is already included in a schedule provided to owners, the meeting notice should be sent at least 14 days before the meeting and state the time, date, place, remote access details if applicable, and agenda.
+* The regular monthly open board meeting is scheduled for the last Saturday of each month at 9:00 AM Pacific Time. Calendar entries or notices should include the agenda and location or remote access details.
+* Posting a meeting on the website calendar helps with transparency, but the Board should also provide the schedule or a separate notice to owners so the calendar can be used as the official schedule source.
 * Owners should have a reasonable opportunity to comment before board votes.
 * Executive sessions are limited to confidential topics such as legal matters, litigation, personnel, active contract negotiations, and privacy-sensitive matters.
 * Final votes and final board action are not taken during executive sessions.
 * If an executive session is needed, it should occur during a regular or special board meeting. The Board can discuss the allowed confidential topic in closed session, then return to open meeting for any final vote or final action.
-* The website labels general board records as board meeting summaries and reserves executive-session wording for closed confidential portions. Owner meetings remain labeled as community or annual meeting minutes.
+* The website labels general board records as open board meeting records and reserves executive-session wording for closed confidential portions. Owner meetings remain labeled separately as community or annual meeting minutes.
 
 ## Monthly Board Practice
 
 The Board's monthly planning work can still happen on a regular cadence, but if the Board is discussing association business or deciding how to proceed on projects, contractors, owner complaints, parking enforcement, budgets, or other community matters, the safer Washington practice is to treat that gathering as a board meeting:
 
-* publish the annual or monthly board meeting schedule, or send the required notice and agenda before each meeting;
+* publish the annual or monthly board meeting schedule, and provide that schedule to owners or send the required notice and agenda before each meeting;
 * let owners observe the open portion and provide comment before votes;
 * move into executive session only for the allowed confidential topics;
 * return to open meeting for final votes or final action; and
@@ -72,12 +74,13 @@ Residents should still submit visible exterior changes through the [ACC request 
 
 ## Official Washington Sources
 
-These links were checked against the official Washington Legislature RCW pages on May 6, 2026. Some pages show multiple effective-date versions; the site follows the versions effective on May 6, 2026 unless noted otherwise.
+These links were checked against the official Washington Legislature RCW pages on May 7, 2026. Some pages show multiple effective-date versions; the site follows the versions effective on May 7, 2026 unless noted otherwise.
 
-* [RCW 64.38.095 - Application to common interest communities](https://app.leg.wa.gov/rcw/default.aspx?cite=64.38.095) (January 1, 2026 version lists RCW 64.90.445, 64.90.480(10), 64.90.502, 64.90.513, 64.90.525, 64.90.545, and 64.90.580 for some pre-2018 communities)
-* [RCW 64.90.365 - Common interest communities; exceptions](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.365) (January 1, 2026 version lists WUCIOA sections applied to some pre-2018 communities)
+* [RCW 64.90.200 - Common interest communities, creation of](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.200)
+* [RCW 64.90.360 - Common interest communities](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.360)
 * [RCW 64.90.445 - Meetings](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.445)
 * [RCW 64.90.495 - Association records](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.495)
+* [RCW 64.90.515 - Notice](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.515)
 * [RCW 64.90.525 - Budgets, assessments, and special assessments](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.525)
 * [RCW 64.90.545 - Reserve study](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.545)
 * [RCW 64.38.033 - U.S. flag display](https://app.leg.wa.gov/rcw/default.aspx?cite=64.38.033)

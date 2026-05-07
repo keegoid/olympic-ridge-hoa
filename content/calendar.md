@@ -13,8 +13,13 @@ cover:
 Stay up-to-date with owner meetings, board meetings, community events, and important deadlines.
 
 <div class="content-callout">
-  <strong>Meeting notices:</strong>
-  Formal owner and board meeting notices should include the date, time, place or remote access details, and agenda items. Washington meeting rules generally call for advance notice and owner comment opportunities; executive sessions are limited to confidential topics and final votes are not taken there.
+  <strong>Regular open board meetings:</strong>
+  The HOA Board's regular monthly open board meeting is scheduled for the last Saturday of each month at 9:00 AM Pacific Time. The first meeting on this schedule is Saturday, May 30, 2026, at 9:00 AM PDT. The Board should include the meeting time, date, place or remote access details, and agenda in the calendar event or a separate meeting notice.
+</div>
+
+<div class="content-callout">
+  <strong>Calendar and notice:</strong>
+  The embedded Google Calendar should be used as the public schedule reference once the recurring meetings and agendas are added. To rely on it for Washington board meeting notice, the Board should also give owners the meeting schedule or send a separate record pointing owners to the calendar and explaining how to access the posted agenda and meeting details. Executive sessions are limited to confidential topics and final votes are not taken there.
 </div>
 
 <div class="action-row">
