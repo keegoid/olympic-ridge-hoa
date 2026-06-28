@@ -22,6 +22,11 @@ Submit an ACC request for exterior modifications, additions, or visible changes 
   solar panels, electric vehicle charging stations, heat pumps, drought-resistant landscaping, pollinator habitat, and wildfire ignition-resistant landscaping may still need a complete ACC submission when visible or when approval is otherwise required. The HOA reviews these requests under reasonable architectural standards and does not use the ACC process to prohibit or unreasonably restrict qualifying installations.
 </div>
 
+<div class="content-callout">
+  <strong>Height and view impacts:</strong>
+  ACC requests for structures that extend above the community fence height of 8 ft and may block another resident's view will be denied.
+</div>
+
 ## Request Process
 
 <div class="approval-path">
@@ -33,7 +38,7 @@ Submit an ACC request for exterior modifications, additions, or visible changes 
   <div class="step-card">
     <span class="step-number">2</span>
     <strong>Prepare the details</strong>
-    <span>Include plans, materials, color swatches, dimensions, and any other project specifications.</span>
+    <span>Include plans, materials, color swatches, dimensions, height, placement, and any other project specifications.</span>
   </div>
   <div class="step-card">
     <span class="step-number">3</span>

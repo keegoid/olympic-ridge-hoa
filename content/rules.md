@@ -74,6 +74,8 @@ Living in Olympic Ridge means we all agree to certain standards to keep our neig
 
 ### Fire Lanes
 
+* **Fire Lane Side:** One entire side of each community street is designated as a fire lane and must remain clear at all times.
+* **Parking Side:** The opposite side of the street is the designated side for on-street parking. Residents and guests should park only on that side unless posted signs or markings say otherwise.
 * **Addendum:** Cars parked in fire lanes are subject to parking violations and impound.
 
 ---
@@ -115,6 +117,7 @@ If you want to make **any** exterior change to your property (painting, fences, 
 * **Roofs:** Must be composition roofing with a 30-year life.
 * **Decks:** Must be cedar, pressure-treated wood, or visually similar composite material.
 * **Walkways:** Front entry walks generally must be concrete.
+* **Structure Height & Views:** ACC requests for structures that extend above the community fence height of 8 ft and may block another resident's view will be denied.
 * **Solar, EV Charging, and Heat Pumps:** Washington law limits HOA restrictions on solar panels, electric vehicle charging stations, and heat pumps. Submit visible exterior work through the ACC process so the HOA can apply reasonable architectural standards without prohibiting or unreasonably restricting qualifying installations.
 
 ---
