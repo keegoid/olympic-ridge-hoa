@@ -95,11 +95,13 @@ params:
     keys: ["title", "summary", "content"]
 
   homeSafetyNotice:
-    Eyebrow: "Community Safety Reminder"
-    Title: "25 mph in Olympic Ridge"
-    Content: "Most neighbors are observing the speed limit, but some vehicles are far exceeding it. With kids playing throughout the neighborhood, the HOA Board asks everyone to check your speed and slow down."
+    Eyebrow: "Holiday Safety Reminder"
+    BadgeText: "4th"
+    BadgeSubtext: "July"
+    Title: "Happy 4th of July, Olympic Ridge"
+    Content: "We hope everyone has a fun and safe day. Conditions are dry, so please use extra care with fireworks, follow [Mason County's posted fireworks hours and restrictions](https://www.masoncountywa.gov/departments/community_development/fire_marshal/fireworks.php), and clean up after the celebration is over."
     LinkText: "Read the reminder"
-    LinkURL: "/announcements/25-mph-speed-limit-reminder/"
+    LinkURL: "/announcements/fourth-of-july-fireworks-safety/"
 
   profileMode:
     enabled: false # Set to 'true' if you want a profile-style homepage instead of a list of posts

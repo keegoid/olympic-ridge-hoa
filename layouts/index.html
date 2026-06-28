@@ -23,9 +23,9 @@
 {{- with $safetyNotice }}
 <section class="home-section home-alert" aria-labelledby="community-safety-title">
   <div class="community-safety-notice">
-    <div class="community-safety-speed" aria-hidden="true">
-      <span>25</span>
-      <small>MPH</small>
+    <div class="community-safety-badge" aria-hidden="true">
+      <span>{{ default "25" .BadgeText }}</span>
+      <small>{{ default "MPH" .BadgeSubtext }}</small>
     </div>
     <div class="community-safety-copy">
       {{- with .Eyebrow }}

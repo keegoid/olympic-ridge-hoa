@@ -485,7 +485,7 @@ button#theme-toggle:hover,
     color: #fff7ed;
 }
 
-.community-safety-speed {
+.community-safety-badge {
     display: flex;
     flex: 0 0 auto;
     flex-direction: column;
@@ -501,12 +501,12 @@ button#theme-toggle:hover,
     line-height: 1;
 }
 
-.community-safety-speed span {
+.community-safety-badge span {
     font-size: 2rem;
     font-weight: 900;
 }
 
-.community-safety-speed small {
+.community-safety-badge small {
     margin-top: 3px;
     font-size: 0.72rem;
     font-weight: 900;
@@ -978,17 +978,17 @@ button#theme-toggle:hover,
         padding: 16px;
     }
 
-    .community-safety-speed {
+    .community-safety-badge {
         width: 64px;
         height: 64px;
         border-width: 4px;
     }
 
-    .community-safety-speed span {
+    .community-safety-badge span {
         font-size: 1.55rem;
     }
 
-    .community-safety-speed small {
+    .community-safety-badge small {
         font-size: 0.62rem;
     }
 
