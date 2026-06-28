@@ -14,11 +14,11 @@ Your HOA Board members are elected volunteers from the Olympic Ridge community.
 
 <div class="contact-grid">
   <div class="contact-card">
-    <strong>Kyle Hansen</strong>
+    <strong>Hunter Austin</strong>
     <span>President - 3 year term</span>
   </div>
   <div class="contact-card">
-    <strong>Hunter Austin</strong>
+    <strong>Alexander Torres Lee</strong>
     <span>Vice President - 3 year term</span>
   </div>
   <div class="contact-card">
@@ -26,11 +26,11 @@ Your HOA Board members are elected volunteers from the Olympic Ridge community.
     <span>Secretary - 3 year term</span>
   </div>
   <div class="contact-card">
-    <strong>Alexander Torres Lee</strong>
+    <strong>Jahzeel Sequeira</strong>
     <span>Treasurer - 2 year term</span>
   </div>
   <div class="contact-card">
-    <strong>Tramal Williams</strong>
+    <strong>Dixie Bernett</strong>
     <span>Director - 1 year term</span>
   </div>
 </div>
