@@ -10,7 +10,7 @@ cover:
     alt: "Olympic Ridge homes at sunset"
 ---
 
-Come together with neighbors and future friends to celebrate our community. The Olympic Ridge Neighborhood Block Party is a casual community picnic and potluck, and everyone in the neighborhood is welcome.
+Come together with neighbors and future friends to celebrate our community. The Olympic Ridge Neighborhood Block Party is our once-a-year in-person community gathering, a casual picnic and potluck, and everyone in the neighborhood is welcome.
 
 <div class="content-callout">
   <strong>When:</strong> Sunday, September 13, 2026, 2:00 PM to 5:00 PM<br>
@@ -38,4 +38,4 @@ RSVPs help us plan, and volunteers are welcome. You can RSVP or sign up to help 
   <figcaption>Print or share the flyer with a neighbor. Volunteers are also distributing copies door to door.</figcaption>
 </figure>
 
-Regular monthly open board meetings continue on the last Saturday of each month at 9:00 AM Pacific. See the [community calendar](/calendar/) for meeting details and [meeting records](/minutes/) for published minutes.
+The block party is separate from our regular business meetings. Monthly open board meetings continue by Google Meet on the last Saturday of each month at 9:00 AM Pacific, with the next one on Saturday, August 29, 2026. See the [community calendar](/calendar/) for meeting details and [meeting records](/minutes/) for published minutes.

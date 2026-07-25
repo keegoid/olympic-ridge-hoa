@@ -12,7 +12,7 @@ draft: false
 
 The HOA Board held its regular monthly open board meeting by Google Meet on July 25, 2026. This meeting had the largest community turnout so far under the monthly open meeting schedule, with owners joining alongside the Board.
 
-The Board reviewed the 2026 budget through midyear, collections status, unbudgeted property taxes, the reserve study, and the landscaping vendor transition. Owners raised questions about the budget, the deficit, county services, delinquent accounts, and temporary parking signs. The Board approved moving $40,000 into a certificate of deposit and approved a one-month trial of a shared communication tool. The Board also confirmed plans for an in-person community gathering and continued outreach on electronic communication consent.
+The Board reviewed the 2026 budget through midyear, collections status, unbudgeted property taxes, the reserve study, and the landscaping vendor transition. Owners raised questions about the budget, the deficit, county services, delinquent accounts, and temporary parking signs. The Board approved moving $40,000 into a certificate of deposit and approved a one-month trial of a shared communication tool. The Board also confirmed plans for the annual Neighborhood Block Party on September 13 and continued outreach on electronic communication consent.
 
 ## Public Posting Note
 
@@ -23,16 +23,17 @@ These minutes are a sanitized public summary of an open board meeting. Personal 
 * **Date and time:** July 25, 2026 at 9:00 AM Pacific.
 * **Location:** Google Meet.
 * **Notice:** The meeting schedule and remote access details were mailed to homeowners by the Management Company and also shared through the community's private social media group.
-* **Attendance:** Board members and community members participated, with roughly ten to eleven participants present at various points. This was the largest attendance recorded for a monthly open board meeting to date.
+* **Attendance:** Four of the Association's five directors participated, along with community members, for roughly ten to eleven participants at various points. This was the largest attendance recorded for a monthly open board meeting to date.
+* **Quorum:** A quorum of the Board was present.
 * **Session interruption:** The meeting connection ended unintentionally partway through the agenda. Participants rejoined and the Board completed the remaining business in the resumed session.
 * **Executive session:** None recorded in the source notes.
 
 ## Vote and Action Record
 
-* **Certificate of deposit transfer, first vote:** A motion to transfer $40,000 from the operating checking account into a certificate of deposit was brought to a vote. Five of the ten participants present voted in favor, which was short of a majority, so the motion did not carry at that point and was set aside for further discussion.
-* **Certificate of deposit transfer, approved:** After an additional board member joined and the session resumed, the motion was taken up again and carried with six affirmative votes. The Board approved transferring $40,000 into a certificate of deposit so that reserve and surplus cash earns interest rather than sitting in a non-interest-bearing checking account. The term length, either three months, six months, or one year, was left to be determined, with the intent to renew the certificate at each maturity.
-* **Alternate $30,000 amount:** A follow-up vote on a smaller $30,000 transfer had been proposed as an alternative. Because the $40,000 motion carried, no vote on the alternate amount was taken.
-* **Communication tool trial:** The Board approved a one-month trial of a shared communication platform to reduce email volume and better organize communication among the Board, the Management Company, and the community. The trial starts with a no-cost plan. Alternatives raised by attendees, including Microsoft Teams and a forum-style group, will also be evaluated.
+* **Certificate of deposit transfer, approved:** A motion to transfer $40,000 from the operating checking account into a certificate of deposit was presented and discussed, and owner comments were received before the vote. All four directors participating in the meeting voted in favor, and the motion carried as an action of the Board. The Board approved transferring $40,000 into a certificate of deposit so that reserve and surplus cash earns interest rather than sitting in a non-interest-bearing checking account. The term length, either three months, six months, or one year, was left to be determined, with the intent to renew the certificate at each maturity.
+* **Vote administration:** Votes were collected by a show of hands from meeting participants. The count was interrupted when the meeting connection dropped partway through, and the motion was restated and confirmed after participants rejoined and the fourth director returned to the session.
+* **Alternate $30,000 amount:** A smaller $30,000 transfer had been raised as an alternative. Because the $40,000 motion carried, no separate vote on the alternate amount was taken.
+* **Communication tool trial:** The Board approved a one-month trial of a shared communication platform to reduce email volume and better organize communication among the Board, the Management Company, and the community. The motion carried on a show of hands by the directors present in the resumed session. The trial starts with a no-cost plan. Alternatives raised by attendees, including Microsoft Teams and a forum-style group, will also be evaluated.
 * **Parking signage review:** No vote was taken. The Board agreed to review the placement of temporary "no parking" signs against the governing documents and to research alternatives.
 
 ## Next Steps
@@ -46,9 +47,9 @@ These minutes are a sanitized public summary of an open board meeting. Personal 
 * **The HOA Board:** Continue sending collection letters for significantly delinquent accounts.
 * **The HOA Board:** Continue working to recover costs for damage attributed to the former landscaping vendor.
 * **The HOA Board:** Follow up privately on the open architectural review matter involving structure placement and view impact.
-* **Board members and volunteers:** Distribute flyers door to door to promote the in-person community event and increase awareness of open meetings.
-* **The board secretary:** Post the in-person event details and this meeting's minutes on the HOA website.
-* **The HOA Board:** Bring electronic communication consent forms to the in-person event so owners can sign up for email or text notices in person.
+* **Board members and volunteers:** Distribute flyers door to door to promote the September 13 Neighborhood Block Party and increase awareness of open meetings.
+* **The board secretary:** Post the block party details and this meeting's minutes on the HOA website.
+* **The HOA Board:** Bring electronic communication consent forms to the block party so owners can sign up for email or text notices in person.
 
 ## Summary
 
@@ -76,7 +77,9 @@ The Board discussed outstanding assessments. A small number of accounts are more
 
 ### Reserve Study and Long-Term Planning
 
-The Board reviewed the reserve study, which models funding over a 30-year horizon. The fully funded model is approximately $22,000 per year above the currently budgeted reserve contribution. The Board discussed that closing that gap through dues alone would require an increase per household, estimated in discussion at roughly $15, and that exact figures will be confirmed and presented with supporting charts before any such change is considered.
+The Board reviewed the reserve study, which models funding over a 30-year horizon. The fully funded model is approximately $22,000 per year above the currently budgeted reserve contribution. Spread across the community's 144 units, that gap works out to roughly $153 per household per year, or about $12.75 per month. A working figure of $15 per month was used during the discussion, rounded up to leave margin for the cost increases and unbudgeted expenses the community has seen this year.
+
+No dues increase was proposed or voted on at this meeting. Attendees were clear that raising dues is not the preferred path, and asked the Board to look first at additional income and at reducing expenses wherever possible. The Board's stated approach matches that: invest available surplus, monitor results, and treat a dues adjustment as a last resort. Exact figures will be confirmed and presented with supporting charts before any such change is considered.
 
 An owner asked about the long-term investment plan and whether owners should expect to vote on each allocation. The Board confirmed that the reserve contribution is budgeted annually and is expected to increase over the life of the study, that the reserve study is available to owners, and that the Board will publish clearer materials showing yields and allocation amounts. The Board's stated approach is to invest available surplus first, monitor results over the next two to three months, and only then assess whether a dues adjustment is needed.
 
@@ -84,7 +87,7 @@ An owner asked about the long-term investment plan and whether owners should exp
 
 The Board discussed moving surplus cash into a certificate of deposit so that it earns interest, noting that funds in the operating checking account earn nothing and lose value to inflation. The available options were short-term certificates with a return of approximately 3%.
 
-The Board reviewed liquidity before setting the amount, accounting for outstanding bills, the recent unplanned water bill, and the operating funds needed for the remainder of the year. $40,000 was identified as the amount that could be invested while keeping sufficient operating cash available. Board members and attendees noted that a certificate of deposit is a low-risk, common vehicle for association funds, that the account remains owned by the Association, and that funds are locked only for the length of the term. The motion carried in the resumed session as recorded above.
+The Board reviewed liquidity before setting the amount, accounting for outstanding bills, the recent unplanned water bill, and the operating funds needed for the remainder of the year. $40,000 was identified as the amount that could be invested while keeping sufficient operating cash available. Board members and attendees noted that a certificate of deposit is a low-risk, common vehicle for association funds, that the account remains owned by the Association, and that funds are locked only for the length of the term. The motion carried as recorded above.
 
 An owner asked whether earning interest conflicts with the Association's nonprofit status. The Board explained that the interest is not profit distributed to anyone. It is income used to offset Association expenses and to slow the erosion of reserve cash from inflation.
 
@@ -126,6 +129,6 @@ Attendees suggested alternatives, including Microsoft Teams, which may be availa
 
 Attendees noted that many residents missed this meeting because notices did not reach them, that not everyone uses social media, and that mailed notices are easy to overlook. The Board and volunteers discussed door-to-door flyer distribution ahead of the next gathering, with several attendees volunteering to help.
 
-The Board confirmed plans for an in-person community gathering where residents can meet the Board, ask questions directly, and complete electronic communication consent forms in person. The Board previously noted that only eight of approximately 140 mailed consent forms were returned, and that Washington law requires owner authorization before the Association can communicate electronically. Increasing those authorizations is the most direct way to reduce mailing costs. Details for the in-person event will be posted on the HOA website and the community calendar.
+The Board confirmed plans for the community's annual in-person gathering, the Neighborhood Block Party, on Sunday, September 13, 2026, from 2:00 to 5:00 PM at the Olympic Ridge main park off Belfair Station. Residents can meet the Board, ask questions directly, and complete electronic communication consent forms in person. The Board previously noted that only eight of approximately 140 mailed consent forms were returned, and that Washington law requires owner authorization before the Association can communicate electronically. Increasing those authorizations is the most direct way to reduce mailing costs. Event details are posted on the HOA website and the community calendar.
 
-Monthly open board meetings remain scheduled for the last Saturday of each month at 9:00 AM Pacific.
+Monthly open board meetings are separate from that event and continue on their regular schedule by Google Meet, on the last Saturday of each month at 9:00 AM Pacific. The next open board meeting is Saturday, August 29, 2026.
