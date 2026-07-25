@@ -95,13 +95,13 @@ params:
     keys: ["title", "summary", "content"]
 
   homeSafetyNotice:
-    Eyebrow: "Holiday Safety Reminder"
-    BadgeText: "4th"
-    BadgeSubtext: "July"
-    Title: "Happy 4th of July, Olympic Ridge"
-    Content: "We hope everyone has a fun and safe day. Conditions are dry, so please use extra care with fireworks, follow [Mason County's posted fireworks hours and restrictions](https://www.masoncountywa.gov/departments/community_development/fire_marshal/fireworks.php), and clean up after the celebration is over."
-    LinkText: "Read the reminder"
-    LinkURL: "/announcements/fourth-of-july-fireworks-safety/"
+    Eyebrow: "Upcoming Community Event"
+    BadgeText: "13"
+    BadgeSubtext: "SEP"
+    Title: "Olympic Ridge Neighborhood Block Party"
+    Content: "Join your neighbors on **Sunday, September 13, 2026, from 2:00 to 5:00 PM** at the Olympic Ridge main park off Belfair Station. Community picnic and potluck, meet your neighbors, and HOA Board members will be there to answer questions."
+    LinkText: "See the event details"
+    LinkURL: "/announcements/neighborhood-block-party/"
 
   profileMode:
     enabled: false # Set to 'true' if you want a profile-style homepage instead of a list of posts

@@ -776,6 +776,27 @@ button#theme-toggle:hover,
     min-height: 650px;
 }
 
+.event-flyer {
+    max-width: 480px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.event-flyer img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-sm);
+}
+
+.event-flyer figcaption {
+    margin-top: 12px;
+    color: var(--secondary);
+    font-size: 0.92rem;
+}
+
 .toc {
     border: 1px solid var(--border);
     border-radius: var(--radius);
