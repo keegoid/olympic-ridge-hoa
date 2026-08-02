@@ -6,8 +6,8 @@ author: "HOA Board Secretary"
 tags: ["Community", "Events"]
 draft: false
 cover:
-    image: "homes-sunset.jpg"
-    alt: "Olympic Ridge homes at sunset"
+    image: "olympic-ridge-main-park-header.jpg"
+    alt: "Olympic Ridge main park playground at sunset with the Olympic Mountains in the distance"
 ---
 
 Come together with neighbors and future friends to celebrate our community. The Olympic Ridge Neighborhood Block Party is our once-a-year in-person community gathering, a casual picnic and potluck, and everyone in the neighborhood is welcome.
