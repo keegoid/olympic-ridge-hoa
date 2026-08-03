@@ -40,6 +40,7 @@ RSVPs help us plan, and volunteers are welcome. You can RSVP or sign up to help 
 
 <div class="action-row">
   <a class="button button-secondary" href="/block-party-2026-saturday.jpg" download>Download the Flyer</a>
+  <a class="button button-secondary" href="/block-party-2026-saturday.png" download>Download for Printing</a>
 </div>
 
 The block party is separate from our regular business meetings. Monthly open board meetings continue by Google Meet on the last Saturday of each month at 9:00 AM Pacific, with the next one on Saturday, August 29, 2026. See the [community calendar](/calendar/) for meeting details and [meeting records](/minutes/) for published minutes.
