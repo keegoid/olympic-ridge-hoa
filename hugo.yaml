@@ -21,6 +21,10 @@ markup:
 # Main menu navigation
 menu:
   main:
+    - identifier: welcome
+      name: Welcome
+      url: /welcome/
+      weight: 5
     - identifier: announcements
       name: News
       url: /announcements/
@@ -49,6 +53,10 @@ menu:
       name: Request Approval
       url: /acc-requests/
       weight: 50
+    - identifier: dues-payment
+      name: Pay Dues
+      url: /dues-payment/
+      weight: 55
     - identifier: contact
       name: Contact
       url: /contact/

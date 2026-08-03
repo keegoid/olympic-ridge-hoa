@@ -23,7 +23,7 @@ Homeowners can expect at least one owner meeting each year. Owner meeting notice
 
 Regular board meetings are where association business is discussed and decisions are made. These meetings are open to owners except for limited executive-session topics. If a board meeting is not already included in a schedule provided to owners, homeowners should receive notice at least 14 days before the meeting with the time, date, place, remote access details if applicable, and agenda.
 
-The regular monthly open board meeting is scheduled for the last Saturday of each month at 9:00 AM Pacific Time. Look for the agenda and location or remote access details in the calendar entry or meeting notice.
+The regular monthly open board meeting is scheduled for the last Saturday of each month at 9:00 AM Pacific Time. Look for the agenda in the [community calendar](/calendar/) entry or meeting notice. Because these meetings are for Olympic Ridge owners, the Google Meet link is not published on this public website — it was mailed to owners with the 2026 meeting schedule and is posted in the private community Facebook group. [Contact the Board](/contact/) if you need it.
 
 Owners have a reasonable opportunity to comment before board votes. Executive sessions are closed only for confidential topics such as legal matters, litigation, personnel, active contract negotiations, and privacy-sensitive matters. Final votes and final board action happen in open meeting, not in executive session.
 

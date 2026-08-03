@@ -12,6 +12,15 @@ The HOA Board's regular open board meetings are scheduled for the last Saturday 
 
 The first meeting on this schedule is Saturday, May 30, 2026, at 9:00 AM PDT. Future meetings will follow the last-Saturday schedule at 9:00 AM Pacific Time.
 
-Meeting agendas, location or remote access details, and any executive-session topics will be posted on the [community calendar](/calendar/) or provided by separate meeting notice before each meeting. Owners will have an opportunity to comment on agenda items before the Board votes.
+Meeting dates, agendas, and any executive-session topics will be posted on the [community calendar](/calendar/) or provided by separate meeting notice before each meeting. Owners will have an opportunity to comment on agenda items before the Board votes.
+
+<div class="content-callout">
+  <strong>Getting the meeting link:</strong>
+  the Google Meet link is not published on this public website, because these meetings are for
+  Olympic Ridge owners. The link and the 2026 meeting dates were mailed to owners, and the link is
+  also posted in the private
+  <a href="https://www.facebook.com/groups/olympicridge" target="_blank" rel="noopener noreferrer">Olympic Ridge community Facebook group</a>.
+  If you cannot find it, <a href="/contact/">contact the Board</a> and we will send it to you.
+</div>
 
 Executive sessions may be used only for confidential topics allowed under Washington law. Final votes and final Board action will occur in the open meeting.

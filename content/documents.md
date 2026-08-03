@@ -31,6 +31,26 @@ This library collects the governing documents, request forms, and management rec
   </a>
 </div>
 
+## For New Neighbors
+
+<div class="document-grid">
+  <a class="document-card" href="/welcome-flyer.pdf" download>
+    <em>Flyer</em>
+    <strong>Olympic Ridge Welcome Flyer</strong>
+    <span>Community values, what dues cover, your elected board, and how to get involved. Print-ready.</span>
+  </a>
+  <a class="document-card" href="/welcome/">
+    <em>Guide</em>
+    <strong>Welcome to Olympic Ridge</strong>
+    <span>The same information online, with links to rules, dues, ACC requests, and the calendar.</span>
+  </a>
+  <a class="document-card" href="/email-consent/">
+    <em>Form</em>
+    <strong>Electronic Notice Consent</strong>
+    <span>Authorize email or text notices instead of paper mail, and help cut mailing costs.</span>
+  </a>
+</div>
+
 ## Governing Documents
 
 <div class="document-grid">

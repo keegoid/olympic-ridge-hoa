@@ -12,7 +12,11 @@ draft: false
 
 The HOA Board held its regular monthly open board meeting by Google Meet on July 25, 2026. This meeting had the largest community turnout so far under the monthly open meeting schedule, with owners joining alongside the Board.
 
-The Board reviewed the 2026 budget through midyear, collections status, unbudgeted property taxes, the reserve study, and the landscaping vendor transition. Owners raised questions about the budget, the deficit, county services, delinquent accounts, and temporary parking signs. The Board approved moving $40,000 into a certificate of deposit and approved a one-month trial of a shared communication tool. The Board also confirmed plans for the annual Neighborhood Block Party on September 13 and continued outreach on electronic communication consent.
+The Board reviewed the 2026 budget through midyear, collections status, unbudgeted property taxes, the reserve study, and the landscaping vendor transition. Owners raised questions about the budget, the deficit, county services, delinquent accounts, and temporary parking signs. The Board approved moving $40,000 into a certificate of deposit and approved a one-month trial of a shared communication tool. The Board also confirmed plans for the annual Neighborhood Block Party on September 12 and continued outreach on electronic communication consent.
+
+## Correction
+
+These minutes originally recorded the Neighborhood Block Party as Sunday, September 13, 2026. The event was subsequently moved to **Saturday, September 12, 2026**, and the date has been corrected throughout this record. The time and location are unchanged.
 
 ## Public Posting Note
 
@@ -47,7 +51,7 @@ These minutes are a sanitized public summary of an open board meeting. Personal 
 * **The HOA Board:** Continue sending collection letters for significantly delinquent accounts.
 * **The HOA Board:** Continue working to recover costs for damage attributed to the former landscaping vendor.
 * **The HOA Board:** Follow up privately on the open architectural review matter involving structure placement and view impact.
-* **Board members and volunteers:** Distribute flyers door to door to promote the September 13 Neighborhood Block Party and increase awareness of open meetings.
+* **Board members and volunteers:** Distribute flyers door to door to promote the September 12 Neighborhood Block Party and increase awareness of open meetings.
 * **The board secretary:** Post the block party details and this meeting's minutes on the HOA website.
 * **The HOA Board:** Bring electronic communication consent forms to the block party so owners can sign up for email or text notices in person.
 
@@ -129,6 +133,6 @@ Attendees suggested alternatives, including Microsoft Teams, which may be availa
 
 Attendees noted that many residents missed this meeting because notices did not reach them, that not everyone uses social media, and that mailed notices are easy to overlook. The Board and volunteers discussed door-to-door flyer distribution ahead of the next gathering, with several attendees volunteering to help.
 
-The Board confirmed plans for the community's annual in-person gathering, the Neighborhood Block Party, on Sunday, September 13, 2026, from 2:00 to 5:00 PM at the Olympic Ridge main park off Belfair Station. Residents can meet the Board, ask questions directly, and complete electronic communication consent forms in person. The Board previously noted that only eight of approximately 140 mailed consent forms were returned, and that Washington law requires owner authorization before the Association can communicate electronically. Increasing those authorizations is the most direct way to reduce mailing costs. Event details are posted on the HOA website and the community calendar.
+The Board confirmed plans for the community's annual in-person gathering, the Neighborhood Block Party, on Saturday, September 12, 2026, from 2:00 to 5:00 PM at the Olympic Ridge main park off Belfair Station. Residents can meet the Board, ask questions directly, and complete electronic communication consent forms in person. The Board previously noted that only eight of approximately 140 mailed consent forms were returned, and that Washington law requires owner authorization before the Association can communicate electronically. Increasing those authorizations is the most direct way to reduce mailing costs. Event details are posted on the HOA website and the community calendar.
 
 Monthly open board meetings are separate from that event and continue on their regular schedule by Google Meet, on the last Saturday of each month at 9:00 AM Pacific. The next open board meeting is Saturday, August 29, 2026.

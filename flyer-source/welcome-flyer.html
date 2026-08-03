@@ -1,0 +1,439 @@
+<meta charset="utf-8">
+<title>Olympic Ridge — Welcome Flyer</title>
+<style>
+@font-face { font-family: "Baloo2"; src: url("fonts/Baloo2.ttf") format("truetype"); font-weight: 400 800; }
+@font-face { font-family: "NunitoV"; src: url("fonts/Nunito.ttf") format("truetype"); font-weight: 200 1000; }
+
+:root{
+  --sky:#81CDDA;
+  --sky-deep:#6FC2D2;
+  --green:#245E29;
+  --green-dk:#1B4A20;
+  --yellow:#FDD95A;
+  --yellow-dk:#F0C43C;
+  --brown:#4F3437;
+  --brown-soft:#6B4A4D;
+  --white:#fff;
+}
+
+*{box-sizing:border-box;margin:0;padding:0;}
+
+@page { size: 8.5in 11in; margin: 0; }
+
+html,body{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+
+body{
+  font-family:"NunitoV","Nunito",system-ui,sans-serif;
+  color:var(--brown);
+}
+
+.page{
+  position:relative;
+  width:8.5in; height:11in;
+  overflow:hidden;
+  background:var(--sky);
+  isolation:isolate;
+}
+
+/* ---------- decorative layers ---------- */
+.layer{ position:absolute; left:0; right:0; z-index:0; pointer-events:none; }
+.bunting{ top:0; width:100%; z-index:1; }
+.skyline{ bottom:1.08in; width:100%; height:1.24in; }
+.sun{
+  position:absolute; z-index:0;
+  width:1.62in; height:1.62in; border-radius:50%;
+  background:var(--yellow); opacity:.92;
+  top:-.52in; left:-.50in;
+}
+.cloud{ position:absolute; z-index:0; fill:#fff; opacity:.9; }
+.sparkle{ position:absolute; z-index:0; fill:none; stroke:#9FDCE7; stroke-width:2.2; stroke-linejoin:round; }
+
+/* ---------- content ---------- */
+.content{
+  position:relative; z-index:2;
+  height:100%;
+  padding:0.26in 0.46in 0 0.46in;
+  display:flex; flex-direction:column;
+}
+
+.eyebrow{
+  text-align:center;
+  font-weight:800; font-size:11.5pt; letter-spacing:.20em;
+  color:var(--brown); text-transform:uppercase;
+  margin-top:0.44in;
+  line-height:1.25;
+}
+
+/* ribbon banner */
+.ribbon-wrap{ display:flex; justify-content:center; margin-top:.07in; }
+.ribbon{ position:relative; }
+.ribbon svg{ display:block; }
+.ribbon span{
+  position:absolute; inset:0;
+  display:flex; align-items:center; justify-content:center;
+  font-family:"Baloo2"; font-weight:800; font-size:19pt;
+  letter-spacing:.10em; color:var(--brown); text-transform:uppercase;
+  padding-bottom:.03in;
+}
+
+h1{
+  font-family:"Baloo2"; font-weight:800;
+  font-size:54pt; line-height:.90;
+  text-align:center; letter-spacing:-.005em;
+  color:var(--brown);
+  margin-top:.02in;
+}
+
+.subhead{
+  text-align:center; font-weight:700; font-size:11.4pt;
+  line-height:1.3; color:var(--brown);
+  max-width:6.95in; margin:.10in auto 0;
+}
+
+/* white pill */
+.pill{
+  background:var(--white);
+  border-radius:.42in;
+  padding:.15in .30in;
+}
+
+/* values */
+.values{
+  display:grid; grid-template-columns:repeat(5,1fr);
+  gap:.11in;
+  margin-top:.16in;
+}
+.value{
+  background:var(--white);
+  border-radius:.20in;
+  padding:.115in .10in .13in;
+  text-align:center;
+}
+.value b{
+  display:block;
+  font-family:"Baloo2"; font-weight:800;
+  font-size:9.6pt; line-height:1.06;
+  color:var(--green); text-transform:uppercase; letter-spacing:.012em;
+  margin-bottom:.035in;
+}
+.value span{
+  display:block; font-weight:600; font-size:8.6pt; line-height:1.20;
+  color:var(--brown-soft);
+}
+
+/* yellow fact ribbon */
+.fact{ margin-top:.20in; text-align:center; }
+.fact-band{
+  display:inline-block;
+  background:var(--yellow);
+  border-radius:.30in;
+  padding:.105in .40in;
+  font-family:"Baloo2"; font-weight:800;
+  font-size:19.5pt; line-height:1.06; color:var(--brown);
+}
+.fact p{
+  font-weight:700; font-size:10.3pt; line-height:1.30;
+  max-width:7.15in; margin:.095in auto 0; color:var(--brown);
+}
+
+/* stat badges */
+.stats{
+  display:grid; grid-template-columns:repeat(4,1fr);
+  gap:.12in; margin-top:.18in;
+}
+.stat{
+  background:var(--yellow); border-radius:.20in;
+  padding:.085in .06in .10in; text-align:center;
+}
+.stat b{
+  display:block; font-family:"Baloo2"; font-weight:800;
+  font-size:19pt; line-height:1; color:var(--brown);
+}
+.stat span{
+  display:block; font-weight:700; font-size:8.2pt; line-height:1.14;
+  color:var(--brown); margin-top:.03in;
+}
+
+/* dues + board */
+.midrow{ display:grid; grid-template-columns:1.32fr 1fr; gap:.13in; margin-top:.16in; }
+.card{ background:var(--white); border-radius:.24in; padding:.14in .19in .155in; }
+.card h3{
+  font-family:"Baloo2"; font-weight:800; font-size:11.4pt;
+  color:var(--green); line-height:1.1; margin-bottom:.055in;
+}
+.card p{ font-weight:600; font-size:9.3pt; line-height:1.30; color:var(--brown); }
+.card .names{ font-weight:800; color:var(--green); }
+.straight{
+  margin-top:.075in; padding-top:.07in;
+  border-top:1.6px solid #EDE3DC;
+  font-weight:600; font-size:8.9pt; line-height:1.28;
+}
+.straight b{ font-weight:800; color:var(--green); }
+
+/* actions */
+.actions{ display:grid; grid-template-columns:repeat(3,1fr); gap:.12in; margin-top:.16in; }
+.action{ background:var(--yellow); border-radius:.22in; padding:.115in .145in .13in; }
+.action b{
+  display:block; font-family:"Baloo2"; font-weight:800;
+  font-size:10.3pt; line-height:1.06; color:var(--brown);
+  text-transform:uppercase; letter-spacing:.012em; margin-bottom:.045in;
+}
+.action span{ display:block; font-weight:600; font-size:8.7pt; line-height:1.22; color:var(--brown); }
+
+/* footer band */
+.footer{
+  position:absolute; z-index:3; left:0; right:0; bottom:0;
+  height:1.08in; background:var(--green);
+  display:flex; align-items:center; gap:.24in;
+  padding:0 .46in;
+  color:#EAF5EC;
+}
+.footer .qr{
+  width:0.94in; height:0.94in; background:#fff;
+  border-radius:.09in; padding:.05in; flex:0 0 auto;
+}
+.footer .qr svg, .footer .qr img{ width:100%; height:100%; display:block; }
+.footer .url{
+  font-family:"Baloo2"; font-weight:800; font-size:17pt;
+  color:#fff; line-height:1.05; white-space:nowrap;
+}
+.footer .fine{ font-weight:600; font-size:8.0pt; line-height:1.28; margin-top:.025in; color:#CDE6D2; }
+.footer .right{ margin-left:auto; text-align:right; }
+.footer .right b{
+  display:block; font-family:"Baloo2"; font-weight:800;
+  font-size:9.6pt; color:var(--yellow); line-height:1.1;
+}
+.footer .right span{ display:block; font-weight:600; font-size:8.0pt; line-height:1.26; color:#CDE6D2; margin-top:.02in; }
+</style>
+
+<div class="page">
+
+  <!-- ============ BUNTING ============ -->
+  <svg class="layer bunting" viewBox="0 0 816 108" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M-6 12 Q 120 74 246 40 T 498 40 T 750 40 T 900 14"
+          fill="none" stroke="#C0453A" stroke-width="3.4" stroke-linecap="round"/>
+    <g id="flags"></g>
+  </svg>
+
+  <!-- ============ SUN ============ -->
+  <div class="sun"></div>
+
+  <!-- ============ CLOUDS ============ -->
+  <svg class="cloud" style="top:2.44in; left:.16in; width:1.10in; height:.44in; opacity:.68;" viewBox="0 0 116 46"><ellipse cx="46" cy="26" rx="32" ry="16"/><ellipse cx="78" cy="30" rx="25" ry="13"/><ellipse cx="20" cy="32" rx="20" ry="11"/></svg>
+
+  <!-- ============ SPARKLES ============ -->
+  <svg class="sparkle" style="top:1.70in; left:.52in; width:.38in; height:.38in;" viewBox="0 0 40 40"><path d="M20 2 L24.4 15.6 L38 20 L24.4 24.4 L20 38 L15.6 24.4 L2 20 L15.6 15.6 Z"/></svg>
+  <svg class="sparkle" style="top:1.06in; right:.50in; width:.26in; height:.26in;" viewBox="0 0 40 40"><path d="M20 2 L24.4 15.6 L38 20 L24.4 24.4 L20 38 L15.6 24.4 L2 20 L15.6 15.6 Z"/></svg>
+  <svg class="sparkle" style="top:2.14in; right:.30in; width:.22in; height:.22in;" viewBox="0 0 40 40"><path d="M20 2 L24.4 15.6 L38 20 L24.4 24.4 L20 38 L15.6 24.4 L2 20 L15.6 15.6 Z"/></svg>
+
+  <!-- ============ SKYLINE (hill + houses) ============ -->
+  <svg class="layer skyline" viewBox="0 0 816 129" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- horizon clouds, then houses, then the hill overlapping their base -->
+    <g fill="#FFFFFF" opacity=".82">
+      <ellipse cx="122" cy="58" rx="38" ry="15"/><ellipse cx="153" cy="62" rx="28" ry="12"/><ellipse cx="92" cy="64" rx="23" ry="10"/>
+      <ellipse cx="676" cy="52" rx="33" ry="14"/><ellipse cx="704" cy="56" rx="25" ry="11"/><ellipse cx="650" cy="58" rx="21" ry="9"/>
+    </g>
+    <g id="houses" fill="#1B4A20"></g>
+    <path d="M0 108 Q 204 90 408 99 Q 612 108 816 88 L816 129 L0 129 Z" fill="#245E29"/>
+  </svg>
+
+  <!-- ============ CONTENT ============ -->
+  <div class="content">
+
+    <div class="eyebrow">Belfair, Washington</div>
+
+    <div class="ribbon-wrap">
+      <div class="ribbon">
+        <svg width="286" height="52" viewBox="0 0 286 52" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 6 L26 0 L260 0 L286 6 L286 46 L260 52 L26 52 L0 46 Z" fill="#FDD95A"/>
+        </svg>
+        <span>Welcome to</span>
+      </div>
+    </div>
+
+    <h1>OLYMPIC RIDGE</h1>
+
+    <p class="subhead">
+      144 homes on the bluff, Olympic Mountains out front and Lynch Cove below.
+      Just unpacked or here since the first phase — glad you're on this ridge.
+    </p>
+
+    <!-- VALUES -->
+    <div class="values">
+      <div class="value"><b>We look out<br>for each other</b><span>A neighbor's report is why the access road has bollards.</span></div>
+      <div class="value"><b>We drive like<br>kids live here</b><span>25 mph, slower near the bus stop.</span></div>
+      <div class="value"><b>We keep a<br>lane open</b><span>One side of every street stays clear for fire trucks.</span></div>
+      <div class="value"><b>We share<br>the view</b><span>Nobody's shed should cost a neighbor their mountains.</span></div>
+      <div class="value"><b>We clean up<br>after ourselves</b><span>Leash on, bag in hand, cans out of sight.</span></div>
+    </div>
+
+    <!-- FACT -->
+    <div class="fact">
+      <div class="fact-band">The county doesn't plow this hill. We do.</div>
+      <p>Olympic Ridge was approved as a self-sufficient community, so our roads, sidewalks and
+         streetlights are ours to maintain — permanently. That is what dues cover, and why we
+         keep a 30-year reserve study for what wears out.</p>
+    </div>
+
+    <!-- STATS -->
+    <div class="stats">
+      <div class="stat"><b>144</b><span>homes on the ridge</span></div>
+      <div class="stat"><b>$1,000</b><span>a year, about $83/month</span></div>
+      <div class="stat"><b>$31,000</b><span>budgeted to reserves</span></div>
+      <div class="stat"><b>$0</b><span>in board salaries</span></div>
+    </div>
+
+    <!-- MID ROW -->
+    <div class="midrow">
+      <div class="card">
+        <h3>What we all chip in for</h3>
+        <p>Snow plowing. Roads, sidewalks and streetlights. Groundskeeping, hill and pond included.
+           A $7,500 brush cleanup. Insurance and common-area repairs.</p>
+        <p class="straight"><b>Straight talk:</b> reserves are behind, so we moved $40,000 into a certificate of
+           deposit to earn interest instead of nothing. No dues increase is proposed — a raise is the last resort.</p>
+      </div>
+      <div class="card">
+        <h3>Five neighbors, elected</h3>
+        <p><span class="names">Hunter Austin</span> President<br>
+           <span class="names">Alexander Torres Lee</span> Vice President<br>
+           <span class="names">Keegan Mullaney</span> Secretary<br>
+           <span class="names">Jahzeel Sequeira</span> Treasurer<br>
+           <span class="names">Dixie Bernett</span> Director</p>
+        <p class="straight">Owners who live here, walking these streets for dead trees, cracked sidewalks and dark corners.</p>
+      </div>
+    </div>
+
+    <!-- ACTIONS -->
+    <div class="actions">
+      <div class="action">
+        <b>Sign the email<br>consent form</b>
+        <span>State law needs your written OK before we can email or text you. Only 8 of 140 came back, and mailing costs doubled. Sign yours on the website.</span>
+      </div>
+      <div class="action">
+        <b>Sit in on<br>a meeting</b>
+        <span>Any owner can. Last Saturday of the month, 9:00 AM Pacific, by Google Meet. The link was mailed to owners and is posted in the community Facebook group.</span>
+      </div>
+      <div class="action">
+        <b>Come to the<br>block party</b>
+        <span>Our once-a-year picnic and potluck, every September at the main park. Details on the website.</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ============ FOOTER ============ -->
+  <div class="footer">
+    <div class="qr" id="qr"></div>
+    <div>
+      <div class="url">olympicridgehoa.com</div>
+      <div class="fine">Everything in one place — meeting minutes, community rules, official documents,<br>
+        the calendar, ACC requests, how to pay your dues, and how to reach the Board.</div>
+    </div>
+    <div class="right">
+      <b>Planning exterior work?</b>
+      <span>File an ACC request before you start.<br>
+        30-day review, extension possible.</span>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ---- bunting flags along the swag curve ----
+(function(){
+  const svg = document.querySelector('.bunting');
+  const path = svg.querySelector('path');
+  const g = svg.querySelector('#flags');
+  const len = path.getTotalLength();
+  const cols = ['#C0453A','#E58A3A','#F5C53D','#7CB342','#4A90C2','#FFFFFF'];
+  const pats = ['solid','dots','stripe','check','solid','dots'];
+  const N = 26;
+  for(let i=0;i<N;i++){
+    const t = (i+0.5)/N;
+    const p = path.getPointAtLength(t*len);
+    const p2 = path.getPointAtLength(Math.min(len,t*len+1));
+    const ang = Math.atan2(p2.y-p.y,p2.x-p.x)*180/Math.PI;
+    const c = cols[i%cols.length];
+    const w = 21, h = 30;
+    const el = document.createElementNS('http://www.w3.org/2000/svg','g');
+    el.setAttribute('transform',`translate(${p.x},${p.y}) rotate(${ang*0.45})`);
+    const flag = document.createElementNS('http://www.w3.org/2000/svg','path');
+    // alternate pennant and rectangle-notch shapes
+    flag.setAttribute('d', i%2
+      ? `M${-w/2} 0 L${w/2} 0 L${w/2} ${h*0.72} L0 ${h} L${-w/2} ${h*0.72} Z`
+      : `M${-w/2} 0 L${w/2} 0 L0 ${h} Z`);
+    flag.setAttribute('fill', c);
+    el.appendChild(flag);
+    // simple pattern marks
+    const pat = pats[i%pats.length];
+    const mark = document.createElementNS('http://www.w3.org/2000/svg','g');
+    mark.setAttribute('fill', c==='#FFFFFF' ? '#4A90C2' : 'rgba(255,255,255,.72)');
+    if(pat==='dots'){
+      [[-4,7],[4,7],[0,15],[-3,20],[3,20]].forEach(([x,y])=>{
+        const ci=document.createElementNS('http://www.w3.org/2000/svg','circle');
+        ci.setAttribute('cx',x);ci.setAttribute('cy',y);ci.setAttribute('r',1.9);mark.appendChild(ci);
+      });
+    } else if(pat==='stripe'){
+      [4,11,18].forEach(y=>{
+        const r=document.createElementNS('http://www.w3.org/2000/svg','rect');
+        const half=(w/2)*(1-y/h)+1.5;
+        r.setAttribute('x',-half);r.setAttribute('y',y);r.setAttribute('width',half*2);r.setAttribute('height',2.3);
+        mark.appendChild(r);
+      });
+    } else if(pat==='check'){
+      [[-5,5],[2,5],[-2,12],[-6,12],[0,18]].forEach(([x,y])=>{
+        const r=document.createElementNS('http://www.w3.org/2000/svg','rect');
+        r.setAttribute('x',x);r.setAttribute('y',y);r.setAttribute('width',4);r.setAttribute('height',4);
+        mark.appendChild(r);
+      });
+    }
+    el.appendChild(mark);
+    g.appendChild(el);
+  }
+})();
+
+// ---- house silhouettes along the hill ----
+(function(){
+  const svg = document.querySelector('.skyline');
+  const g = svg.querySelector('#houses');
+  const NS='http://www.w3.org/2000/svg';
+  // hill y at x (matches the quadratics above, approximated)
+  function hillY(x){
+    const t=x/816;
+    if(t<=0.5){ const u=t/0.5; return 108*(1-u)*(1-u)+90*2*u*(1-u)+99*u*u; }
+    const u=(t-0.5)/0.5; return 99*(1-u)*(1-u)+108*2*u*(1-u)+88*u*u;
+  }
+  function house(x, w, h, roof, chimney){
+    const y = hillY(x)+7;
+    const el=document.createElementNS(NS,'g');
+    const d=`M${x-w/2} ${y} L${x-w/2} ${y-h} L${x} ${y-h-roof} L${x+w/2} ${y-h} L${x+w/2} ${y} Z`;
+    const p=document.createElementNS(NS,'path'); p.setAttribute('d',d); el.appendChild(p);
+    if(chimney){
+      const c=document.createElementNS(NS,'rect');
+      c.setAttribute('x',x+w*0.18); c.setAttribute('y',y-h-roof*0.55);
+      c.setAttribute('width',w*0.13); c.setAttribute('height',roof*0.75);
+      el.appendChild(c);
+    }
+    // window notch (sky colored)
+    const win=document.createElementNS(NS,'rect');
+    win.setAttribute('x',x-w*0.16); win.setAttribute('y',y-h*0.66);
+    win.setAttribute('width',w*0.32); win.setAttribute('height',h*0.3);
+    win.setAttribute('fill','#245E29'); win.setAttribute('rx',1.5);
+    el.appendChild(win);
+    g.appendChild(el);
+  }
+  function tree(x, s){
+    const y=hillY(x)+6;
+    const el=document.createElementNS(NS,'g');
+    const p=document.createElementNS(NS,'path');
+    p.setAttribute('d',`M${x} ${y-34*s} L${x+9*s} ${y-14*s} L${x+4*s} ${y-14*s} L${x+11*s} ${y} L${x-11*s} ${y} L${x-4*s} ${y-14*s} L${x-9*s} ${y-14*s} Z`);
+    el.appendChild(p); g.appendChild(el);
+  }
+  const plan=[[26,40],[58,34],[96,44],[140,36],[178,42],[228,38],[268,46],[312,36],[356,42],
+              [404,38],[448,45],[492,36],[534,42],[578,38],[620,46],[664,36],[706,42],[750,38],[790,44]];
+  plan.forEach(([x,w],i)=>{
+    if(i%5===3){ tree(x, 0.78+ (i%3)*0.10); }
+    house(x, w*0.86, 16+((i*7)%5)*6, 11+((i*3)%4)*4, i%3===0);
+  });
+})();
+</script>
