@@ -7,7 +7,8 @@ hideMeta: true
 ShowToc: true
 TocOpen: true
 cover:
-    image: "hood-canal-sunny.jpg"
+    image: "the-brothers-dusk.jpg"
+    alt: "The Brothers and the Olympic Mountains silhouetted at dusk above Olympic Ridge rooftops"
 ---
 
 This page explains what Olympic Ridge homeowners can expect from HOA meeting notices, meeting records, budgets, reserve planning, assessment payments, and ACC reviews under current Washington law. It is a practical resident guide, not legal advice, and the association's recorded governing documents and current Washington statutes control if anything conflicts.

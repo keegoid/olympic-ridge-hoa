@@ -6,8 +6,8 @@ author: "HOA Board Secretary"
 tags: ["Community", "Meetings"]
 draft: false
 cover:
-    image: "olympic-ridge-main-park-header.jpg"
-    alt: "Olympic Ridge main park playground at sunset with the Olympic Mountains in the distance"
+    image: "park-playground-olympics.jpg"
+    alt: "The Olympic Ridge community park playground at golden hour with layered Olympic Mountain ridgelines behind"
 ---
 
 Join the HOA Board for the August open board meeting in the park or online. Owners are welcome to attend in person, listen through Google Meet, ask questions, and raise community concerns.

@@ -5,7 +5,8 @@ draft: false
 description: "Olympic Ridge HOA assessment amounts, billing, payment methods, and who to contact about your account."
 hideMeta: true
 cover:
-    image: "hood-canal-sunny.jpg"
+    image: "townhomes-dusk.jpg"
+    alt: "Olympic Ridge townhomes and parking areas at dusk with the sun setting over Hood Canal"
 ---
 
 "Where do I pay my HOA dues?" is one of the most common questions in the community. This page collects the answer in one place.

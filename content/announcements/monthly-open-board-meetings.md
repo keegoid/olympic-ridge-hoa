@@ -5,7 +5,8 @@ summary: "The HOA Board's regular open board meetings are scheduled for the last
 author: "HOA Board Secretary"
 draft: false
 cover:
-    image: "hood-canal-sunny.jpg"
+    image: "pink-sunrise-olympics.jpg"
+    alt: "Bands of pink and red sunrise cloud over the Olympic Mountains seen from Olympic Ridge"
 ---
 
 The HOA Board's regular open board meetings are scheduled for the last Saturday of each month at 9:00 AM Pacific Time.

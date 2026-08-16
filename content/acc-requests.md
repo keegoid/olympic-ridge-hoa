@@ -5,7 +5,8 @@ draft: false
 description: "Submit exterior modification requests and supporting project documents for HOA review."
 hideMeta: true
 cover:
-    image: "homes-sunset.jpg"
+    image: "community-green-autumn.jpg"
+    alt: "Olympic Ridge homes around a landscaped common green with a bench and red autumn maples"
 ---
 
 ## Architectural Control Committee (ACC) Requests

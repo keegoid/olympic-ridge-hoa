@@ -5,7 +5,8 @@ draft: false
 description: "Authorize the Olympic Ridge HOA to send you official notices by email or text instead of paper mail."
 hideMeta: true
 cover:
-    image: "hood-canal-sunset.jpg"
+    image: "community-night-lights.jpg"
+    alt: "Olympic Ridge lit up after dark with a red band of afterglow over Hood Canal"
 ---
 
 Paper mail is the single fastest-growing line in the community budget, and it is the one line every owner can help bring down in about two minutes.

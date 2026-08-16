@@ -6,8 +6,8 @@ summary: "A statewide drought declaration has been in effect since April 8, 2026
 author: "HOA Board Secretary"
 tags: ["Landscaping", "Community"]
 cover:
-    image: "summer-sunset.jpg"
-    alt: "Summer sunset over Olympic Ridge"
+    image: "lawn-sprinkler-sunset.jpg"
+    alt: "A lawn sprinkler running behind an Olympic Ridge home at sunset with the Olympic Mountains in haze beyond"
 ---
 
 Several neighbors have raised a fair question: what happens to yard-maintenance expectations when the state is telling everyone to use less water? Here is the Board's position, in plain terms.
