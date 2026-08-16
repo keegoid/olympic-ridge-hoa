@@ -172,20 +172,32 @@ button#theme-toggle:hover,
     inset: 0;
 }
 
+/*
+ * Hero geometry is shared by both themes on purpose, and the two photos are
+ * pixel-registered to each other: same viewpoint, and hood-canal-sunset.jpg was
+ * rescaled vertically (~1.08) and re-cropped so its treeline and horizon land on
+ * the same rows as hood-canal-sunny.jpg. The originals were cropped from their
+ * source shots at different zoom levels, so a plain offset does NOT align them;
+ * the required shift grew with height in frame (roofs ~6px, horizon ~18px,
+ * treetops ~46px). Both files are now 1960x1116 and must stay that way.
+ *
+ * If either photo is ever re-cropped or replaced, re-register the pair and keep
+ * both files identical in size. Keep rotate/scale/position identical across
+ * themes here too; per-theme values were the other half of the original jump.
+ * Scale must stay >= ~1.025 to cover the corners exposed by the tilt.
+ */
 .home-hero__image {
+    --home-hero-image-y: 62%;
     --home-hero-image-rotate: 0.65deg;
     --home-hero-image-scale: 1.035;
     z-index: -2;
     background-image: url("/hood-canal-sunny.jpg");
-    background-position: center var(--home-hero-image-y, 62%);
+    background-position: center var(--home-hero-image-y);
     background-size: cover;
     transform: scale(var(--home-hero-image-scale)) rotate(var(--home-hero-image-rotate));
 }
 
 .dark .home-hero__image {
-    --home-hero-image-y: 72%;
-    --home-hero-image-rotate: 0deg;
-    --home-hero-image-scale: 1.01;
     background-image: url("/hood-canal-sunset.jpg");
 }
 
@@ -912,7 +924,9 @@ button#theme-toggle:hover,
         background: linear-gradient(180deg, rgba(12, 24, 22, 0.68), rgba(12, 24, 22, 0.52));
     }
 
-    .dark .home-hero__image {
+    /* Narrow screens crop hard to the sides, so bias down to hold the horizon and
+       treeline in frame. Applies to both themes so the swap stays motionless. */
+    .home-hero__image {
         --home-hero-image-y: 100%;
         background-size: auto 104%;
     }
