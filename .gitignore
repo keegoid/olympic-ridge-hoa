@@ -59,3 +59,5 @@ hugo.linux
 ### Flyer build artifacts ###
 /flyer-source/welcome-flyer.build.html
 /flyer-source/preview.png
+/flyer-source/welcome-flyer-print-safe.build.html
+/flyer-source/.print-safe.build.html

@@ -40,3 +40,31 @@ await $`${CHROME} --headless --disable-gpu --hide-scrollbars --force-device-scal
 
 console.log(`wrote ${STATIC}/welcome-flyer.pdf`);
 console.log(`wrote ${DIR}/preview.png — convert to ${STATIC}/welcome-flyer.jpg for the web preview`);
+
+// --- print-safe variant -----------------------------------------------------
+// Most home and office printers cannot print to the edge of the sheet. Laser
+// printers in particular reserve a paper-grip margin — the Canon imageCLASS
+// MF750C driver reports a 5mm non-printable border on all four sides of Letter.
+// This variant shrinks the whole design to fit inside that border and centers
+// it, so nothing is clipped or rescaled by the printer. The layout is identical,
+// just fractionally smaller with a thin white frame.
+const MARGIN_IN = 5 / 25.4; // 5mm per edge
+const SCALE = Math.min(
+  (8.5 - 2 * MARGIN_IN) / 8.5,
+  (11 - 2 * MARGIN_IN) / 11,
+);
+
+const safe = html.replace(
+  "</style>",
+  `
+html, body { width:8.5in; height:11in; background:#fff; }
+body { display:flex; align-items:center; justify-content:center; overflow:hidden; }
+.page { transform: scale(${SCALE.toFixed(5)}); transform-origin: center center; flex:0 0 auto; }
+</style>`,
+);
+const safeBuilt = `${DIR}/welcome-flyer-print-safe.build.html`;
+await Bun.write(safeBuilt, safe);
+
+await $`${CHROME} --headless --disable-gpu --no-pdf-header-footer --run-all-compositor-stages-before-draw --virtual-time-budget=4000 --print-to-pdf=${STATIC}/welcome-flyer-print-safe.pdf ${safeBuilt}`.quiet();
+
+console.log(`wrote ${STATIC}/welcome-flyer-print-safe.pdf (scale ${SCALE.toFixed(4)}, ${(MARGIN_IN * 25.4).toFixed(1)}mm margin)`);

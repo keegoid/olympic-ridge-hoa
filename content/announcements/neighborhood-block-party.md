@@ -39,8 +39,16 @@ RSVPs help us plan, and volunteers are welcome. You can RSVP or sign up to help 
 </figure>
 
 <div class="action-row">
-  <a class="button button-secondary" href="/block-party-2026-saturday.jpg" download>Download the Flyer</a>
-  <a class="button button-secondary" href="/block-party-2026-saturday.png" download>Download for Printing</a>
+  <a class="button button-primary" href="/block-party-2026-saturday-print-safe.pdf" download>Download to Print</a>
+  <a class="button button-secondary" href="/block-party-2026-saturday.jpg" download>Image for Sharing</a>
+  <a class="button button-secondary" href="/block-party-2026-saturday.png" download>Full-Resolution Image</a>
+</div>
+
+<div class="content-callout">
+  <strong>Printing at home?</strong>
+  Use the PDF and choose <strong>100% or "Actual Size"</strong> in the print dialog, not "Fit to
+  Page". It is sized to leave a small margin so nothing gets clipped, because most home and office
+  printers cannot print to the edge of the sheet.
 </div>
 
 The block party is separate from our regular business meetings. Monthly open board meetings continue by Google Meet on the last Saturday of each month at 9:00 AM Pacific, with the next one on Saturday, August 29, 2026. See the [community calendar](/calendar/) for meeting details and [meeting records](/minutes/) for published minutes.

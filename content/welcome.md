@@ -12,7 +12,7 @@ cover:
 Whether you just unpacked or have been here since the first phase, welcome. Olympic Ridge is 144 homes on a bluff in Belfair, with the Olympic Mountains out front, Lynch Cove below, and Hood Canal minutes away.
 
 <div class="action-row">
-  <a class="button button-primary" href="/welcome-flyer.pdf" download>Download the Welcome Flyer</a>
+  <a class="button button-primary" href="/welcome-flyer-print-safe.pdf" download>Download the Welcome Flyer</a>
   <a class="button button-secondary" href="/rules/">Read the Community Rules</a>
 </div>
 
@@ -127,6 +127,15 @@ Between meetings they review contracts and vendor performance, follow up on arch
   <figcaption>The welcome flyer posted on the community bulletin board. Print a copy or share it with a new neighbor.</figcaption>
 </figure>
 
+<div class="content-callout">
+  <strong>Printing at home?</strong>
+  Use the standard version and choose <strong>100% or "Actual Size"</strong> in the print dialog, not
+  "Fit to Page". It already leaves a small margin so nothing gets clipped, because most home and
+  office printers cannot print to the edge of the sheet. The full-bleed version has no margin and is
+  meant for a print shop.
+</div>
+
 <div class="action-row">
-  <a class="button button-secondary" href="/welcome-flyer.pdf" download>Download the Welcome Flyer</a>
+  <a class="button button-primary" href="/welcome-flyer-print-safe.pdf" download>Download the Welcome Flyer</a>
+  <a class="button button-secondary" href="/welcome-flyer.pdf" download>Full-Bleed Version</a>
 </div>
