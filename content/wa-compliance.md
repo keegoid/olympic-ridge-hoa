@@ -22,6 +22,8 @@ This page explains what Olympic Ridge homeowners can expect from HOA meeting not
 
 Homeowners can expect at least one owner meeting each year. Owner meeting notices generally arrive not less than 14 and not more than 50 days before the meeting and include the meeting time, date, place or remote access details, and agenda items.
 
+Owners can use the [electronic-notice page](/email-consent/) to consent to email delivery, change their designated email address, or revoke consent. New consents and email changes do not take effect until the Association verifies the owner and email address and J&amp;M confirms processing.
+
 Regular board meetings are where association business is discussed and decisions are made. These meetings are open to owners except for limited executive-session topics. If a board meeting is not already included in a schedule provided to owners, homeowners should receive notice at least 14 days before the meeting with the time, date, place, remote access details if applicable, and agenda.
 
 The regular monthly open board meeting is scheduled for the last Saturday of each month at 9:00 AM Pacific Time. Look for the agenda in the [community calendar](/calendar/) entry or meeting notice. Because these meetings are for Olympic Ridge owners, the Google Meet link is not published on this public website — it was mailed to owners with the 2026 meeting schedule and is posted in the private community Facebook group. [Contact the Board](/contact/) if you need it.
