@@ -25,9 +25,9 @@ Come together with neighbors and future friends to celebrate our community. The 
 * **Get to know your community.** Learn how the HOA works and where to find community documents, rules, and meeting records.
 * **HOA Board members available for questions.** Board members will be on hand throughout the event. Bring your questions about the budget, landscaping, parking, architectural requests, or anything else on your mind.
 
-## Sign Up for Electronic Notices
+## Manage Email Notice Consent
 
-We will have electronic communication consent forms available at the event. Washington law requires each owner's written authorization before the Association can send notices by email or text. Mailing costs have risen sharply this year, and signing a form at the block party is the fastest way to help the community reduce that expense while making sure you actually receive HOA notices.
+We will have [email notice consent forms](/email-consent/) available at the event. Washington law requires each owner's written authorization before the Association can send official notices by email. Mailing costs have risen sharply this year, and signing a form at the block party is a fast way to help the community reduce that expense while making sure you actually receive HOA notices. The same form can be used to change a designated email address or revoke consent. New consents and email changes stay on paper until the Association verifies the owner and email address and J&amp;M confirms processing.
 
 ## RSVP or Volunteer
 

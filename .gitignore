@@ -61,3 +61,8 @@ hugo.linux
 /flyer-source/preview.png
 /flyer-source/welcome-flyer-print-safe.build.html
 /flyer-source/.print-safe.build.html
+
+### Private/local electronic-notice working artifacts ###
+/docs/electronic-notice-consent-process.md
+/output/
+/tmp/

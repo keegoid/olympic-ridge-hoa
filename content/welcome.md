@@ -77,8 +77,8 @@ Between meetings they review contracts and vendor performance, follow up on arch
 <div class="approval-path">
   <div class="step-card">
     <span class="step-number">1</span>
-    <strong>Sign the email consent form</strong>
-    <span>Washington law requires your written authorization before the Association can send you notices by email or text. Only 8 of about 140 mailed forms came back, and mailing costs doubled against budget. Signing up is the most direct way to bring that cost down.</span>
+    <strong>Manage email notice consent</strong>
+    <span>Washington law requires your written authorization before the Association can send you official notices by email. Only 8 of about 140 mailed forms came back, and mailing costs doubled against budget. The form lets you give consent, change your email, or revoke consent. New consents and email changes stay on paper until the Association verifies the owner and email address and J&amp;M confirms processing.</span>
   </div>
   <div class="step-card">
     <span class="step-number">2</span>
@@ -93,7 +93,7 @@ Between meetings they review contracts and vendor performance, follow up on arch
 </div>
 
 <div class="action-row">
-  <a class="button button-primary" href="/email-consent/">Sign Up for Electronic Notices</a>
+  <a class="button button-primary" href="/email-consent/">Manage Email Notices</a>
   <a class="button button-secondary" href="/calendar/">See the Community Calendar</a>
 </div>
 
