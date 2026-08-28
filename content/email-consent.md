@@ -1,8 +1,8 @@
 ---
-title: "Sign Up for Electronic Notices"
+title: "Manage Email Notice Consent"
 date: 2026-08-02
 draft: false
-description: "Authorize the Olympic Ridge HOA to send you official notices by email or text instead of paper mail."
+description: "Give, update, or revoke consent for Olympic Ridge HOA notices by email."
 hideMeta: true
 cover:
     image: "community-night-lights.jpg"
@@ -14,69 +14,85 @@ Paper mail is the single fastest-growing line in the community budget, and it is
 <div class="content-callout">
   <strong>Why this matters:</strong>
   mailing costs ran roughly $1,800 against a budgeted $875 this year — more than double. Only about
-  8 of 140 mailed consent forms have come back. Every owner who switches to electronic notices
-  removes a recurring postage and printing cost from the budget, permanently.
+  8 of 140 mailed consent forms have come back. Every owner who switches to email notices removes
+  a recurring postage and printing cost from the budget.
 </div>
 
 <div class="action-row">
-  <a class="button button-primary" href="/contact/">Sign Up Online</a>
+  <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdlx0umosJCuwMcHL-NBSpZKJiw6KNr6jg6MUCJZVtoFXuotw/viewform" target="_blank" rel="noopener noreferrer">Open the Online Form</a>
+  <a class="button button-secondary" href="/olympic-ridge-electronic-notice-form.pdf" download>Download the Paper Form</a>
 </div>
+
+The paper PDF contains one standalone page for each request type. Complete and return only the page for the action you want: consent, email change, or revocation.
 
 <div class="content-callout">
-  <strong>A dedicated sign-up form is on the way.</strong>
-  Until it is live, use the contact form and include the details listed under
-  <a href="#what-the-form-asks-for">What the form asks for</a> below. That reaches the Board directly
-  and we will get you added.
+  <strong>The form starts a request; it does not change delivery immediately.</strong>
+  Use it to give consent, change your designated email address, or revoke consent. A new consent or
+  email change stays pending until the Association independently verifies the owner, confirms control
+  of the destination email address, and receives J&amp;M Management's processing confirmation. Paper
+  notices continue until all three steps are complete.
 </div>
 
-<!--
-BOARD TODO — replace the interim contact-form link above once these are done:
-  1. Create the Google Form (fields listed in "What the form asks for" below) and point the
-     "Sign Up Online" button at its /viewform URL. Link responses to a private Google Sheet.
-     Follow the same pattern already used for ACC requests in content/acc-requests.md.
-  2. Upload a signed paper version to the HOA Google Drive folder and add a
-     "Download the Paper Form" secondary button, for owners who prefer to sign on paper.
-  3. Have J&M Management (and counsel, if the Board wants it) confirm that an online submission
-     satisfies RCW 64.90.515's "consent ... in the form of a record" requirement. See the note in
-     "Is an online form legally sufficient?" below — the statute appears to allow it, but the Board
-     should get that confirmed rather than rely on this page.
-  4. Decide who owns the response sheet and how new authorizations get handed to J&M so the
-     mailing list is actually updated. A form nobody acts on does not reduce postage.
-  5. Once live, remove the "A dedicated sign-up form is on the way" callout.
--->
+## What You Can Do
+
+The first question asks you to choose one action:
+
+* **Give consent to email notices**
+* **Change your designated email address**
+* **Revoke consent to email notices**
+
+This process is for email notices only. It does not authorize text messages.
 
 ## What You're Authorizing
 
-Washington law does not let the Association simply start emailing you. Under [RCW 64.90.515](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.515), notice by electronic transmission "is effective only upon unit owners and board members who have consented, in the form of a record, to receive electronically transmitted notices." You also designate the address or system where those notices should go.
+When you give consent, you authorize the Association and its management company to deliver official Association notices and accompanying materials to the email address you designate. The form records your owner and property information, designated email address, acknowledgement, and electronic signature.
 
-Signing up means the Association may send you meeting notices, budget and assessment materials, and other official communications by email or text instead of paper mail.
+Submitting the form is an intake step, not proof that the person submitting it is the titled owner or controls the new email address. The Association does not activate a new consent or email change based on the form alone.
 
-## You Can Change Your Mind
+## How We Verify a Request
 
-Your authorization is not permanent and not a trap.
+For a new consent or email change, the Board or J&amp;M:
 
-* **You may revoke it at any time** by delivering a revocation to the Association in the form of a record — an email to the Board or to J&M Management is enough.
-* **It revokes itself automatically** if the Association fails to deliver two consecutive electronic notices to you and the secretary becomes aware of the failure. If your email changes, you will not silently stop receiving notices.
+1. Matches the request to a titled owner and Olympic Ridge property in J&amp;M's records.
+2. Verifies the owner through a trusted contact method already on file. If no suitable trusted channel exists, a verification code may be mailed to J&amp;M's mailing address of record — never an address supplied only in the request.
+3. Separately confirms control of the new destination email using a single-use code or confirmation link sent to that email address.
+4. Records J&amp;M's confirmation before changing the current delivery status from paper to email.
 
-## What the Form Asks For
+For an email-address change, the Association also notifies the prior trusted email address and mailing address of record and provides a way to dispute an unauthorized request. Information supplied in the same form does not count as an independently trusted contact method.
 
-* Owner name (as it appears on title)
-* Property address in Olympic Ridge, including lot number if known
-* Email address for electronic notices
-* Mobile number, if you also want text notices
-* Which you consent to: email, text, or both
-* Acknowledgement that you may revoke this authorization at any time
-* Date and electronic signature
+## Revoking Consent
 
-## Is an Online Form Legally Sufficient?
+You may revoke consent at any time by delivering the Association a record of your decision. The dedicated form is the clearest route, but the Board also accepts a revocation sent by email to the Board or J&amp;M Management, or a signed paper record.
 
-Probably, and here is the reasoning so you can judge it yourself. The statute requires consent "in the form of a record," not a handwritten signature. Under the act, a record includes information stored in an electronic medium and retrievable in perceivable form — which a dated form submission preserved in a spreadsheet is. The Board is confirming this with the management company before relying on it exclusively.
+Revocation is handled conservatively: the Association stops relying exclusively on email and resumes paper delivery while it validates and processes the request. Identity uncertainty does not delay the paper fallback. The Board records the time received, notifies trusted contacts already on file, promptly sends a credible revocation to J&amp;M, and targets the same business day when practical. A later return to email requires a new, independently verified consent.
 
-If you would rather sign on paper, [contact the Board](/contact/) and we will get a form to you, or sign one in person at the annual [Neighborhood Block Party](/announcements/).
+Consent is also treated as revoked when the Association becomes aware that it could not electronically transmit two consecutive notices to the designated address. Delivery failures are recorded, the email address is suspended for official notices, J&amp;M is notified promptly, and paper delivery resumes.
+
+## How Your Record Is Processed
+
+1. The form creates a timestamped response in a private, Board-controlled register.
+2. The Board adds the request to an append-only processing log; corrections are recorded as new events rather than erasing history.
+3. New consents and email changes remain pending until owner verification and destination-email verification are complete.
+4. Verified consents and email changes are sent to J&amp;M in the agreed processing batch. Revocations and automatic suspensions are sent promptly, with a same-business-day target when practical.
+5. J&amp;M's confirmation is recorded before the current delivery status changes from paper to email.
+
+## Washington Notice Requirements
+
+Washington has more than one common-interest-community notice statute, and which chapter governs a particular association or notice can depend on facts and transition rules. This website does not make that legal determination.
+
+[RCW 64.38.110](https://app.leg.wa.gov/rcw/default.aspx?cite=64.38.110) requires written consent and a designated electronic destination for electronic notices under that chapter. It also permits written revocation and provides for revocation after two consecutive known transmission failures. [RCW 64.90.515](https://app.leg.wa.gov/rcw/default.aspx?cite=64.90.515) similarly requires consent in the form of a record and a designated destination; it also addresses revocation, consecutive transmission failures, and an owner's electronic-address confidentiality election.
+
+The form and processing log preserve the information needed to administer either framework without claiming that one chapter applies to every Olympic Ridge notice.
 
 ## Privacy
 
-Responses go to a private spreadsheet accessible to the Board and the management company. Contact information collected here is used to deliver Association notices. It is not published, not included in meeting minutes, and not shared outside the Association and its management company.
+The Association treats all owner electronic addresses as confidential. They are available only to authorized Board custodians, J&amp;M, necessary service providers, and others when disclosure is required by law. They are not published on this website or included in public meeting minutes.
+
+Each new-consent or email-change request includes this election: **to the extent RCW 64.90.515 applies, the owner elects to keep the designated electronic address confidential.** This privacy election does not itself grant consent to email delivery.
+
+The Association will not ask for Social Security numbers, birth dates, payment information, security-question answers, or copies of identification through this process.
+
+If you prefer paper, [download the fillable form](/olympic-ridge-electronic-notice-form.pdf), complete only the page for your request, and return it to a Board member or J&amp;M Management. You may also [contact the Board](/contact/) for help or use the Board or J&amp;M email contact information already provided to owners.
 
 <div class="action-row">
   <a class="button button-secondary" href="/contact/">Questions? Contact the Board</a>
