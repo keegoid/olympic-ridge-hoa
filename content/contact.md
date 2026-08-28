@@ -39,8 +39,9 @@ Your HOA Board members are elected volunteers from the Olympic Ridge community.
 
 ## Contact the Board
 
-Have a question, concern, or feedback? Use the contact form to send a message directly to the HOA Board.
+Have a question, concern, or feedback? Use the contact form to send a message directly to the HOA Board. To consent to email delivery, change your designated email address, or revoke consent, use the [electronic-notice page](/email-consent/) instead.
 
 <div class="action-row">
   <a class="button button-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSdraRIhTQYCaDdsboToocyQahDZ1zP-kIcml7TEd5Yfrvlosg/viewform" target="_blank" rel="noopener noreferrer">Open Contact Form</a>
+  <a class="button button-secondary" href="/email-consent/">Manage Email Notices</a>
 </div>
