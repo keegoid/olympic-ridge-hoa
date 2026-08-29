@@ -100,4 +100,4 @@ The Board encouraged owners who want email delivery of official notices to use t
 
 The large turnout produced many constructive ideas, including preventive Scotch broom work, volunteer yard help, better safety markings, improved homeowner education, and additional ways to reach residents who do not use social media. The Board thanked homeowners for participating and will continue evaluating the suggestions recorded above based on legal requirements, governing documents, safety, cost, and available volunteer capacity.
 
-Future regular open Board meetings will continue on the last Saturday of each month at 9:00 AM Pacific. During the colder season, meetings will return to Google Meet rather than the park. Owners should use the community calendar for meeting details and contact the Board if they need remote access information.
+Future regular open Board meetings will continue on the last Saturday of each month at 9:00 AM Pacific. During the colder season, meetings will be held remotely rather than in the park. Owners should use the community calendar for meeting details and contact the Board if they need access information.
