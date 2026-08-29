@@ -90,9 +90,20 @@ a {
 }
 
 .logo a {
+    display: inline-flex;
+    align-items: center;
     color: var(--primary);
     font-size: 1.08rem;
     letter-spacing: 0;
+}
+
+.logo a img {
+    width: auto;
+    max-width: 192px;
+    height: 48px;
+    margin-inline-end: 0;
+    border-radius: 7px;
+    transform: none;
 }
 
 button#theme-toggle,
@@ -975,6 +986,11 @@ button#theme-toggle:hover,
 
     .logo a {
         font-size: 1rem;
+    }
+
+    .logo a img {
+        max-width: 168px;
+        height: 42px;
     }
 
     .home-hero {

@@ -93,6 +93,20 @@ params:
   # Explicitly tell Hugo to use these sections for the homepage list
   mainSections: ["announcements", "minutes"]
 
+  label:
+    text: "Olympic Ridge HOA"
+    icon: "images/olympic-ridge-wordmark.png"
+    iconHeight: 48
+    hideText: true
+
+  assets:
+    favicon: "olympic-ridge-app-icon.png"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    theme_color: "#153e60"
+    msapplication_TileColor: "#153e60"
+
   homeInfoParams:
     Title: "Welcome to Olympic Ridge HOA"
     Content: "This is the central hub for news, announcements, records, and resources for our community. We are [elected volunteers](./contact#meet-the-board) dedicated to maintaining and improving our wonderful neighborhood."

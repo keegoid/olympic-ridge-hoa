@@ -60,16 +60,16 @@
                             {{- $img = $img.Resize "x30" }}
                         {{- end }}
                     {{- end }}
-                    <img src="{{ $img.Permalink }}" alt="" aria-label="logo"
+                    <img src="{{ $img.Permalink }}" alt="{{ $label_text }} logo"
                         height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- else }}
-                <img src="{{- site.Params.label.icon | absURL -}}" alt="" aria-label="logo"
+                <img src="{{- site.Params.label.icon | absURL -}}" alt="{{ $label_text }} logo"
                     height="{{- site.Params.label.iconHeight | default "30" -}}">
                 {{- end -}}
                 {{- else if hasPrefix site.Params.label.iconSVG "<svg" }}
                     {{ site.Params.label.iconSVG | safeHTML }}
                 {{- end -}}
-                {{- $label_text -}}
+                {{- if not site.Params.label.hideText }}{{- $label_text -}}{{- end }}
             </a>
             {{- if (not site.Params.disableThemeToggle) }}
             <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
