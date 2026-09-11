@@ -118,8 +118,8 @@ params:
 
   homeSafetyNotice:
     Eyebrow: "Community Event Update"
-    BadgeText: "TBD"
-    BadgeSubtext: "DATE"
+    BadgeText: "!"
+    BadgeSubtext: "UPDATE"
     Title: "Neighborhood Block Party Postponed"
     Content: "The **September 12 Neighborhood Block Party has been postponed due to weather**. A new date has not yet been announced. Please watch for rescheduling details and share the updated notice with your neighbors."
     LinkText: "See the postponement notice"
