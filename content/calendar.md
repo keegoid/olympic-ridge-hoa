@@ -35,6 +35,10 @@ Stay up-to-date with owner meetings, board meetings, community events, and impor
   <a class="button button-secondary" href="https://calendar.google.com/calendar/embed?src=0c7b205f18a1a6ed55e47e3436f5ffcbb20507d7b40483d76ac8b07e76952c02%40group.calendar.google.com&ctz=America%2FLos_Angeles" target="_blank" rel="noopener noreferrer">Open Calendar</a>
 </div>
 
+<div class="content-callout">
+  <strong>Block party postponed:</strong> The September 12, 2026 Neighborhood Block Party has been postponed due to weather. A new date has not yet been announced. <a href="/announcements/neighborhood-block-party/">Read the update and download the revised flyer.</a>
+</div>
+
 <div class="calendar-embed">
   <iframe title="Olympic Ridge HOA community calendar" src="https://calendar.google.com/calendar/embed?src=0c7b205f18a1a6ed55e47e3436f5ffcbb20507d7b40483d76ac8b07e76952c02%40group.calendar.google.com&ctz=America%2FLos_Angeles" width="100%" height="650" frameborder="0" scrolling="no"></iframe>
 </div>
