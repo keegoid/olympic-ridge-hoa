@@ -18,6 +18,8 @@ The Board reviewed the 2026 budget through midyear, collections status, unbudget
 
 These minutes originally recorded the Neighborhood Block Party as Sunday, September 13, 2026. The event was subsequently moved to **Saturday, September 12, 2026**, and the date has been corrected throughout this record. The time and location are unchanged.
 
+**September 11 update:** The September 12 block party has since been postponed due to weather. A new date has not yet been announced. See the [current event notice](/announcements/neighborhood-block-party/) for updates; the discussion below records the plans at the time of the meeting.
+
 ## Public Posting Note
 
 These minutes are a sanitized public summary of an open board meeting. Personal contact information, private family matters, individual owner names, property-specific enforcement and architectural review details, private board communication details, and confidential or sensitive discussion are omitted. No executive-session details were included in the source notes.

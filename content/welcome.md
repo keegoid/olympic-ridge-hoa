@@ -88,7 +88,7 @@ Between meetings they review contracts and vendor performance, follow up on arch
   <div class="step-card">
     <span class="step-number">3</span>
     <strong>Come to the block party</strong>
-    <span>Our once-a-year neighborhood picnic and potluck happens every September at the main park off Belfair Station. Watch the announcements for this year's date.</span>
+    <span>Our annual neighborhood picnic and potluck brings neighbors together. The September 12, 2026 block party has been postponed due to weather; a new date is to be announced. <a href="/announcements/neighborhood-block-party/">See the latest update.</a></span>
   </div>
 </div>
 

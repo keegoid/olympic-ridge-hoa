@@ -117,12 +117,12 @@ params:
     keys: ["title", "summary", "content"]
 
   homeSafetyNotice:
-    Eyebrow: "Upcoming Community Event"
-    BadgeText: "12"
-    BadgeSubtext: "SEP"
-    Title: "Olympic Ridge Neighborhood Block Party"
-    Content: "Join your neighbors on **Saturday, September 12, 2026, from 2:00 to 5:00 PM** at the Olympic Ridge main park off Belfair Station. Community picnic and potluck, meet your neighbors, and HOA Board members will be there to answer questions."
-    LinkText: "See the event details"
+    Eyebrow: "Community Event Update"
+    BadgeText: "!"
+    BadgeSubtext: "UPDATE"
+    Title: "Neighborhood Block Party Postponed"
+    Content: "The **September 12 Neighborhood Block Party has been postponed due to weather**. A new date has not yet been announced. Please watch for rescheduling details and share the updated notice with your neighbors."
+    LinkText: "See the postponement notice"
     LinkURL: "/announcements/neighborhood-block-party/"
 
   profileMode:
