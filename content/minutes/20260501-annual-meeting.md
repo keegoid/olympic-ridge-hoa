@@ -4,7 +4,7 @@ date: 2026-05-01
 location: "Zoom (Virtual)"
 summary: "Annual owner meeting notes covering quorum status, 2026 election follow-up, landscaping and scotch broom discussion, common-area picnic table, management portal, and banking updates."
 author: "HOA Board Secretary"
-tags: ["HOA Annual Meeting", "Owner Meeting"]
+tags: ["HOA Meeting"]
 draft: false
 ---
 
