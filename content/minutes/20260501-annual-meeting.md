@@ -1,5 +1,5 @@
 ---
-title: "Annual Meeting Public Summary - May 1, 2026"
+title: "May 1, 2026 — Annual Meeting — Public Summary"
 date: 2026-05-01
 location: "Zoom (Virtual)"
 summary: "Annual owner meeting notes covering quorum status, 2026 election follow-up, landscaping and scotch broom discussion, common-area picnic table, management portal, and banking updates."

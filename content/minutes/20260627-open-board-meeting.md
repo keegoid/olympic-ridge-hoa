@@ -1,5 +1,5 @@
 ---
-title: "HOA Open Board Meeting Public Summary - June 27, 2026"
+title: "June 27, 2026 — Open Board Meeting — Public Summary"
 date: 2026-06-27
 location: "Google Meet (Virtual)"
 summary: "Open board meeting notes covering board roles, open-meeting access, landscaping vendor transition, brush cleanup approval, reserve investment planning, community outreach, ACC review practices, and Fourth of July safety communication."

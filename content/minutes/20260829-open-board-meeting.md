@@ -1,5 +1,5 @@
 ---
-title: "HOA Open Board Meeting Public Summary - August 29, 2026"
+title: "August 29, 2026 — Open Board Meeting — Public Summary"
 date: 2026-08-29
 location: "Olympic Ridge Main Park and Google Meet"
 summary: "Open board meeting notes covering a completed reserve investment, budget planning, landscaping and Scotch broom maintenance, parking and road safety, enforcement practices, ACC guidance, and improved community communication."

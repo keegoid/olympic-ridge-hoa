@@ -1,5 +1,5 @@
 ---
-title: "Community Meeting Public Summary - January 16, 2026"
+title: "January 16, 2026 — Community Meeting — Public Summary"
 date: 2026-01-16
 location: "Zoom (Virtual)"
 summary: "Annual community meeting focusing on the 2026 budget approval, fee adjustments, storm pond maintenance, road safety improvements, and community infrastructure projects."
