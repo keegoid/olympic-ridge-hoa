@@ -4,7 +4,7 @@ date: 2026-01-16
 location: "Zoom (Virtual)"
 summary: "Annual community meeting focusing on the 2026 budget approval, fee adjustments, storm pond maintenance, road safety improvements, and community infrastructure projects."
 author: "HOA Board Secretary"
-tags: ["HOA Community Meeting"]
+tags: ["HOA Meeting"]
 draft: false
 ---
 
