@@ -5,8 +5,9 @@ draft: false
 summary: "The community speed limit is 25 mph. Please check your speed and slow down for children, walkers, and neighbors."
 tags: ["Safety", "Community"]
 cover:
-    image: "cul-de-sac-sunrise.jpg"
-    alt: "An Olympic Ridge cul-de-sac and lawn at sunrise, with parked cars and the Olympic Mountains beyond"
+    image: "speed-limit-25-illustration.jpg"
+    alt: "AI-generated image of a fictional neighborhood speed feedback sign showing a 25 mph limit"
+    caption: "AI-generated illustration; not a photo of an Olympic Ridge sign or enforcement device."
 ---
 
 The speed limit throughout Olympic Ridge is **25 mph**.
