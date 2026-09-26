@@ -1,5 +1,5 @@
 ---
-title: "HOA Open Board Meeting Minutes - July 25, 2026"
+title: "HOA Open Board Meeting Public Summary - July 25, 2026"
 date: 2026-07-25
 location: "Google Meet (Virtual)"
 summary: "Open board meeting notes covering the 2026 budget and collections status, reserve study planning, an approved $40,000 certificate of deposit transfer, landscaping vendor recovery, parking sign concerns and possible alternatives, an approved communication tool trial, and plans for an in-person community event."
@@ -16,13 +16,13 @@ The Board reviewed the 2026 budget through midyear, collections status, unbudget
 
 ## Correction
 
-These minutes originally recorded the Neighborhood Block Party as Sunday, September 13, 2026. The event was subsequently moved to **Saturday, September 12, 2026**, and the date has been corrected throughout this record. The time and location are unchanged.
+This summary originally recorded the Neighborhood Block Party as Sunday, September 13, 2026. The event was subsequently moved to **Saturday, September 12, 2026**, and the date has been corrected throughout this record. The time and location are unchanged.
 
 **September 11 update:** The September 12 block party has since been postponed due to weather. A new date has not yet been announced. See the [current event notice](/announcements/neighborhood-block-party/) for updates; the discussion below records the plans at the time of the meeting.
 
 ## Public Posting Note
 
-These minutes are a sanitized public summary of an open board meeting. Personal contact information, private family matters, individual owner names, property-specific enforcement and architectural review details, private board communication details, and confidential or sensitive discussion are omitted. No executive-session details were included in the source notes.
+This is a public summary of an open board meeting, not approved minutes. Personal contact information, private family matters, individual owner names, property-specific enforcement and architectural review details, private board communication details, and confidential or sensitive discussion are omitted. No executive-session details were included in the source notes.
 
 ## Meeting Details
 
@@ -54,7 +54,7 @@ These minutes are a sanitized public summary of an open board meeting. Personal 
 * **The HOA Board:** Continue working to recover costs for damage attributed to the former landscaping vendor.
 * **The HOA Board:** Follow up privately on the open architectural review matter involving structure placement and view impact.
 * **Board members and volunteers:** Distribute flyers door to door to promote the September 12 Neighborhood Block Party and increase awareness of open meetings.
-* **The board secretary:** Post the block party details and this meeting's minutes on the HOA website.
+* **The board secretary:** Post the block party details and this meeting's public summary on the HOA website.
 * **The HOA Board:** Bring electronic communication consent forms to the block party so owners can sign up for email or text notices in person.
 
 ## Summary
@@ -79,7 +79,7 @@ The Board will confirm with the Management Company which parcels the Association
 
 ### Collections
 
-The Board discussed outstanding assessments. A small number of accounts are more than two years delinquent, and total pending collections are in the range of roughly $14,000 to $16,000. Remaining balances are mostly small or already under payment arrangements. The Board will continue sending collection letters on the significantly delinquent accounts. Individual owner account details are omitted from these public minutes.
+The Board discussed outstanding assessments. A small number of accounts are more than two years delinquent, and total pending collections are in the range of roughly $14,000 to $16,000. Remaining balances are mostly small or already under payment arrangements. The Board will continue sending collection letters on the significantly delinquent accounts. Individual owner account details are omitted from this public summary.
 
 ### Reserve Study and Long-Term Planning
 
@@ -115,7 +115,7 @@ An owner reported not receiving the mailed budget and asked whether the budget i
 
 ### Architectural Review and View Impact
 
-An owner raised a concern about an approved structure and separate rooftop solar equipment affecting a view. The Board acknowledged the delay in following up, took responsibility for it, and committed to contacting the involved owners directly to look for a workable solution. The Board noted the structure was reviewed and approved through the architectural review process. Property-specific and owner-specific details are omitted from these public minutes, and the concerned owner may follow up at the August meeting if the matter is not resolved before then.
+An owner raised a concern about an approved structure and separate rooftop solar equipment affecting a view. The Board acknowledged the delay in following up, took responsibility for it, and committed to contacting the involved owners directly to look for a workable solution. The Board noted the structure was reviewed and approved through the architectural review process. Property-specific and owner-specific details are omitted from this public summary, and the concerned owner may follow up at the August meeting if the matter is not resolved before then.
 
 ### Parking Signs and Enforcement Alternatives
 

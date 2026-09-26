@@ -41,7 +41,7 @@ Olympic Ridge was developed and approved as a **self-sufficient community**. As 
 
 Reserves are behind where the reserve study says they should be. Rather than reach for a dues increase first, the Board moved $40,000 out of a non-interest-bearing checking account and into a certificate of deposit so that money earns interest instead of losing value to inflation. That interest is not profit paid to anyone — it offsets Association expenses.
 
-No dues increase is proposed. A raise is the last resort, and any change would be presented with supporting figures before it was considered. The full picture is in the [meeting minutes](/minutes/).
+No dues increase is proposed. A raise is the last resort, and any change would be presented with supporting figures before it was considered. The full picture is in the [meeting summaries](/minutes/).
 
 ## Five Neighbors, Elected
 

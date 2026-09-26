@@ -1,5 +1,5 @@
 ---
-title: "HOA Open Board Meeting Minutes - August 29, 2026"
+title: "HOA Open Board Meeting Public Summary - August 29, 2026"
 date: 2026-08-29
 location: "Olympic Ridge Main Park and Google Meet"
 summary: "Open board meeting notes covering a completed reserve investment, budget planning, landscaping and Scotch broom maintenance, parking and road safety, enforcement practices, ACC guidance, and improved community communication."
@@ -16,7 +16,7 @@ Homeowners contributed extensive comments, questions, and practical ideas throug
 
 ## Public Posting Note
 
-These minutes are a sanitized public summary of an open board meeting. Personal contact information, individual homeowner names, property-specific enforcement matters, private disputes, contractor referrals, and confidential or sensitive discussion are omitted. Private transcript and recording links are also omitted. No executive-session details were included in the source notes.
+This is a public summary of an open board meeting, not approved minutes. Personal contact information, individual homeowner names, property-specific enforcement matters, private disputes, contractor referrals, and confidential or sensitive discussion are omitted. Private transcript and recording links are also omitted. No executive-session details were included in the source notes.
 
 ## Meeting Details
 
@@ -80,7 +80,7 @@ Homeowners discussed lawn care, weeds and overgrowth, trash-container screening,
 
 The discussion distinguished normal seasonal lawn discoloration from weeds or overgrowth that may violate the governing documents. The Board will consider publishing practical lawn-care information as a community resource. General guidance does not replace the governing documents, the inspection process, or an ACC request where one is required.
 
-The Board also clarified that homeowners who believe a warning was issued in error should contact the Board for review. Property-specific enforcement matters remain private and are not included in these minutes.
+The Board also clarified that homeowners who believe a warning was issued in error should contact the Board for review. Property-specific enforcement matters remain private and are not included in this summary.
 
 ### Architectural Review and Governing Documents
 

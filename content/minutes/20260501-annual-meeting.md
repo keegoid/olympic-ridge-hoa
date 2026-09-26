@@ -1,5 +1,5 @@
 ---
-title: "Annual Meeting Minutes - May 1, 2026"
+title: "Annual Meeting Public Summary - May 1, 2026"
 date: 2026-05-01
 location: "Zoom (Virtual)"
 summary: "Annual owner meeting notes covering quorum status, 2026 election follow-up, landscaping and scotch broom discussion, common-area picnic table, management portal, and banking updates."
@@ -14,7 +14,7 @@ The annual owner meeting was called to order at 6:06 PM. The required 20% member
 
 ## Public Posting Note
 
-These minutes are a sanitized public summary of an open owner meeting. Individual homeowner names, contact details, property-specific files, and confidential materials are omitted. No executive-session details were included in the source notes.
+This is a public summary of an open owner meeting, not approved minutes. Individual homeowner names, contact details, property-specific files, and confidential materials are omitted. No executive-session details were included in the source notes.
 
 ## Meeting Details
 

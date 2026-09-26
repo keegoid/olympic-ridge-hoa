@@ -30,7 +30,7 @@ The regular monthly open board meeting is scheduled for the last Saturday of eac
 
 Owners have a reasonable opportunity to comment before board votes. Executive sessions are closed only for confidential topics such as legal matters, litigation, personnel, active contract negotiations, and privacy-sensitive matters. Final votes and final board action happen in open meeting, not in executive session.
 
-Meeting records on this website are labeled as open board meeting records, owner meeting minutes, or community records. Executive-session details may be omitted or redacted where Washington law protects confidential material.
+The meeting posts on this website are public summaries, not approved minutes. Executive-session details and other confidential material are omitted. Homeowners may request association records through the Board.
 
 ## Monthly Open Board Meetings
 

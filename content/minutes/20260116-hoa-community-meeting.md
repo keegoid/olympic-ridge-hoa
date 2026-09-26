@@ -1,5 +1,5 @@
 ---
-title: "Community Meeting Minutes - January 16, 2026"
+title: "Community Meeting Public Summary - January 16, 2026"
 date: 2026-01-16
 location: "Zoom (Virtual)"
 summary: "Annual community meeting focusing on the 2026 budget approval, fee adjustments, storm pond maintenance, road safety improvements, and community infrastructure projects."
@@ -9,6 +9,8 @@ draft: false
 ---
 
 ## Quick Recap
+
+This is a public summary of the meeting, not approved minutes.
 
 The annual community meeting reviewed the past year's accomplishments and the 2026 budget. Key discussion points included a fee increase to cover rising maintenance costs, storm pond cleanup efforts, and road safety improvements such as potential speed bumps and striping. The Board also provided updates on ongoing projects including the community website, playground planning, and landscaping.
 

@@ -86,7 +86,7 @@ The form and processing log preserve the information needed to administer either
 
 ## Privacy
 
-The Association treats all owner electronic addresses as confidential. They are available only to authorized Board custodians, J&amp;M, necessary service providers, and others when disclosure is required by law. They are not published on this website or included in public meeting minutes.
+The Association treats all owner electronic addresses as confidential. They are available only to authorized Board custodians, J&amp;M, necessary service providers, and others when disclosure is required by law. They are not published on this website or included in public meeting summaries.
 
 Each new-consent or email-change request includes this election: **to the extent RCW 64.90.515 applies, the owner elects to keep the designated electronic address confidential.** This privacy election does not itself grant consent to email delivery.
 

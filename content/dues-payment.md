@@ -31,7 +31,7 @@ Replace the "Confirming the details" callout below once these are known.
   $60 per year ($5 per month) from the previous $940 to cover rising utility and maintenance costs.
 </div>
 
-Assessments are what fund everything the Association is responsible for — snow plowing, the roads, sidewalks, and streetlights the county does not maintain, groundskeeping of the common areas, insurance, common-area repairs, and the reserve fund that pays to replace those assets as they wear out. There is more on where the money goes on the [welcome page](/welcome/) and in the published [meeting minutes](/minutes/).
+Assessments are what fund everything the Association is responsible for — snow plowing, the roads, sidewalks, and streetlights the county does not maintain, groundskeeping of the common areas, insurance, common-area repairs, and the reserve fund that pays to replace those assets as they wear out. There is more on where the money goes on the [welcome page](/welcome/) and in the published [meeting summaries](/minutes/).
 
 ## Who Bills You
 
@@ -56,7 +56,7 @@ You are also entitled to a statement of your account. Budget materials generally
 
 Contact J&M Management or the Board before it escalates. Payment arrangements are routinely used and are a normal part of how associations handle this — several accounts in the community are already on them. Unpaid assessments accrue and can eventually become a lien against the property, which is worse for everyone than a conversation now.
 
-Individual account details are confidential and are never discussed in the public portion of a board meeting or included in published minutes.
+Individual account details are confidential and are never discussed in the public portion of a board meeting or included in published meeting summaries.
 
 <div class="action-row">
   <a class="button button-primary" href="/contact/">Contact the Board</a>
