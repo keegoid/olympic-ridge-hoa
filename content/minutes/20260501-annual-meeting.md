@@ -8,63 +8,20 @@ tags: ["HOA Annual Meeting", "Owner Meeting"]
 draft: false
 ---
 
-## Quick Recap
+This is a public summary of the May 1 annual owner meeting, not approved minutes. It was held by Zoom from approximately 6:06 to 6:47 PM. Board members and a management representative participated. The required 20% membership quorum, equal to 29 lots, was not met; no votes were recorded, and election business could not proceed.
 
-The annual owner meeting was called to order at 6:06 PM. The required 20% membership quorum was not met, so election business could not proceed at this meeting. The Board and management representative reviewed prior business, discussed 2026 improvement priorities, and noted the follow-up election meeting scheduled for June 26, 2026 at 6:00 PM.
+## Topics discussed
 
-## Public Posting Note
+- **Election:** Because the required owner quorum was absent, the 2026 election was deferred. The source records a follow-up election meeting set for June 26, 2026 at 6:00 PM, with notice mailed on May 11.
+- **Prior work:** Participants reviewed landscaping, parking, safety work, the community website, pond-area signage, and hill striping.
+- **Scotch broom and landscaping:** The group discussed sidewalk cleanup and Scotch broom control. They noted that removal methods should limit seed spread, soil disturbance, resprouting, erosion, and leftover cut material.
+- **Other improvements:** A common-area picnic table was proposed. The management portal and a new banking setup were mentioned as upcoming items.
 
-This is a public summary of an open owner meeting, not approved minutes. Individual homeowner names, contact details, property-specific files, and confidential materials are omitted. No executive-session details were included in the source notes.
+## Follow-up items mentioned
 
-## Meeting Details
+- **Board and management company:** Continue the election process for the June 26 meeting.
+- **Board:** Confirm the Scotch broom cleanup approach before asking homeowners to remove plants.
+- **Management company:** Send community guidance after the Board confirms that approach.
+- **Board:** Continue evaluating landscaping, pond-area signage, hill striping, and the proposed picnic table.
 
-* **Date and time:** May 1, 2026 at 6:00 PM Pacific.
-* **Location:** Zoom.
-* **Called to order:** 6:06 PM.
-* **Adjourned:** 6:47 PM.
-* **Quorum:** The required 20% membership quorum, equal to 29 lots, was not met.
-* **Attendance:** Board members and a management representative participated.
-* **Executive session:** None recorded in the source notes.
-
-## Vote and Action Record
-
-No votes were recorded in the provided notes. Because quorum was not met, the 2026 election did not proceed at this meeting. The source notes record that a new election meeting was set for June 26, 2026 at 6:00 PM, with mailed notice sent on May 11, 2026.
-
-## Business Discussed
-
-### Re-introductions
-
-Board members and the management representative re-introduced themselves.
-
-### Old Business Updates
-
-The meeting reviewed prior business, including landscaping, safety issues already addressed, parking violations, the community website, pond-area signage, striping up the hill, and completed items.
-
-### 2026 Election
-
-Election business was deferred because quorum was not met. A follow-up meeting was scheduled for June 26, 2026 at 6:00 PM.
-
-### 2026 Community Improvements
-
-The group discussed major landscaping priorities for 2026, including sidewalk cleanup and Scotch broom control. The notes emphasized that Scotch broom removal requires care because improper removal can spread seeds, disturb soil, create resprouting, increase erosion risk, and leave flammable cut material.
-
-Best-practice guidance discussed included cutting plants at or below ground level, minimizing soil disturbance, pulling only small plants when soil is wet, using appropriate tools for larger plants, removing cut material promptly, and stabilizing cleared areas with mulch, native planting, or other cover.
-
-### Common Area Picnic Table
-
-The addition of a picnic table in a common area was raised for discussion.
-
-### Management Portal and Banking
-
-The management portal and new banking setup were noted as upcoming items.
-
-### Open Forum
-
-Open forum discussion covered the topics summarized above.
-
-## Next Steps
-
-* **Board:** Confirm the preferred course of action for Scotch broom cleanup before asking homeowners to remove plants themselves.
-* **Management Company:** Send community guidance after the Board confirms the Scotch broom cleanup approach.
-* **Board and Management Company:** Continue election follow-up for the June 26, 2026 meeting.
-* **Board:** Continue evaluating 2026 improvements, including landscaping, pond-area signage, hill striping, and the proposed common-area picnic table.
+No project approval or completed follow-up is recorded in the source notes for this meeting.
