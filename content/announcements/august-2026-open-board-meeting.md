@@ -25,7 +25,7 @@ Coffee and donuts will be provided. Bring a chair and join the conversation abou
 
 ## Join Through Google Meet
 
-The Google Meet will run at the same time for owners who prefer to participate remotely. Some Board members will also join through Meet, and the Meet transcript will be used as a working aid when preparing the meeting minutes. Published meeting records will continue to omit confidential or sensitive material.
+The Google Meet will run at the same time for owners who prefer to participate remotely. Some Board members will also join through Meet, and the Meet transcript will be used as a working aid when preparing the public meeting summary. Published summaries will continue to omit confidential or sensitive material.
 
 <div class="content-callout">
   <strong>Getting the Meet link:</strong>

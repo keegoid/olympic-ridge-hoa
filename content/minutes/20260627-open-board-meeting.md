@@ -1,5 +1,5 @@
 ---
-title: "HOA Open Board Meeting Minutes - June 27, 2026"
+title: "HOA Open Board Meeting Public Summary - June 27, 2026"
 date: 2026-06-27
 location: "Google Meet (Virtual)"
 summary: "Open board meeting notes covering board roles, open-meeting access, landscaping vendor transition, brush cleanup approval, reserve investment planning, community outreach, ACC review practices, and Fourth of July safety communication."
@@ -16,7 +16,7 @@ The Board confirmed role assignments for newly elected board members, discussed 
 
 ## Public Posting Note
 
-These minutes are a sanitized public summary of an open board meeting. Personal contact information, private family matters, individual owner names, property-specific enforcement details, private board communication details, and confidential or sensitive discussion are omitted. No executive-session details were included in the source notes.
+This is a public summary of an open board meeting, not approved minutes. Personal contact information, private family matters, individual owner names, property-specific enforcement details, private board communication details, and confidential or sensitive discussion are omitted. No executive-session details were included in the source notes.
 
 ## Meeting Details
 
@@ -45,7 +45,7 @@ These minutes are a sanitized public summary of an open board meeting. Personal 
 * **The HOA Board:** Research reserve investment options that prioritize safety, liquidity, and yield.
 * **The HOA Board:** Review reserve study corrections and updated interest assumptions before deciding whether any future reserve catch-up amount or dues adjustment is needed.
 * **A board member:** Help increase community awareness of open meetings and public HOA resources.
-* **The board secretary:** Continue updating the HOA website with meeting minutes, announcements, ACC resources, and public safety reminders.
+* **The board secretary:** Continue updating the HOA website with meeting summaries, announcements, ACC resources, and public safety reminders.
 * **The HOA Board:** Review ACC records for the pergola discussion and follow up privately with the involved owners if appropriate.
 * **The HOA Board:** Review the CC&Rs for any fireworks language and publish a Fourth of July safety reminder.
 
@@ -61,7 +61,7 @@ The Board confirmed role assignments for the newly elected board members. The Bo
 
 ### Budget, Collections, and Public Communication
 
-The Board discussed budget constraints, reserve obligations, collection notices, and the importance of explaining HOA processes clearly to homeowners. Individual owner account details are omitted from these public minutes.
+The Board discussed budget constraints, reserve obligations, collection notices, and the importance of explaining HOA processes clearly to homeowners. Individual owner account details are omitted from this public summary.
 
 ### Pond and Vegetation Maintenance
 

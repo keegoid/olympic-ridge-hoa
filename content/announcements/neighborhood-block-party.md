@@ -56,4 +56,4 @@ Please watch for the new date before making plans or sharing the original invita
   printers cannot print to the edge of the sheet.
 </div>
 
-The block party is separate from our regular business meetings. Monthly open board meetings continue by Google Meet on the last Saturday of each month at 9:00 AM Pacific. See the [community calendar](/calendar/) for meeting details and [meeting records](/minutes/) for published minutes.
+The block party is separate from our regular business meetings. Monthly open board meetings continue by Google Meet on the last Saturday of each month at 9:00 AM Pacific. See the [community calendar](/calendar/) for meeting details and [public meeting summaries](/minutes/).
