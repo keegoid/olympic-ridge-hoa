@@ -1,5 +1,5 @@
 ---
-title: "HOA Open Board Meeting Public Summary - July 25, 2026"
+title: "July 25, 2026 — Open Board Meeting — Public Summary"
 date: 2026-07-25
 location: "Google Meet (Virtual)"
 summary: "Open board meeting notes covering the 2026 budget and collections status, reserve study planning, an approved $40,000 certificate of deposit transfer, landscaping vendor recovery, parking sign concerns and possible alternatives, an approved communication tool trial, and plans for an in-person community event."

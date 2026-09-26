@@ -1,5 +1,5 @@
 ---
-title: "September 26, 2026 Open Board Meeting — Public Summary"
+title: "September 26, 2026 — Open Board Meeting — Public Summary"
 date: 2026-09-26
 summary: "Public summary of the September open board meeting, including communications, shared road maintenance, inspections, parking safety, budget planning, and community gathering ideas."
 author: "Olympic Ridge HOA Board"
