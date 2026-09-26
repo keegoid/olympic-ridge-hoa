@@ -7,35 +7,20 @@ tags: ["Community Walk-through", "Maintenance"]
 draft: false
 ---
 
-## Dangerous Trees
+This is a public summary of a community walk-through, not approved meeting minutes. The observations below identify items for evaluation; the source does not record a vote, assigned owner, deadline, or completed repair.
 
-Several dead, broken, or leaning trees were noted throughout the community, requiring specific evaluation. Many hazardous trees are on adjacent Navy land, which will require a slow permission process.
+## Topics discussed
 
-* **North side of the utility service road**: One dead tree, a couple split/broken.
-* **Park area (north of Olympic Ridge)**: At least one dead tree identified.
-* **Behind homes on Olympic Ridge**: Numerous "Widowmaker" (leaning/falling) and broken trees were noted behind several properties.
-* **Cul-de-sac (south side of Olympic Ridge)**: A dead tree was noted just to the left of the mailboxes.
-* **East side of Olympic Ridge**: Mentioned as having quite a few trees needing attention.
-* **End of Belfair Station Road**: Trees were noted as broken halfway up on potential Navy land.
+- **Trees:** Dead, broken, and leaning trees were noted near the utility service road, the park, cul-de-sacs, and other community areas. Some potentially hazardous trees may be on adjacent Navy land, so ownership and permission would need to be confirmed before work.
+- **Sidewalks:** Participants noted cracks and chips along the utility service road, Olympic Ridge, Belfair Station Road, and Ridge Top Crossing. Replacement concrete might not match the existing color.
+- **Street signs and lighting:** A warped street sign at Olympic Ridge Lane and Olympic Ridge Street, a request for lighting near the mailboxes, and a lighting gap on NE Ridgepoint Boulevard were noted.
+- **Road and utility hazards:** The walk-through noted chemical damage to cul-de-sac asphalt, a protruding property marker, burn marks on a utility box, and an uneven or noisy manhole cover.
+- **Common-area upkeep:** Landscaping near the south cul-de-sac mailboxes and on Belfair Station Road was identified for review. A visible container-storage concern was also noted without identifying the household here.
 
-## Sidewalks
+## Follow-up items mentioned
 
-Numerous cracks and chips were identified throughout the community. It was noted that replaced sections might not match the color of existing concrete.
+- Evaluate the reported tree hazards and confirm land ownership and any permission needed before removal.
+- Inspect the identified sidewalk, street sign, lighting, road-surface, property-marker, utility-box, and manhole concerns.
+- Review common-area cleanup and landscaping needs and route the container concern through the appropriate private process.
 
-* **Utility service road (south side)**: Chipped.
-* **Olympic Ridge**: Multiple chips and cracks were noted near various homes.
-* **Belfair Station Road**: Multiple chips and cracks were noted near various homes.
-* **Ridge Top Crossing**: A crack was noted at the corner.
-
-## Street Signs & Lighting
-
-The street sign at Olympic Ridge Lane & Olympic Ridge Street is warped and not aligned correctly. A request was made to add a light post across from the mailboxes. Another large gap between lights was noted on the West side of NE Ridgepoint Blvd.
-
-## Other Community Issues
-
-* **Asphalt Damage**: Chemical damage was noted on the asphalt in a cul-de-sac on Ridge Point Boulevard.
-* **Improperly Stored Container**: A large, blue metal recycling container is being stored visibly from the street near a home on Olympic Ridge.
-* **Property Line Marker Hazard**: A piece of rebar between two properties on Olympic Ridge is sticking up, creating a tripping hazard.
-* **Burned Electrical Box**: An electrical/gas pipeline box in front of a home on Olympic Ridge has burn marks.
-* **Manhole Covers**: A manhole cover on Belfair Station Road is slightly off-balance and makes noise.
-* **Poorly Maintained Common Areas**: An area near the south cul-de-sac mailboxes and a grassy area on Belfair Station Road need cleanup and better landscaping.
+The source records observations and suggested follow-up, not decisions or verified closeout.
