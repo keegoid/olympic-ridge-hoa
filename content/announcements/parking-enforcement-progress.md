@@ -4,6 +4,10 @@ date: 2026-09-14
 draft: false
 summary: "The Board has documented 73 parking violations and five confirmed vehicle removals since December 2025. Here is an update on that work and how neighbors can help."
 tags: ["Parking", "Safety", "Community"]
+cover:
+    image: "parking-enforcement-clear-street.jpg"
+    alt: "AI-generated illustration of a clear residential street, crosswalk, and unobstructed sidewalk"
+    caption: "AI-generated illustration; not a photo of Olympic Ridge or a parking incident."
 ---
 
 The HOA Board is actively documenting parking violations and following through on enforcement. Keeping fire lanes, sidewalks, and access routes clear remains a priority for our neighborhood.
