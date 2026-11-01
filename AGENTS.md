@@ -1,12 +1,24 @@
-# Agent Workflow
+# Website source and agent workflow
 
-This repo participates in Keegoid LLC's bot-identity PR flow.
-Agents MUST use the helpers in `~/keegoid/CLAUDE.md`:
+The intended checkout is `~/repos/olympic-ridge-hoa`, backed by the public
+`keegoid/olympic-ridge-hoa` repository. Private board tools belong in the separate
+`~/repos/board-workspace` checkout; never add private records, snapshots,
+credentials, transcripts or resident information to this public website.
 
-- Commits: `~/keegoid/bin/git-as <bot> ...` (never raw `git commit`).
-- GitHub actions: `~/keegoid/bin/gh-as <bot> ...` (never raw `gh`).
-- PR flow: `~/keegoid/bin/agent-pr-flow`.
+Follow the current workflow in `~/keegoid/CLAUDE.md` and use helpers under
+`~/keegoid/ops/bin/`:
 
-Bot identities: `keegoid-fig`, `keegoid-codex`. Reviewer identity must
-match the required reviewer label on the PR — do not run a review under
-the wrong bot.
+- Commits: `git-as fig` through `agent-pr-flow commit`.
+- GitHub actions: `gh-as fig`; never use the human identity for agent work.
+- PR flow: `agent-pr-flow`, with `--actor fig --model codex` for Codex-backed
+  changes and the required independent Claude review of the current head.
+
+Before building a fresh clone, initialize the existing pinned theme:
+
+    git submodule update --init --recursive -- themes/PaperMod
+    hugo --minify
+
+Keep the pinned theme revision unless an upgrade is separately requested.
+A successful local build does not authorize publishing. A main-branch merge can
+trigger connected hosting, so respect the requested publication scope before
+merging changes. Checkout preparation alone must not redeploy the live website.
