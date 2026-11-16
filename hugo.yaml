@@ -116,15 +116,6 @@ params:
     ignoreLocation: true
     keys: ["title", "summary", "content"]
 
-  homeSafetyNotice:
-    Eyebrow: "Community Event Update"
-    BadgeText: "!"
-    BadgeSubtext: "UPDATE"
-    Title: "Neighborhood Block Party Postponed"
-    Content: "The **September 12 Neighborhood Block Party has been postponed due to weather**. A new date has not yet been announced. Please watch for rescheduling details and share the updated notice with your neighbors."
-    LinkText: "See the postponement notice"
-    LinkURL: "/announcements/neighborhood-block-party/"
-
   profileMode:
     enabled: false # Set to 'true' if you want a profile-style homepage instead of a list of posts
 
