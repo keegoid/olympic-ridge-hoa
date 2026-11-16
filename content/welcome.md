@@ -72,7 +72,7 @@ Your Board is five owners who live here. None of them are paid.
 
 Between meetings they review contracts and vendor performance, follow up on architectural requests, chase down delinquent accounts, and walk the neighborhood looking for dead trees, cracked sidewalks, and dark corners. Day-to-day management is handled by J&M Management.
 
-## Three Things You Can Do
+## Things You Can Do
 
 <div class="approval-path">
   <div class="step-card">
@@ -84,11 +84,6 @@ Between meetings they review contracts and vendor performance, follow up on arch
     <span class="step-number">2</span>
     <strong>Sit in on a meeting</strong>
     <span>Open board meetings are the last Saturday of each month at 9:00 AM Pacific by Google Meet, and any owner may attend to listen or raise an issue. Dates are on the community calendar. The Google Meet link is not published on this public site — it was mailed to owners with the 2026 meeting schedule and is posted in the private community Facebook group.</span>
-  </div>
-  <div class="step-card">
-    <span class="step-number">3</span>
-    <strong>Come to the block party</strong>
-    <span>Our annual neighborhood picnic and potluck brings neighbors together. The September 12, 2026 block party has been postponed due to weather; a new date is to be announced. <a href="/announcements/neighborhood-block-party/">See the latest update.</a></span>
   </div>
 </div>
 
