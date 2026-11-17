@@ -98,12 +98,18 @@ a {
 }
 
 .logo a img {
-    width: auto;
+    width: 192px;
+    object-fit: cover;
     max-width: 192px;
     height: 48px;
     margin-inline-end: 0;
-    border-radius: 7px;
+    border-radius: 0;
+    filter: brightness(0);
     transform: none;
+}
+
+.dark .logo a img {
+    filter: brightness(0) invert(1);
 }
 
 button#theme-toggle,
@@ -894,11 +900,13 @@ button#theme-toggle:hover,
     }
 
     .logo-switches {
+        flex-shrink: 0;
         margin-right: 0;
         margin-left: auto;
     }
 
     #menu-toggle {
+        white-space: nowrap;
         display: inline-flex;
         width: auto;
         gap: 7px;
@@ -1008,6 +1016,7 @@ button#theme-toggle:hover,
     }
 
     .logo a img {
+        width: 168px;
         max-width: 168px;
         height: 42px;
     }
@@ -1064,5 +1073,12 @@ button#theme-toggle:hover,
 
     .community-safety-copy h2 {
         font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .logo {
+        gap: 4px;
+        margin-inline: 12px;
     }
 }

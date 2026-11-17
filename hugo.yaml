@@ -99,7 +99,7 @@ params:
 
   label:
     text: "Olympic Ridge HOA"
-    icon: "images/olympic-ridge-wordmark.png"
+    icon: "images/olympic-ridge-wordmark-transparent.png"
     iconHeight: 48
     hideText: true
 
