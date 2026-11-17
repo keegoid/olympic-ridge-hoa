@@ -53,6 +53,10 @@ menu:
       name: Request Approval
       url: /acc-requests/
       weight: 50
+    - identifier: budget-reserves
+      name: Budget & Reserves
+      url: /budget-reserves/
+      weight: 53
     - identifier: dues-payment
       name: Pay Dues
       url: /dues-payment/
