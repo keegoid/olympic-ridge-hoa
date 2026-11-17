@@ -1082,3 +1082,29 @@ button#theme-toggle:hover,
         margin-inline: 12px;
     }
 }
+
+/* Keep desktop branding and navigation together instead of stacking blocks. */
+@media screen and (min-width: 1401px) {
+    .nav {
+        flex-wrap: nowrap;
+        padding-block: 8px;
+    }
+
+    .logo {
+        flex: 0 0 auto;
+        flex-wrap: nowrap;
+        margin-inline-end: 16px;
+    }
+
+    #menu {
+        flex: 1 1 0;
+        margin-inline-start: 0;
+        justify-content: flex-start;
+        column-gap: 4px;
+        row-gap: 0;
+    }
+
+    #menu li + li {
+        margin-inline-start: 0;
+    }
+}
