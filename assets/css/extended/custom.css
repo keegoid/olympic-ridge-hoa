@@ -134,6 +134,9 @@ button#theme-toggle:hover,
     align-items: center;
     gap: 4px;
     overflow: visible;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-width: 0;
 }
 
 #menu li + li {
@@ -873,7 +876,7 @@ button#theme-toggle:hover,
     color: var(--secondary);
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1400px) {
     .nav {
         flex-wrap: nowrap;
     }
@@ -885,17 +888,22 @@ button#theme-toggle:hover,
 
     .logo a {
         overflow: hidden;
-        max-width: calc(100vw - 148px);
+        max-width: calc(100vw - 180px);
         text-overflow: ellipsis;
         white-space: nowrap;
     }
 
     .logo-switches {
-        margin-right: var(--gap);
+        margin-right: 0;
+        margin-left: auto;
     }
 
     #menu-toggle {
         display: inline-flex;
+        width: auto;
+        gap: 7px;
+        padding: 0 12px;
+        min-height: 44px;
     }
 
     #menu {
@@ -903,19 +911,25 @@ button#theme-toggle:hover,
     }
 
     #menu.show-menu {
-        position: fixed;
-        top: calc(var(--header-height) + 8px);
+        position: absolute;
+        top: calc(100% + 8px);
         right: 16px;
-        left: 16px;
+        left: auto;
         display: grid;
+        justify-content: stretch;
         gap: 4px;
-        width: auto;
+        width: min(360px, calc(100% - 32px));
         margin: 0;
         border: 1px solid var(--border);
         border-radius: var(--radius);
         background: var(--entry);
         box-shadow: var(--shadow-md);
         padding: 8px;
+        max-height: calc(100vh - var(--header-height) - 24px);
+        max-height: calc(100dvh - var(--header-height) - 24px);
+        overflow-y: auto;
+        overscroll-behavior: contain;
+        white-space: normal;
         z-index: 1001;
     }
 
@@ -924,9 +938,14 @@ button#theme-toggle:hover,
     }
 
     #menu.show-menu a {
-        padding: 14px 12px;
+        display: block;
+        padding: 12px;
+        min-height: 44px;
     }
 
+}
+
+@media (max-width: 900px) {
     .home-hero {
         min-height: 560px;
     }
