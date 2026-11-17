@@ -33,8 +33,23 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
+    const compactLayout = window.matchMedia('(max-width: 1400px)');
+    compactLayout.addEventListener('change', function () {
+        const focusedInMenu = menu.contains(document.activeElement);
+        setMenuOpen(false);
+        if (compactLayout.matches && focusedInMenu) menuToggle.focus();
+    });
+
+    window.addEventListener('pageshow', function () { setMenuOpen(false); });
+
+    nav.addEventListener('focusout', function () {
+        requestAnimationFrame(function () {
+            if (!nav.contains(document.activeElement)) setMenuOpen(false);
+        });
+    });
+
     document.addEventListener('keydown', function (event) {
-        if (event.key === 'Escape') {
+        if (event.key === 'Escape' && menu.classList.contains('show-menu')) {
             setMenuOpen(false);
             menuToggle.focus();
         }
